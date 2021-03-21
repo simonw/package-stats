@@ -30,8 +30,8 @@ jobs:
         eval "python fetch_stats.py stats.json --verbose --sleep 10 datasette sqlite-utils $(curl -s 'https://datasette.io/content.json?sql=select%20group_concat(substr(nameWithOwner%2C%20instr(nameWithOwner%2C%20%27%2F%27)%20%2B%201)%2C%20%27%20%27)%20from%20datasette_repos%3B&_shape=arrayfirst' | jq '.[0]' -r)"
     - name: Fetch latest Homebrew stats
       run: |
-        curl -o homebrew-datasette.json https://formulae.brew.sh/api/formula/datasette.json
-        curl -o homebrew-sqlite-utils.json https://formulae.brew.sh/api/formula/sqlite-utils.json
+        curl https://formulae.brew.sh/api/formula/datasette.json | jq . > homebrew-datasette.json
+        curl https://formulae.brew.sh/api/formula/sqlite-utils.json | jq . > homebrew-sqlite-utils.json
     - name: Commit and push if s changed
       run: |-
         git config user.name "Automated"
