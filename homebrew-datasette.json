@@ -46,6 +46,11 @@
           "cellar": ":any_skip_relocation",
           "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:2435b6212a11160c0fee4564ed0946a1b3b923560716b3b9f8212e1cc831235b",
           "sha256": "2435b6212a11160c0fee4564ed0946a1b3b923560716b3b9f8212e1cc831235b"
+        },
+        "x86_64_linux": {
+          "cellar": ":any_skip_relocation",
+          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:4f8b8c2ab39e9eb1836e43a793ba00d68aec3a3231e10979564726abc14c5476",
+          "sha256": "4f8b8c2ab39e9eb1836e43a793ba00d68aec3a3231e10979564726abc14c5476"
         }
       }
     }
@@ -76,24 +81,24 @@
   "analytics": {
     "install": {
       "30d": {
-        "datasette": 208
+        "datasette": 166
       },
       "90d": {
-        "datasette": 477
+        "datasette": 480
       },
       "365d": {
-        "datasette": 1408
+        "datasette": 1417
       }
     },
     "install_on_request": {
       "30d": {
-        "datasette": 208
+        "datasette": 166
       },
       "90d": {
-        "datasette": 477
+        "datasette": 480
       },
       "365d": {
-        "datasette": 1408
+        "datasette": 1417
       }
     },
     "build_error": {
@@ -102,5 +107,5 @@
       }
     }
   },
-  "generated_date": "2021-07-08"
+  "generated_date": "2021-07-10"
 }
