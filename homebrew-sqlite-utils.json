@@ -46,6 +46,11 @@
           "cellar": ":any_skip_relocation",
           "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:72ab871b0f8f851e1614d209a08bc012cc250e4ea912c7ac6bea59436eef69ed",
           "sha256": "72ab871b0f8f851e1614d209a08bc012cc250e4ea912c7ac6bea59436eef69ed"
+        },
+        "x86_64_linux": {
+          "cellar": ":any_skip_relocation",
+          "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:f6f7d0d9686b5a8670dcfcbd2d3a436365b69e347a9bdc2e2b797b284aee6257",
+          "sha256": "f6f7d0d9686b5a8670dcfcbd2d3a436365b69e347a9bdc2e2b797b284aee6257"
         }
       }
     }
@@ -77,24 +82,24 @@
   "analytics": {
     "install": {
       "30d": {
-        "sqlite-utils": 510
-      },
-      "90d": {
-        "sqlite-utils": 839
-      },
-      "365d": {
-        "sqlite-utils": 2066
-      }
-    },
-    "install_on_request": {
-      "30d": {
         "sqlite-utils": 511
       },
       "90d": {
         "sqlite-utils": 840
       },
       "365d": {
-        "sqlite-utils": 2065
+        "sqlite-utils": 2071
+      }
+    },
+    "install_on_request": {
+      "30d": {
+        "sqlite-utils": 512
+      },
+      "90d": {
+        "sqlite-utils": 841
+      },
+      "365d": {
+        "sqlite-utils": 2070
       }
     },
     "build_error": {
@@ -103,5 +108,5 @@
       }
     }
   },
-  "generated_date": "2021-07-11"
+  "generated_date": "2021-07-12"
 }
