@@ -82,24 +82,24 @@
   "analytics": {
     "install": {
       "30d": {
-        "sqlite-utils": 276
+        "sqlite-utils": 263
       },
       "90d": {
-        "sqlite-utils": 849
+        "sqlite-utils": 852
       },
       "365d": {
-        "sqlite-utils": 2116
+        "sqlite-utils": 2119
       }
     },
     "install_on_request": {
       "30d": {
-        "sqlite-utils": 276
+        "sqlite-utils": 263
       },
       "90d": {
-        "sqlite-utils": 850
+        "sqlite-utils": 853
       },
       "365d": {
-        "sqlite-utils": 2115
+        "sqlite-utils": 2118
       }
     },
     "build_error": {
@@ -108,5 +108,5 @@
       }
     }
   },
-  "generated_date": "2021-07-24"
+  "generated_date": "2021-07-25"
 }
