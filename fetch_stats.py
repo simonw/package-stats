@@ -24,6 +24,9 @@ def cli(stats_file, packages, sleep, verbose):
             package
         )
         response = httpx.get(url)
+        if response.status_code == 404:
+            click.echo("Got 404 for {}".format(package), err=True)
+            continue
         response.raise_for_status()
         raw_stats = response.json()["data"]
         # Re-arrange into date: number dictionary
