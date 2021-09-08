@@ -32,6 +32,9 @@ jobs:
       run: |
         curl https://formulae.brew.sh/api/formula/datasette.json | jq . > homebrew-datasette.json
         curl https://formulae.brew.sh/api/formula/sqlite-utils.json | jq . > homebrew-sqlite-utils.json
+    - name: Fetch latest GitHub releases stats for datasette-app
+      run: |
+        curl https://api.github.com/repos/simonw/datasette-app/releases | jq . > datasette-app-releases.json
     - name: Commit and push if s changed
       run: |-
         git config user.name "Automated"
