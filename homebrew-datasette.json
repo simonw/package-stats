@@ -84,10 +84,10 @@
         "datasette": 118
       },
       "90d": {
-        "datasette": 514
+        "datasette": 509
       },
       "365d": {
-        "datasette": 1780
+        "datasette": 1783
       }
     },
     "install_on_request": {
@@ -95,10 +95,10 @@
         "datasette": 118
       },
       "90d": {
-        "datasette": 514
+        "datasette": 509
       },
       "365d": {
-        "datasette": 1780
+        "datasette": 1783
       }
     },
     "build_error": {
@@ -107,5 +107,5 @@
       }
     }
   },
-  "generated_date": "2021-09-11"
+  "generated_date": "2021-09-12"
 }
