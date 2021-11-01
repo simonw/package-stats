@@ -113,5 +113,34 @@
       }
     }
   },
+  "analytics-linux": {
+    "install": {
+      "30d": {
+        "datasette": 3
+      },
+      "90d": {
+        "datasette": 9
+      },
+      "365d": {
+        "datasette": 58
+      }
+    },
+    "install_on_request": {
+      "30d": {
+        "datasette": 3
+      },
+      "90d": {
+        "datasette": 9
+      },
+      "365d": {
+        "datasette": 59
+      }
+    },
+    "build_error": {
+      "30d": {
+        "datasette": 0
+      }
+    }
+  },
   "generated_date": "2021-11-01"
 }
