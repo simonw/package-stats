@@ -87,24 +87,24 @@
   "analytics": {
     "install": {
       "30d": {
-        "datasette": 312
+        "datasette": 319
       },
       "90d": {
-        "datasette": 526
+        "datasette": 534
       },
       "365d": {
-        "datasette": 2109
+        "datasette": 2118
       }
     },
     "install_on_request": {
       "30d": {
-        "datasette": 312
+        "datasette": 319
       },
       "90d": {
-        "datasette": 526
+        "datasette": 534
       },
       "365d": {
-        "datasette": 2109
+        "datasette": 2118
       }
     },
     "build_error": {
@@ -142,5 +142,5 @@
       }
     }
   },
-  "generated_date": "2021-11-03"
+  "generated_date": "2021-11-04"
 }
