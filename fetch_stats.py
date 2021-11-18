@@ -16,6 +16,7 @@ import time
 def cli(stats_file, packages, sleep, verbose):
     "Fetch latest PyPI stats for these packages and write them disk"
     path = pathlib.Path(stats_file)
+    data = {}
     for package in packages:
         url = "https://pypistats.org/api/packages/{}/overall?mirrors=true".format(
             package
@@ -27,7 +28,7 @@ def cli(stats_file, packages, sleep, verbose):
         response.raise_for_status()
         raw_stats = response.json()["data"]
         # Re-arrange into date: number dictionary
-        package_stats = {rs["date"]: rs["downloads"] for rs in raw_stats}
+        data[package] = {rs["date"]: rs["downloads"] for rs in raw_stats}
         if verbose:
             print("Fetched {}, {} days".format(package, len(data[package])))
         if sleep:
