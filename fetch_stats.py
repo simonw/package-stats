@@ -14,11 +14,8 @@ import time
 @click.option("--sleep", type=float)
 @click.option("-v", "--verbose", is_flag=True)
 def cli(stats_file, packages, sleep, verbose):
+    "Fetch latest PyPI stats for these packages and write them disk"
     path = pathlib.Path(stats_file)
-    if path.exists():
-        data = json.load(path.open())
-    else:
-        data = {}
     for package in packages:
         url = "https://pypistats.org/api/packages/{}/overall?mirrors=true".format(
             package
@@ -31,8 +28,6 @@ def cli(stats_file, packages, sleep, verbose):
         raw_stats = response.json()["data"]
         # Re-arrange into date: number dictionary
         package_stats = {rs["date"]: rs["downloads"] for rs in raw_stats}
-        # Combine that with the existing stats for this package
-        data[package] = {**(data.get("package") or {}), **package_stats}
         if verbose:
             print("Fetched {}, {} days".format(package, len(data[package])))
         if sleep:
