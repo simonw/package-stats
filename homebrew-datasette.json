@@ -87,24 +87,24 @@
   "analytics": {
     "install": {
       "30d": {
-        "datasette": 401
+        "datasette": 370
       },
       "90d": {
-        "datasette": 737
+        "datasette": 740
       },
       "365d": {
-        "datasette": 2364
+        "datasette": 2368
       }
     },
     "install_on_request": {
       "30d": {
-        "datasette": 402
+        "datasette": 371
       },
       "90d": {
-        "datasette": 738
+        "datasette": 741
       },
       "365d": {
-        "datasette": 2365
+        "datasette": 2369
       }
     },
     "build_error": {
@@ -116,7 +116,7 @@
   "analytics-linux": {
     "install": {
       "30d": {
-        "datasette": 4
+        "datasette": 2
       },
       "90d": {
         "datasette": 10
@@ -127,7 +127,7 @@
     },
     "install_on_request": {
       "30d": {
-        "datasette": 4
+        "datasette": 2
       },
       "90d": {
         "datasette": 10
@@ -142,5 +142,5 @@
       }
     }
   },
-  "generated_date": "2021-11-26"
+  "generated_date": "2021-11-27"
 }
