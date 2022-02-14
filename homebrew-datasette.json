@@ -88,24 +88,24 @@
   "analytics": {
     "install": {
       "30d": {
-        "datasette": 446
+        "datasette": 417
       },
       "90d": {
-        "datasette": 963
+        "datasette": 937
       },
       "365d": {
-        "datasette": 2690
+        "datasette": 2693
       }
     },
     "install_on_request": {
       "30d": {
-        "datasette": 444
+        "datasette": 415
       },
       "90d": {
-        "datasette": 961
+        "datasette": 935
       },
       "365d": {
-        "datasette": 2690
+        "datasette": 2693
       }
     },
     "build_error": {
@@ -120,10 +120,10 @@
         "datasette": 3
       },
       "90d": {
-        "datasette": 13
+        "datasette": 12
       },
       "365d": {
-        "datasette": 52
+        "datasette": 51
       }
     },
     "install_on_request": {
@@ -131,10 +131,10 @@
         "datasette": 3
       },
       "90d": {
-        "datasette": 13
+        "datasette": 12
       },
       "365d": {
-        "datasette": 53
+        "datasette": 52
       }
     },
     "build_error": {
@@ -143,5 +143,5 @@
       }
     }
   },
-  "generated_date": "2022-02-13"
+  "generated_date": "2022-02-14"
 }
