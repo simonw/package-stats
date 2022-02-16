@@ -89,24 +89,24 @@
   "analytics": {
     "install": {
       "30d": {
-        "sqlite-utils": 587
+        "sqlite-utils": 584
       },
       "90d": {
-        "sqlite-utils": 1403
+        "sqlite-utils": 1390
       },
       "365d": {
-        "sqlite-utils": 4209
+        "sqlite-utils": 4185
       }
     },
     "install_on_request": {
       "30d": {
-        "sqlite-utils": 586
+        "sqlite-utils": 583
       },
       "90d": {
-        "sqlite-utils": 1401
+        "sqlite-utils": 1388
       },
       "365d": {
-        "sqlite-utils": 4208
+        "sqlite-utils": 4184
       }
     },
     "build_error": {
@@ -118,7 +118,7 @@
   "analytics-linux": {
     "install": {
       "30d": {
-        "sqlite-utils": 4
+        "sqlite-utils": 3
       },
       "90d": {
         "sqlite-utils": 15
@@ -129,7 +129,7 @@
     },
     "install_on_request": {
       "30d": {
-        "sqlite-utils": 4
+        "sqlite-utils": 3
       },
       "90d": {
         "sqlite-utils": 15
@@ -144,5 +144,5 @@
       }
     }
   },
-  "generated_date": "2022-02-15"
+  "generated_date": "2022-02-16"
 }
