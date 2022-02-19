@@ -88,24 +88,24 @@
   "analytics": {
     "install": {
       "30d": {
-        "datasette": 404
+        "datasette": 397
+      },
+      "90d": {
+        "datasette": 929
+      },
+      "365d": {
+        "datasette": 2711
+      }
+    },
+    "install_on_request": {
+      "30d": {
+        "datasette": 395
       },
       "90d": {
         "datasette": 927
       },
       "365d": {
-        "datasette": 2710
-      }
-    },
-    "install_on_request": {
-      "30d": {
-        "datasette": 402
-      },
-      "90d": {
-        "datasette": 925
-      },
-      "365d": {
-        "datasette": 2710
+        "datasette": 2711
       }
     },
     "build_error": {
@@ -143,5 +143,5 @@
       }
     }
   },
-  "generated_date": "2022-02-18"
+  "generated_date": "2022-02-19"
 }
