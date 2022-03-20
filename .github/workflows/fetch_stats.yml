@@ -30,9 +30,17 @@ jobs:
     - name: Fetch latest PyPI stats once every 24 hours
       continue-on-error: true
       if: |-
-        (github.event_name == 'schedule' && github.event.schedule == '41 19 * * *')
+        github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && github.event.schedule == '41 19 * * *')
       run: |
-        eval "python fetch_stats.py stats.json --verbose --sleep 20 datasette sqlite-utils $(curl -s 'https://datasette.io/content.json?sql=select%20group_concat(substr(nameWithOwner%2C%20instr(nameWithOwner%2C%20%27%2F%27)%20%2B%201)%2C%20%27%20%27)%20from%20datasette_repos%3B&_shape=arrayfirst' | jq '.[0]' -r)"
+        packages=$(curl -s 'https://datasette.io/content.json?sql=select%20group_concat(substr(nameWithOwner%2C%20instr(nameWithOwner%2C%20%27%2F%27)%20%2B%201)%2C%20%27%20%27)%20from%20datasette_repos%3B&_shape=arrayfirst' | jq '.[0]' -r) 
+        eval "python fetch_stats.py stats.json --verbose --sleep 20 datasette sqlite-utils $packages"
+        # Now do the full by-system for each one
+        mkdir -p packages-by-system
+        for package in $packages
+        do
+          curl -s https://pypistats.org/api/packages/$package/system | jq > packages-by-system/$package.json
+          sleep 20
+        done
     - name: Fetch latest Homebrew stats
       run: |
         curl https://formulae.brew.sh/api/formula/datasette.json | jq . > homebrew-datasette.json
