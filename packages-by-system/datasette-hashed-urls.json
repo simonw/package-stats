@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "category": "Linux",
+      "date": "2022-03-15",
+      "downloads": 8
+    },
+    {
+      "category": "Linux",
+      "date": "2022-03-16",
+      "downloads": 7
+    },
+    {
+      "category": "Linux",
+      "date": "2022-03-19",
+      "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2022-03-15",
+      "downloads": 24
+    },
+    {
+      "category": "null",
+      "date": "2022-03-16",
+      "downloads": 45
+    },
+    {
+      "category": "null",
+      "date": "2022-03-17",
+      "downloads": 18
+    },
+    {
+      "category": "null",
+      "date": "2022-03-18",
+      "downloads": 14
+    },
+    {
+      "category": "null",
+      "date": "2022-03-19",
+      "downloads": 4
+    }
+  ],
+  "package": "datasette-hashed-urls",
+  "type": "system_downloads"
+}
