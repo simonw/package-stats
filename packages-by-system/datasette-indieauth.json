@@ -12,11 +12,6 @@
     },
     {
       "category": "Linux",
-      "date": "2021-09-27",
-      "downloads": 1
-    },
-    {
-      "category": "Linux",
       "date": "2021-09-28",
       "downloads": 1
     },
@@ -911,8 +906,8 @@
       "downloads": 1
     },
     {
-      "category": "null",
-      "date": "2021-09-27",
+      "category": "Linux",
+      "date": "2022-03-27",
       "downloads": 1
     },
     {
@@ -1294,6 +1289,11 @@
       "category": "null",
       "date": "2022-03-25",
       "downloads": 18
+    },
+    {
+      "category": "null",
+      "date": "2022-03-27",
+      "downloads": 1
     }
   ],
   "package": "datasette-indieauth",
