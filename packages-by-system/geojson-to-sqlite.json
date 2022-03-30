@@ -337,11 +337,6 @@
     },
     {
       "category": "null",
-      "date": "2021-09-29",
-      "downloads": 1
-    },
-    {
-      "category": "null",
       "date": "2021-10-01",
       "downloads": 1
     },
@@ -706,6 +701,11 @@
       "downloads": 11
     },
     {
+      "category": "null",
+      "date": "2022-03-29",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2021-10-01",
       "downloads": 2
@@ -819,6 +819,11 @@
       "category": "Windows",
       "date": "2022-03-28",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2022-03-29",
+      "downloads": 1
     }
   ],
   "package": "geojson-to-sqlite",
