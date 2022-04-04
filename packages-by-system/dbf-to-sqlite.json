@@ -912,11 +912,6 @@
     },
     {
       "category": "Windows",
-      "date": "2021-10-04",
-      "downloads": 3
-    },
-    {
-      "category": "Windows",
       "date": "2021-10-05",
       "downloads": 1
     },
@@ -1309,6 +1304,11 @@
       "category": "Windows",
       "date": "2022-04-02",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2022-04-03",
+      "downloads": 2
     }
   ],
   "package": "dbf-to-sqlite",
