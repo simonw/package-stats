@@ -1,14 +1,29 @@
 {
   "data": [
     {
+      "category": "Darwin",
+      "date": "2022-04-08",
+      "downloads": 1
+    },
+    {
       "category": "Linux",
       "date": "2022-04-07",
       "downloads": 1
     },
     {
+      "category": "Linux",
+      "date": "2022-04-08",
+      "downloads": 13
+    },
+    {
       "category": "null",
       "date": "2022-04-07",
       "downloads": 18
+    },
+    {
+      "category": "null",
+      "date": "2022-04-08",
+      "downloads": 121
     }
   ],
   "package": "pypi-to-sqlite",
