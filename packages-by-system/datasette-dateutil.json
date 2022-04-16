@@ -122,11 +122,6 @@
     },
     {
       "category": "Linux",
-      "date": "2021-10-16",
-      "downloads": 1
-    },
-    {
-      "category": "Linux",
       "date": "2021-10-17",
       "downloads": 1
     },
@@ -1026,6 +1021,11 @@
       "downloads": 63
     },
     {
+      "category": "Linux",
+      "date": "2022-04-15",
+      "downloads": 2
+    },
+    {
       "category": "null",
       "date": "2021-10-19",
       "downloads": 1
@@ -1574,6 +1574,11 @@
       "category": "Windows",
       "date": "2022-04-09",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2022-04-15",
+      "downloads": 1
     }
   ],
   "package": "datasette-dateutil",
