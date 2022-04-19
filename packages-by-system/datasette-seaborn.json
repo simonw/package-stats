@@ -522,11 +522,6 @@
     },
     {
       "category": "null",
-      "date": "2021-10-19",
-      "downloads": 2
-    },
-    {
-      "category": "null",
       "date": "2021-10-20",
       "downloads": 1
     },
@@ -917,11 +912,6 @@
     },
     {
       "category": "Windows",
-      "date": "2021-10-19",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
       "date": "2021-10-20",
       "downloads": 2
     },
@@ -1254,6 +1244,11 @@
       "category": "Windows",
       "date": "2022-04-17",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2022-04-18",
+      "downloads": 3
     }
   ],
   "package": "datasette-seaborn",
