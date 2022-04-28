@@ -1,5 +1,16 @@
 {
-  "data": [],
+  "data": [
+    {
+      "category": "Linux",
+      "date": "2022-04-27",
+      "downloads": 7
+    },
+    {
+      "category": "null",
+      "date": "2022-04-27",
+      "downloads": 23
+    }
+  ],
   "package": "datasette-gzip",
   "type": "system_downloads"
 }
