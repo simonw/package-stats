@@ -1,46 +1,41 @@
 {
   "data": [
     {
-      "category": "Linux",
-      "date": "2022-04-27",
-      "downloads": 7
+      "category": "Darwin",
+      "date": "2022-04-28",
+      "downloads": 2
     },
     {
       "category": "Linux",
       "date": "2022-04-28",
-      "downloads": 14
+      "downloads": 18
     },
     {
       "category": "Linux",
       "date": "2022-04-29",
-      "downloads": 4
+      "downloads": 2
     },
     {
       "category": "Linux",
       "date": "2022-04-30",
-      "downloads": 5
-    },
-    {
-      "category": "null",
-      "date": "2022-04-27",
-      "downloads": 23
+      "downloads": 16
     },
     {
       "category": "null",
       "date": "2022-04-28",
-      "downloads": 43
+      "downloads": 89
     },
     {
       "category": "null",
       "date": "2022-04-29",
-      "downloads": 32
+      "downloads": 50
     },
     {
       "category": "null",
       "date": "2022-04-30",
-      "downloads": 4
+      "downloads": 77
     }
   ],
-  "package": "datasette-gzip",
+  "package": "datasette-copy-to-memory",
   "type": "system_downloads"
 }
