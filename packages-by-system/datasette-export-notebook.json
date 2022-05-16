@@ -27,11 +27,6 @@
     },
     {
       "category": "Linux",
-      "date": "2021-11-15",
-      "downloads": 53
-    },
-    {
-      "category": "Linux",
       "date": "2021-11-16",
       "downloads": 51
     },
@@ -931,9 +926,9 @@
       "downloads": 23
     },
     {
-      "category": "null",
-      "date": "2021-11-15",
-      "downloads": 10
+      "category": "Linux",
+      "date": "2022-05-15",
+      "downloads": 24
     },
     {
       "category": "null",
@@ -1254,6 +1249,11 @@
       "category": "null",
       "date": "2022-05-07",
       "downloads": 20
+    },
+    {
+      "category": "null",
+      "date": "2022-05-15",
+      "downloads": 1
     }
   ],
   "package": "datasette-export-notebook",
