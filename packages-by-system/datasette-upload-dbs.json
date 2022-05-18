@@ -1,5 +1,16 @@
 {
-  "data": [],
+  "data": [
+    {
+      "category": "Linux",
+      "date": "2022-05-17",
+      "downloads": 12
+    },
+    {
+      "category": "null",
+      "date": "2022-05-17",
+      "downloads": 57
+    }
+  ],
   "package": "datasette-upload-dbs",
   "type": "system_downloads"
 }
