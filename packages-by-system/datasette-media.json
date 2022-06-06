@@ -96,8 +96,8 @@
       "downloads": 1
     },
     {
-      "category": "Linux",
-      "date": "2021-12-06",
+      "category": "Darwin",
+      "date": "2022-06-05",
       "downloads": 1
     },
     {
@@ -1001,9 +1001,9 @@
       "downloads": 1
     },
     {
-      "category": "null",
-      "date": "2021-12-06",
-      "downloads": 1
+      "category": "Linux",
+      "date": "2022-06-05",
+      "downloads": 2
     },
     {
       "category": "null",
@@ -1289,11 +1289,6 @@
       "category": "null",
       "date": "2022-06-01",
       "downloads": 7
-    },
-    {
-      "category": "Windows",
-      "date": "2021-12-06",
-      "downloads": 1
     }
   ],
   "package": "datasette-media",
