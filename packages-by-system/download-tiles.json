@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2021-12-13",
-      "downloads": 1
-    },
-    {
-      "category": "Darwin",
       "date": "2022-01-19",
       "downloads": 1
     },
@@ -506,6 +501,11 @@
       "downloads": 2
     },
     {
+      "category": "null",
+      "date": "2022-06-12",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2021-12-17",
       "downloads": 1
@@ -649,6 +649,11 @@
       "category": "Windows",
       "date": "2022-06-07",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2022-06-12",
+      "downloads": 1
     }
   ],
   "package": "download-tiles",
