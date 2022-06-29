@@ -211,9 +211,9 @@
       "downloads": 1
     },
     {
-      "category": "Linux",
-      "date": "2021-12-29",
-      "downloads": 3
+      "category": "Darwin",
+      "date": "2022-06-28",
+      "downloads": 1
     },
     {
       "category": "Linux",
@@ -1116,6 +1116,11 @@
       "downloads": 2
     },
     {
+      "category": "Linux",
+      "date": "2022-06-28",
+      "downloads": 2
+    },
+    {
       "category": "null",
       "date": "2022-01-01",
       "downloads": 1
@@ -1754,6 +1759,11 @@
       "category": "Windows",
       "date": "2022-06-10",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2022-06-28",
+      "downloads": 2
     }
   ],
   "package": "twitter-to-sqlite",
