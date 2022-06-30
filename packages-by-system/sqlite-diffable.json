@@ -826,8 +826,8 @@
       "downloads": 12
     },
     {
-      "category": "null",
-      "date": "2021-12-30",
+      "category": "Linux",
+      "date": "2022-06-29",
       "downloads": 13
     },
     {
@@ -1731,9 +1731,9 @@
       "downloads": 143
     },
     {
-      "category": "Windows",
-      "date": "2021-12-30",
-      "downloads": 2
+      "category": "null",
+      "date": "2022-06-29",
+      "downloads": 134
     },
     {
       "category": "Windows",
@@ -2159,6 +2159,11 @@
       "category": "Windows",
       "date": "2022-06-25",
       "downloads": 4
+    },
+    {
+      "category": "Windows",
+      "date": "2022-06-29",
+      "downloads": 1
     }
   ],
   "package": "sqlite-diffable",
