@@ -1,14 +1,29 @@
 {
   "data": [
     {
+      "category": "Darwin",
+      "date": "2022-06-30",
+      "downloads": 2
+    },
+    {
       "category": "Linux",
       "date": "2022-06-29",
       "downloads": 5
     },
     {
+      "category": "Linux",
+      "date": "2022-06-30",
+      "downloads": 7
+    },
+    {
       "category": "null",
       "date": "2022-06-29",
       "downloads": 62
+    },
+    {
+      "category": "null",
+      "date": "2022-06-30",
+      "downloads": 79
     }
   ],
   "package": "s3-ocr",
