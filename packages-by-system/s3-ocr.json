@@ -6,6 +6,11 @@
       "downloads": 2
     },
     {
+      "category": "Darwin",
+      "date": "2022-07-02",
+      "downloads": 1
+    },
+    {
       "category": "Linux",
       "date": "2022-06-29",
       "downloads": 5
@@ -34,6 +39,11 @@
       "category": "null",
       "date": "2022-07-01",
       "downloads": 38
+    },
+    {
+      "category": "null",
+      "date": "2022-07-02",
+      "downloads": 3
     }
   ],
   "package": "s3-ocr",
