@@ -212,11 +212,6 @@
     },
     {
       "category": "null",
-      "date": "2022-01-05",
-      "downloads": 2
-    },
-    {
-      "category": "null",
       "date": "2022-01-11",
       "downloads": 2
     },
@@ -744,6 +739,11 @@
       "category": "Windows",
       "date": "2022-07-01",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2022-07-05",
+      "downloads": 1
     }
   ],
   "package": "shapefile-to-sqlite",
