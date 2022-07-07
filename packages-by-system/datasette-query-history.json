@@ -52,11 +52,6 @@
     },
     {
       "category": "null",
-      "date": "2022-01-06",
-      "downloads": 8
-    },
-    {
-      "category": "null",
       "date": "2022-01-17",
       "downloads": 1
     },
@@ -299,6 +294,11 @@
       "category": "other",
       "date": "2022-06-25",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2022-07-06",
+      "downloads": 1
     }
   ],
   "package": "datasette-query-history",
