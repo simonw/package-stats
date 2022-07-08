@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2022-01-07",
-      "downloads": 1
-    },
-    {
-      "category": "Darwin",
       "date": "2022-02-22",
       "downloads": 1
     },
@@ -88,11 +83,6 @@
     {
       "category": "Darwin",
       "date": "2022-06-30",
-      "downloads": 1
-    },
-    {
-      "category": "Linux",
-      "date": "2022-01-07",
       "downloads": 1
     },
     {
@@ -996,6 +986,11 @@
       "downloads": 1
     },
     {
+      "category": "Linux",
+      "date": "2022-07-07",
+      "downloads": 2
+    },
+    {
       "category": "null",
       "date": "2022-01-15",
       "downloads": 3
@@ -1396,6 +1391,11 @@
       "downloads": 3
     },
     {
+      "category": "null",
+      "date": "2022-07-07",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2022-01-24",
       "downloads": 1
@@ -1584,6 +1584,11 @@
       "category": "Windows",
       "date": "2022-07-03",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2022-07-07",
+      "downloads": 2
     }
   ],
   "package": "datasette-dateutil",
