@@ -6,6 +6,11 @@
       "downloads": 1
     },
     {
+      "category": "Darwin",
+      "date": "2022-07-11",
+      "downloads": 1
+    },
+    {
       "category": "Linux",
       "date": "2022-04-26",
       "downloads": 12
@@ -381,6 +386,11 @@
       "downloads": 1
     },
     {
+      "category": "Linux",
+      "date": "2022-07-11",
+      "downloads": 1
+    },
+    {
       "category": "null",
       "date": "2022-04-26",
       "downloads": 19
@@ -539,6 +549,11 @@
       "category": "null",
       "date": "2022-07-10",
       "downloads": 3
+    },
+    {
+      "category": "null",
+      "date": "2022-07-11",
+      "downloads": 1
     }
   ],
   "package": "datasette-total-page-time",
