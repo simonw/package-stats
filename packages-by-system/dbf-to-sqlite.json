@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2022-01-12",
-      "downloads": 1
-    },
-    {
-      "category": "Darwin",
       "date": "2022-01-13",
       "downloads": 1
     },
@@ -806,13 +801,13 @@
       "downloads": 1
     },
     {
-      "category": "other",
-      "date": "2022-04-07",
+      "category": "null",
+      "date": "2022-07-12",
       "downloads": 1
     },
     {
-      "category": "Windows",
-      "date": "2022-01-12",
+      "category": "other",
+      "date": "2022-04-07",
       "downloads": 1
     },
     {
@@ -1223,6 +1218,11 @@
     {
       "category": "Windows",
       "date": "2022-07-11",
+      "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2022-07-12",
       "downloads": 1
     }
   ],
