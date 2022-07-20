@@ -66,8 +66,8 @@
       "downloads": 1
     },
     {
-      "category": "Linux",
-      "date": "2022-01-19",
+      "category": "Darwin",
+      "date": "2022-07-19",
       "downloads": 1
     },
     {
@@ -971,6 +971,11 @@
       "downloads": 5
     },
     {
+      "category": "Linux",
+      "date": "2022-07-19",
+      "downloads": 3
+    },
+    {
       "category": "null",
       "date": "2022-01-31",
       "downloads": 1
@@ -1331,6 +1336,11 @@
       "downloads": 3
     },
     {
+      "category": "null",
+      "date": "2022-07-19",
+      "downloads": 2
+    },
+    {
       "category": "Windows",
       "date": "2022-01-25",
       "downloads": 1
@@ -1394,6 +1404,11 @@
       "category": "Windows",
       "date": "2022-07-06",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2022-07-19",
+      "downloads": 2
     }
   ],
   "package": "datasette-insert",
