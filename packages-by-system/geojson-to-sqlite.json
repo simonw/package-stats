@@ -101,8 +101,8 @@
       "downloads": 1
     },
     {
-      "category": "Linux",
-      "date": "2022-01-21",
+      "category": "Darwin",
+      "date": "2022-07-22",
       "downloads": 1
     },
     {
@@ -299,11 +299,6 @@
       "category": "Linux",
       "date": "2022-07-09",
       "downloads": 1
-    },
-    {
-      "category": "null",
-      "date": "2022-01-21",
-      "downloads": 7
     },
     {
       "category": "null",
@@ -771,6 +766,11 @@
       "downloads": 2
     },
     {
+      "category": "null",
+      "date": "2022-07-22",
+      "downloads": 9
+    },
+    {
       "category": "Windows",
       "date": "2022-01-26",
       "downloads": 1
@@ -899,6 +899,16 @@
       "category": "Windows",
       "date": "2022-07-13",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2022-07-21",
+      "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2022-07-22",
+      "downloads": 1
     }
   ],
   "package": "geojson-to-sqlite",
