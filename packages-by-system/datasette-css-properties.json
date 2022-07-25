@@ -7,11 +7,6 @@
     },
     {
       "category": "Linux",
-      "date": "2022-01-24",
-      "downloads": 1
-    },
-    {
-      "category": "Linux",
       "date": "2022-01-25",
       "downloads": 1
     },
@@ -911,6 +906,11 @@
       "downloads": 1
     },
     {
+      "category": "Linux",
+      "date": "2022-07-24",
+      "downloads": 1
+    },
+    {
       "category": "null",
       "date": "2022-01-25",
       "downloads": 1
@@ -1224,6 +1224,11 @@
       "category": "null",
       "date": "2022-07-23",
       "downloads": 3
+    },
+    {
+      "category": "null",
+      "date": "2022-07-24",
+      "downloads": 6
     }
   ],
   "package": "datasette-css-properties",
