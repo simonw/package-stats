@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2022-01-25",
-      "downloads": 1
-    },
-    {
-      "category": "Darwin",
       "date": "2022-01-26",
       "downloads": 1
     },
@@ -143,6 +138,11 @@
     {
       "category": "Darwin",
       "date": "2022-07-23",
+      "downloads": 1
+    },
+    {
+      "category": "Darwin",
+      "date": "2022-07-25",
       "downloads": 1
     },
     {
@@ -807,11 +807,6 @@
     },
     {
       "category": "Windows",
-      "date": "2022-01-25",
-      "downloads": 1
-    },
-    {
-      "category": "Windows",
       "date": "2022-01-27",
       "downloads": 1
     },
@@ -1224,6 +1219,11 @@
       "category": "Windows",
       "date": "2022-07-23",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2022-07-25",
+      "downloads": 3
     }
   ],
   "package": "dbf-to-sqlite",
