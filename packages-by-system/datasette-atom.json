@@ -22,11 +22,6 @@
     },
     {
       "category": "Linux",
-      "date": "2022-01-31",
-      "downloads": 15
-    },
-    {
-      "category": "Linux",
       "date": "2022-02-01",
       "downloads": 20
     },
@@ -926,6 +921,11 @@
       "downloads": 16
     },
     {
+      "category": "Linux",
+      "date": "2022-07-31",
+      "downloads": 16
+    },
+    {
       "category": "null",
       "date": "2022-02-01",
       "downloads": 2
@@ -1269,6 +1269,11 @@
       "category": "null",
       "date": "2022-07-24",
       "downloads": 14
+    },
+    {
+      "category": "null",
+      "date": "2022-07-31",
+      "downloads": 1
     }
   ],
   "package": "datasette-atom",
