@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Linux",
-      "date": "2022-02-01",
-      "downloads": 2
-    },
-    {
-      "category": "Linux",
       "date": "2022-02-02",
       "downloads": 1
     },
@@ -906,9 +901,9 @@
       "downloads": 6
     },
     {
-      "category": "null",
-      "date": "2022-02-01",
-      "downloads": 1
+      "category": "Linux",
+      "date": "2022-08-01",
+      "downloads": 3
     },
     {
       "category": "null",
@@ -1126,6 +1121,11 @@
       "downloads": 41
     },
     {
+      "category": "null",
+      "date": "2022-08-01",
+      "downloads": 14
+    },
+    {
       "category": "Windows",
       "date": "2022-02-04",
       "downloads": 2
@@ -1263,6 +1263,11 @@
     {
       "category": "Windows",
       "date": "2022-07-18",
+      "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2022-08-01",
       "downloads": 1
     }
   ],

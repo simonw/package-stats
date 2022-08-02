@@ -7,11 +7,6 @@
     },
     {
       "category": "Linux",
-      "date": "2022-02-01",
-      "downloads": 12
-    },
-    {
-      "category": "Linux",
       "date": "2022-02-02",
       "downloads": 5
     },
@@ -911,9 +906,9 @@
       "downloads": 8
     },
     {
-      "category": "null",
-      "date": "2022-02-01",
-      "downloads": 1
+      "category": "Linux",
+      "date": "2022-08-01",
+      "downloads": 10
     },
     {
       "category": "null",
@@ -1249,6 +1244,16 @@
       "category": "null",
       "date": "2022-07-24",
       "downloads": 6
+    },
+    {
+      "category": "null",
+      "date": "2022-08-01",
+      "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2022-08-01",
+      "downloads": 1
     }
   ],
   "package": "datasette-debug-asgi",
