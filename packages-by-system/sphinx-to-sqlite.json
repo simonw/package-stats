@@ -2,22 +2,12 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2022-02-03",
-      "downloads": 1
-    },
-    {
-      "category": "Darwin",
       "date": "2022-03-16",
       "downloads": 1
     },
     {
       "category": "Darwin",
       "date": "2022-07-06",
-      "downloads": 1
-    },
-    {
-      "category": "Linux",
-      "date": "2022-02-03",
       "downloads": 1
     },
     {
@@ -401,6 +391,11 @@
       "downloads": 8
     },
     {
+      "category": "Linux",
+      "date": "2022-08-03",
+      "downloads": 12
+    },
+    {
       "category": "null",
       "date": "2022-02-06",
       "downloads": 2
@@ -659,6 +654,11 @@
       "category": "null",
       "date": "2022-08-01",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2022-08-03",
+      "downloads": 2
     }
   ],
   "package": "sphinx-to-sqlite",
