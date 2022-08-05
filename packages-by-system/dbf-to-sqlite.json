@@ -451,8 +451,8 @@
       "downloads": 2
     },
     {
-      "category": "null",
-      "date": "2022-02-04",
+      "category": "Linux",
+      "date": "2022-08-04",
       "downloads": 1
     },
     {
@@ -1234,6 +1234,11 @@
       "category": "Windows",
       "date": "2022-08-02",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2022-08-04",
+      "downloads": 2
     }
   ],
   "package": "dbf-to-sqlite",
