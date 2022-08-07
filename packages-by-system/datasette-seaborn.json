@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2022-02-06",
-      "downloads": 1
-    },
-    {
-      "category": "Darwin",
       "date": "2022-02-17",
       "downloads": 1
     },
@@ -93,11 +88,6 @@
     {
       "category": "Darwin",
       "date": "2022-08-02",
-      "downloads": 1
-    },
-    {
-      "category": "Linux",
-      "date": "2022-02-06",
       "downloads": 1
     },
     {
@@ -646,9 +636,9 @@
       "downloads": 1
     },
     {
-      "category": "Windows",
-      "date": "2022-02-06",
-      "downloads": 2
+      "category": "null",
+      "date": "2022-08-06",
+      "downloads": 1
     },
     {
       "category": "Windows",
@@ -1044,6 +1034,11 @@
       "category": "Windows",
       "date": "2022-08-03",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2022-08-06",
+      "downloads": 3
     }
   ],
   "package": "datasette-seaborn",
