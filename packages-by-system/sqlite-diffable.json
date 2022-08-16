@@ -121,8 +121,8 @@
       "downloads": 1
     },
     {
-      "category": "Linux",
-      "date": "2022-02-15",
+      "category": "Darwin",
+      "date": "2022-08-15",
       "downloads": 1
     },
     {
@@ -916,9 +916,9 @@
       "downloads": 1
     },
     {
-      "category": "null",
-      "date": "2022-02-15",
-      "downloads": 20
+      "category": "Linux",
+      "date": "2022-08-15",
+      "downloads": 1
     },
     {
       "category": "null",
@@ -1821,9 +1821,9 @@
       "downloads": 163
     },
     {
-      "category": "Windows",
-      "date": "2022-02-15",
-      "downloads": 1
+      "category": "null",
+      "date": "2022-08-15",
+      "downloads": 161
     },
     {
       "category": "Windows",
@@ -2299,6 +2299,11 @@
       "category": "Windows",
       "date": "2022-08-14",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2022-08-15",
+      "downloads": 4
     }
   ],
   "package": "sqlite-diffable",
