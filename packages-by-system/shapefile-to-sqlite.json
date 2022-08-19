@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2022-02-18",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
       "date": "2022-03-05",
       "downloads": 1
     },
@@ -199,11 +194,6 @@
       "category": "Linux",
       "date": "2022-08-14",
       "downloads": 1
-    },
-    {
-      "category": "null",
-      "date": "2022-02-18",
-      "downloads": 5
     },
     {
       "category": "null",
@@ -759,6 +749,11 @@
       "category": "Windows",
       "date": "2022-08-11",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2022-08-18",
+      "downloads": 2
     }
   ],
   "package": "shapefile-to-sqlite",
