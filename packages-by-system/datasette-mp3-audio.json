@@ -1,5 +1,21 @@
 {
-  "data": [],
+  "data": [
+    {
+      "category": "Darwin",
+      "date": "2022-08-20",
+      "downloads": 1
+    },
+    {
+      "category": "Linux",
+      "date": "2022-08-20",
+      "downloads": 19
+    },
+    {
+      "category": "null",
+      "date": "2022-08-20",
+      "downloads": 109
+    }
+  ],
   "package": "datasette-mp3-audio",
   "type": "system_downloads"
 }
