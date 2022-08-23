@@ -6,6 +6,11 @@
       "downloads": 1
     },
     {
+      "category": "Darwin",
+      "date": "2022-08-22",
+      "downloads": 2
+    },
+    {
       "category": "Linux",
       "date": "2022-08-20",
       "downloads": 19
@@ -24,6 +29,11 @@
       "category": "null",
       "date": "2022-08-21",
       "downloads": 86
+    },
+    {
+      "category": "null",
+      "date": "2022-08-22",
+      "downloads": 48
     }
   ],
   "package": "datasette-mp3-audio",
