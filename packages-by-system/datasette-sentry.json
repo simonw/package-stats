@@ -81,6 +81,11 @@
       "downloads": 3
     },
     {
+      "category": "Linux",
+      "date": "2022-09-02",
+      "downloads": 1
+    },
+    {
       "category": "null",
       "date": "2022-03-07",
       "downloads": 2
@@ -429,6 +434,11 @@
       "category": "null",
       "date": "2022-09-01",
       "downloads": 7
+    },
+    {
+      "category": "null",
+      "date": "2022-09-02",
+      "downloads": 2
     }
   ],
   "package": "datasette-sentry",
