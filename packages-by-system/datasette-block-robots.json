@@ -42,11 +42,6 @@
     },
     {
       "category": "Linux",
-      "date": "2022-03-06",
-      "downloads": 33
-    },
-    {
-      "category": "Linux",
       "date": "2022-03-07",
       "downloads": 40
     },
@@ -946,6 +941,11 @@
       "downloads": 62
     },
     {
+      "category": "Linux",
+      "date": "2022-09-03",
+      "downloads": 73
+    },
+    {
       "category": "null",
       "date": "2022-03-07",
       "downloads": 15
@@ -1334,6 +1334,11 @@
       "category": "null",
       "date": "2022-09-02",
       "downloads": 3
+    },
+    {
+      "category": "null",
+      "date": "2022-09-03",
+      "downloads": 1
     }
   ],
   "package": "datasette-block-robots",
