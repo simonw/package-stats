@@ -1,5 +1,16 @@
 {
-  "data": [],
+  "data": [
+    {
+      "category": "Linux",
+      "date": "2022-09-04",
+      "downloads": 6
+    },
+    {
+      "category": "null",
+      "date": "2022-09-04",
+      "downloads": 28
+    }
+  ],
   "package": "datasette-render-image-tags",
   "type": "system_downloads"
 }
