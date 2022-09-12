@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2022-03-14",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
       "date": "2022-04-11",
       "downloads": 1
     },
@@ -78,6 +73,11 @@
     {
       "category": "Linux",
       "date": "2022-09-10",
+      "downloads": 1
+    },
+    {
+      "category": "Linux",
+      "date": "2022-09-11",
       "downloads": 1
     },
     {
@@ -289,11 +289,6 @@
       "category": "null",
       "date": "2022-09-09",
       "downloads": 3
-    },
-    {
-      "category": "Windows",
-      "date": "2022-03-14",
-      "downloads": 2
     }
   ],
   "package": "swarm-to-sqlite",
