@@ -42,11 +42,6 @@
     },
     {
       "category": "Linux",
-      "date": "2022-03-15",
-      "downloads": 1
-    },
-    {
-      "category": "Linux",
       "date": "2022-03-16",
       "downloads": 1
     },
@@ -917,11 +912,6 @@
     },
     {
       "category": "null",
-      "date": "2022-03-15",
-      "downloads": 2
-    },
-    {
-      "category": "null",
       "date": "2022-03-20",
       "downloads": 1
     },
@@ -1164,6 +1154,11 @@
       "category": "null",
       "date": "2022-09-10",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2022-09-12",
+      "downloads": 2
     }
   ],
   "package": "datasette-query-links",
