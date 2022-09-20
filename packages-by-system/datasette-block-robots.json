@@ -51,9 +51,9 @@
       "downloads": 1
     },
     {
-      "category": "Linux",
-      "date": "2022-03-22",
-      "downloads": 58
+      "category": "Darwin",
+      "date": "2022-09-19",
+      "downloads": 2
     },
     {
       "category": "Linux",
@@ -956,9 +956,9 @@
       "downloads": 72
     },
     {
-      "category": "null",
-      "date": "2022-03-22",
-      "downloads": 2
+      "category": "Linux",
+      "date": "2022-09-19",
+      "downloads": 76
     },
     {
       "category": "null",
@@ -1334,6 +1334,11 @@
       "category": "null",
       "date": "2022-09-17",
       "downloads": 6
+    },
+    {
+      "category": "null",
+      "date": "2022-09-19",
+      "downloads": 1
     }
   ],
   "package": "datasette-block-robots",
