@@ -137,11 +137,6 @@
     },
     {
       "category": "Linux",
-      "date": "2022-03-28",
-      "downloads": 3
-    },
-    {
-      "category": "Linux",
       "date": "2022-03-29",
       "downloads": 5
     },
@@ -1041,6 +1036,11 @@
       "downloads": 3
     },
     {
+      "category": "Linux",
+      "date": "2022-09-25",
+      "downloads": 5
+    },
+    {
       "category": "null",
       "date": "2022-03-29",
       "downloads": 1
@@ -1461,6 +1461,11 @@
       "downloads": 2
     },
     {
+      "category": "null",
+      "date": "2022-09-25",
+      "downloads": 3
+    },
+    {
       "category": "Windows",
       "date": "2022-04-08",
       "downloads": 1
@@ -1549,6 +1554,11 @@
       "category": "Windows",
       "date": "2022-09-22",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2022-09-25",
+      "downloads": 1
     }
   ],
   "package": "airtable-export",
