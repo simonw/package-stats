@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2022-03-30",
-      "downloads": 20
-    },
-    {
-      "category": "Darwin",
       "date": "2022-03-31",
       "downloads": 17
     },
@@ -906,9 +901,9 @@
       "downloads": 33
     },
     {
-      "category": "Linux",
-      "date": "2022-03-30",
-      "downloads": 1725
+      "category": "Darwin",
+      "date": "2022-09-27",
+      "downloads": 67
     },
     {
       "category": "Linux",
@@ -1811,9 +1806,9 @@
       "downloads": 1212
     },
     {
-      "category": "null",
-      "date": "2022-03-30",
-      "downloads": 7
+      "category": "Linux",
+      "date": "2022-09-27",
+      "downloads": 1111
     },
     {
       "category": "null",
@@ -2686,6 +2681,11 @@
       "downloads": 10
     },
     {
+      "category": "null",
+      "date": "2022-09-27",
+      "downloads": 13
+    },
+    {
       "category": "other",
       "date": "2022-06-04",
       "downloads": 1
@@ -2699,11 +2699,6 @@
       "category": "other",
       "date": "2022-09-13",
       "downloads": 1
-    },
-    {
-      "category": "Windows",
-      "date": "2022-03-30",
-      "downloads": 31
     },
     {
       "category": "Windows",
@@ -3604,6 +3599,11 @@
       "category": "Windows",
       "date": "2022-09-26",
       "downloads": 32
+    },
+    {
+      "category": "Windows",
+      "date": "2022-09-27",
+      "downloads": 59
     }
   ],
   "package": "csv-diff",
