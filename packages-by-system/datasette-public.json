@@ -1,5 +1,21 @@
 {
-  "data": [],
+  "data": [
+    {
+      "category": "Darwin",
+      "date": "2022-10-05",
+      "downloads": 1
+    },
+    {
+      "category": "Linux",
+      "date": "2022-10-05",
+      "downloads": 12
+    },
+    {
+      "category": "null",
+      "date": "2022-10-05",
+      "downloads": 27
+    }
+  ],
   "package": "datasette-public",
   "type": "system_downloads"
 }
