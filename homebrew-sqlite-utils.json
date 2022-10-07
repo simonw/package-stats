@@ -119,24 +119,24 @@
   "analytics-linux": {
     "install": {
       "30d": {
-        "sqlite-utils": 11
+        "sqlite-utils": 9
       },
       "90d": {
-        "sqlite-utils": 34
+        "sqlite-utils": 32
       },
       "365d": {
-        "sqlite-utils": 100
+        "sqlite-utils": 99
       }
     },
     "install_on_request": {
       "30d": {
-        "sqlite-utils": 11
+        "sqlite-utils": 9
       },
       "90d": {
-        "sqlite-utils": 34
+        "sqlite-utils": 32
       },
       "365d": {
-        "sqlite-utils": 100
+        "sqlite-utils": 99
       }
     },
     "build_error": {
@@ -145,5 +145,5 @@
       }
     }
   },
-  "generated_date": "2022-10-06"
+  "generated_date": "2022-10-07"
 }
