@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2022-04-11",
-      "downloads": 1
-    },
-    {
-      "category": "Darwin",
       "date": "2022-05-13",
       "downloads": 1
     },
@@ -64,6 +59,11 @@
       "category": "Linux",
       "date": "2022-09-27",
       "downloads": 1
+    },
+    {
+      "category": "Linux",
+      "date": "2022-10-09",
+      "downloads": 10
     },
     {
       "category": "null",
@@ -318,6 +318,11 @@
     {
       "category": "Windows",
       "date": "2022-08-01",
+      "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2022-10-09",
       "downloads": 1
     }
   ],
