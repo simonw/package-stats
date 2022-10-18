@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2022-04-19",
-      "downloads": 1
-    },
-    {
-      "category": "Darwin",
       "date": "2022-04-20",
       "downloads": 3
     },
@@ -571,9 +566,9 @@
       "downloads": 9
     },
     {
-      "category": "Linux",
-      "date": "2022-04-19",
-      "downloads": 359
+      "category": "Darwin",
+      "date": "2022-10-17",
+      "downloads": 5
     },
     {
       "category": "Linux",
@@ -1476,9 +1471,9 @@
       "downloads": 448
     },
     {
-      "category": "null",
-      "date": "2022-04-19",
-      "downloads": 15
+      "category": "Linux",
+      "date": "2022-10-17",
+      "downloads": 399
     },
     {
       "category": "null",
@@ -2236,6 +2231,11 @@
       "downloads": 18
     },
     {
+      "category": "null",
+      "date": "2022-10-17",
+      "downloads": 2
+    },
+    {
       "category": "Windows",
       "date": "2022-04-22",
       "downloads": 1
@@ -2614,6 +2614,11 @@
       "category": "Windows",
       "date": "2022-10-16",
       "downloads": 3
+    },
+    {
+      "category": "Windows",
+      "date": "2022-10-17",
+      "downloads": 2
     }
   ],
   "package": "shot-scraper",
