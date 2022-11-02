@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2022-05-04",
-      "downloads": 46
-    },
-    {
-      "category": "Darwin",
       "date": "2022-05-05",
       "downloads": 79
     },
@@ -867,6 +862,11 @@
     },
     {
       "category": "Darwin",
+      "date": "2022-10-24",
+      "downloads": 45
+    },
+    {
+      "category": "Darwin",
       "date": "2022-10-25",
       "downloads": 25
     },
@@ -901,9 +901,9 @@
       "downloads": 80
     },
     {
-      "category": "Linux",
-      "date": "2022-05-04",
-      "downloads": 720
+      "category": "Darwin",
+      "date": "2022-11-01",
+      "downloads": 35
     },
     {
       "category": "Linux",
@@ -1767,6 +1767,11 @@
     },
     {
       "category": "Linux",
+      "date": "2022-10-24",
+      "downloads": 678
+    },
+    {
+      "category": "Linux",
       "date": "2022-10-25",
       "downloads": 1330
     },
@@ -1801,9 +1806,9 @@
       "downloads": 1392
     },
     {
-      "category": "null",
-      "date": "2022-05-04",
-      "downloads": 20
+      "category": "Linux",
+      "date": "2022-11-01",
+      "downloads": 1203
     },
     {
       "category": "null",
@@ -2632,6 +2637,11 @@
     },
     {
       "category": "null",
+      "date": "2022-10-24",
+      "downloads": 6
+    },
+    {
+      "category": "null",
       "date": "2022-10-25",
       "downloads": 5
     },
@@ -2666,6 +2676,11 @@
       "downloads": 52
     },
     {
+      "category": "null",
+      "date": "2022-11-01",
+      "downloads": 17
+    },
+    {
       "category": "other",
       "date": "2022-06-04",
       "downloads": 1
@@ -2679,11 +2694,6 @@
       "category": "other",
       "date": "2022-09-13",
       "downloads": 1
-    },
-    {
-      "category": "Windows",
-      "date": "2022-05-04",
-      "downloads": 27
     },
     {
       "category": "Windows",
@@ -3547,6 +3557,11 @@
     },
     {
       "category": "Windows",
+      "date": "2022-10-24",
+      "downloads": 59
+    },
+    {
+      "category": "Windows",
       "date": "2022-10-25",
       "downloads": 42
     },
@@ -3579,6 +3594,11 @@
       "category": "Windows",
       "date": "2022-10-31",
       "downloads": 88
+    },
+    {
+      "category": "Windows",
+      "date": "2022-11-01",
+      "downloads": 58
     }
   ],
   "package": "csv-diff",
