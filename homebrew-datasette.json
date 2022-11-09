@@ -28,6 +28,11 @@
       "rebuild": 1,
       "root_url": "https://ghcr.io/v2/homebrew/core",
       "files": {
+        "arm64_ventura": {
+          "cellar": ":any_skip_relocation",
+          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:3924cb1be45baafe4a84bb11c14ff7cc40a6d8cd02a33a744ebf50633b88f43e",
+          "sha256": "3924cb1be45baafe4a84bb11c14ff7cc40a6d8cd02a33a744ebf50633b88f43e"
+        },
         "arm64_monterey": {
           "cellar": ":any_skip_relocation",
           "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:02565e9aa704015433622793cb4f2f4113e160ae60bdccb8ba57aac265072cfe",
@@ -92,24 +97,24 @@
   "analytics": {
     "install": {
       "30d": {
-        "datasette": 381
+        "datasette": 402
       },
       "90d": {
-        "datasette": 966
+        "datasette": 985
       },
       "365d": {
-        "datasette": 2978
+        "datasette": 2988
       }
     },
     "install_on_request": {
       "30d": {
-        "datasette": 381
+        "datasette": 402
       },
       "90d": {
-        "datasette": 966
+        "datasette": 985
       },
       "365d": {
-        "datasette": 2977
+        "datasette": 2987
       }
     },
     "build_error": {
@@ -121,7 +126,7 @@
   "analytics-linux": {
     "install": {
       "30d": {
-        "datasette": 6
+        "datasette": 5
       },
       "90d": {
         "datasette": 14
@@ -132,7 +137,7 @@
     },
     "install_on_request": {
       "30d": {
-        "datasette": 6
+        "datasette": 5
       },
       "90d": {
         "datasette": 14
@@ -147,5 +152,5 @@
       }
     }
   },
-  "generated_date": "2022-11-08"
+  "generated_date": "2022-11-09"
 }
