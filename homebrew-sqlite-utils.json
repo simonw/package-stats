@@ -43,6 +43,11 @@
           "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:8cd2aef4430857b9098fd71655481e63de0e210936c543385bc51e3171ae565d",
           "sha256": "8cd2aef4430857b9098fd71655481e63de0e210936c543385bc51e3171ae565d"
         },
+        "ventura": {
+          "cellar": ":any_skip_relocation",
+          "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:50f12af12483241309138eac5d3f9aaa41ffa8fbf945a3edd71706b621778f27",
+          "sha256": "50f12af12483241309138eac5d3f9aaa41ffa8fbf945a3edd71706b621778f27"
+        },
         "monterey": {
           "cellar": ":any_skip_relocation",
           "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:ea5cb1cccd49f94a6ea02760f94b7165da0f7c2270935425dfe4795ba66cca95",
@@ -96,24 +101,24 @@
   "analytics": {
     "install": {
       "30d": {
-        "sqlite-utils": 757
+        "sqlite-utils": 754
       },
       "90d": {
-        "sqlite-utils": 1800
+        "sqlite-utils": 1803
       },
       "365d": {
-        "sqlite-utils": 7032
+        "sqlite-utils": 7025
       }
     },
     "install_on_request": {
       "30d": {
-        "sqlite-utils": 756
+        "sqlite-utils": 753
       },
       "90d": {
-        "sqlite-utils": 1798
+        "sqlite-utils": 1801
       },
       "365d": {
-        "sqlite-utils": 7030
+        "sqlite-utils": 7023
       }
     },
     "build_error": {
@@ -125,24 +130,24 @@
   "analytics-linux": {
     "install": {
       "30d": {
-        "sqlite-utils": 18
+        "sqlite-utils": 19
       },
       "90d": {
-        "sqlite-utils": 40
+        "sqlite-utils": 41
       },
       "365d": {
-        "sqlite-utils": 116
+        "sqlite-utils": 117
       }
     },
     "install_on_request": {
       "30d": {
-        "sqlite-utils": 18
+        "sqlite-utils": 19
       },
       "90d": {
-        "sqlite-utils": 40
+        "sqlite-utils": 41
       },
       "365d": {
-        "sqlite-utils": 116
+        "sqlite-utils": 117
       }
     },
     "build_error": {
@@ -151,5 +156,5 @@
       }
     }
   },
-  "generated_date": "2022-11-19"
+  "generated_date": "2022-11-20"
 }
