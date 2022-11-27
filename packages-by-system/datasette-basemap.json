@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2022-05-29",
-      "downloads": 1
-    },
-    {
-      "category": "Darwin",
       "date": "2022-06-03",
       "downloads": 1
     },
@@ -173,11 +168,6 @@
     {
       "category": "Linux",
       "date": "2022-11-10",
-      "downloads": 1
-    },
-    {
-      "category": "null",
-      "date": "2022-05-29",
       "downloads": 1
     },
     {
@@ -521,6 +511,11 @@
       "downloads": 1
     },
     {
+      "category": "null",
+      "date": "2022-11-26",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2022-06-07",
       "downloads": 1
@@ -644,6 +639,11 @@
       "category": "Windows",
       "date": "2022-11-25",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2022-11-26",
+      "downloads": 1
     }
   ],
   "package": "datasette-basemap",
