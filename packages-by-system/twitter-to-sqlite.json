@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2022-05-30",
-      "downloads": 1
-    },
-    {
-      "category": "Darwin",
       "date": "2022-06-02",
       "downloads": 1
     },
@@ -176,9 +171,9 @@
       "downloads": 3
     },
     {
-      "category": "Linux",
-      "date": "2022-05-30",
-      "downloads": 10
+      "category": "Darwin",
+      "date": "2022-11-27",
+      "downloads": 12
     },
     {
       "category": "Linux",
@@ -1081,9 +1076,9 @@
       "downloads": 2
     },
     {
-      "category": "null",
-      "date": "2022-05-30",
-      "downloads": 1
+      "category": "Linux",
+      "date": "2022-11-27",
+      "downloads": 2
     },
     {
       "category": "null",
@@ -1564,6 +1559,11 @@
       "category": "Windows",
       "date": "2022-11-24",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2022-11-27",
+      "downloads": 2
     }
   ],
   "package": "twitter-to-sqlite",
