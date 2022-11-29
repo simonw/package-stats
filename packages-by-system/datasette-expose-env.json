@@ -176,6 +176,11 @@
       "downloads": 5
     },
     {
+      "category": "Linux",
+      "date": "2022-11-28",
+      "downloads": 1
+    },
+    {
       "category": "null",
       "date": "2022-07-03",
       "downloads": 22
@@ -489,6 +494,11 @@
       "category": "null",
       "date": "2022-11-25",
       "downloads": 4
+    },
+    {
+      "category": "null",
+      "date": "2022-11-28",
+      "downloads": 1
     }
   ],
   "package": "datasette-expose-env",
