@@ -43,6 +43,11 @@
           "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:fa24e30b8347de7847c9781280854d22dd158e4085a7af140b0a8836e714e916",
           "sha256": "fa24e30b8347de7847c9781280854d22dd158e4085a7af140b0a8836e714e916"
         },
+        "ventura": {
+          "cellar": ":any_skip_relocation",
+          "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:2c75997b14d75724dfea196e5753ce4189e3385dbc8165debd9f982c8603940c",
+          "sha256": "2c75997b14d75724dfea196e5753ce4189e3385dbc8165debd9f982c8603940c"
+        },
         "monterey": {
           "cellar": ":any_skip_relocation",
           "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:0b38cb7ec0e555c0f98e8d54cfb9a8976dc54b262af356cbfad8035798bf1de3",
@@ -96,24 +101,24 @@
   "analytics": {
     "install": {
       "30d": {
-        "sqlite-utils": 736
+        "sqlite-utils": 720
       },
       "90d": {
-        "sqlite-utils": 1715
+        "sqlite-utils": 1713
       },
       "365d": {
-        "sqlite-utils": 6952
+        "sqlite-utils": 6992
       }
     },
     "install_on_request": {
       "30d": {
-        "sqlite-utils": 735
+        "sqlite-utils": 718
       },
       "90d": {
-        "sqlite-utils": 1714
+        "sqlite-utils": 1711
       },
       "365d": {
-        "sqlite-utils": 6950
+        "sqlite-utils": 6989
       }
     },
     "build_error": {
@@ -128,10 +133,10 @@
         "sqlite-utils": 19
       },
       "90d": {
-        "sqlite-utils": 40
+        "sqlite-utils": 41
       },
       "365d": {
-        "sqlite-utils": 117
+        "sqlite-utils": 118
       }
     },
     "install_on_request": {
@@ -139,10 +144,10 @@
         "sqlite-utils": 19
       },
       "90d": {
-        "sqlite-utils": 40
+        "sqlite-utils": 41
       },
       "365d": {
-        "sqlite-utils": 117
+        "sqlite-utils": 118
       }
     },
     "build_error": {
@@ -151,5 +156,5 @@
       }
     }
   },
-  "generated_date": "2022-11-28"
+  "generated_date": "2022-11-29"
 }
