@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "category": "Linux",
+      "date": "2022-11-29",
+      "downloads": 1
+    },
+    {
+      "category": "Linux",
+      "date": "2022-11-30",
+      "downloads": 17
+    },
+    {
+      "category": "Linux",
+      "date": "2022-12-01",
+      "downloads": 4
+    },
+    {
+      "category": "null",
+      "date": "2022-11-29",
+      "downloads": 17
+    },
+    {
+      "category": "null",
+      "date": "2022-11-30",
+      "downloads": 82
+    },
+    {
+      "category": "null",
+      "date": "2022-12-01",
+      "downloads": 37
+    }
+  ],
+  "package": "datasette-ephemeral-tables",
+  "type": "system_downloads"
+}
