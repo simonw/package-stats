@@ -22,11 +22,6 @@
     },
     {
       "category": "Linux",
-      "date": "2022-06-22",
-      "downloads": 3
-    },
-    {
-      "category": "Linux",
       "date": "2022-06-23",
       "downloads": 2
     },
@@ -219,11 +214,6 @@
       "category": "Linux",
       "date": "2022-12-02",
       "downloads": 4
-    },
-    {
-      "category": "null",
-      "date": "2022-06-22",
-      "downloads": 1
     },
     {
       "category": "null",
@@ -674,6 +664,11 @@
       "category": "null",
       "date": "2022-12-19",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2022-12-20",
+      "downloads": 4
     }
   ],
   "package": "datasette-socrata",
