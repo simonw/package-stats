@@ -616,9 +616,9 @@
       "downloads": 1
     },
     {
-      "category": "Linux",
-      "date": "2022-06-23",
-      "downloads": 35
+      "category": "Darwin",
+      "date": "2022-12-21",
+      "downloads": 1
     },
     {
       "category": "Linux",
@@ -1521,9 +1521,9 @@
       "downloads": 45
     },
     {
-      "category": "null",
-      "date": "2022-06-23",
-      "downloads": 46
+      "category": "Linux",
+      "date": "2022-12-21",
+      "downloads": 51
     },
     {
       "category": "null",
@@ -2426,6 +2426,11 @@
       "downloads": 54
     },
     {
+      "category": "null",
+      "date": "2022-12-21",
+      "downloads": 60
+    },
+    {
       "category": "other",
       "date": "2022-11-08",
       "downloads": 1
@@ -2949,6 +2954,11 @@
       "category": "Windows",
       "date": "2022-12-20",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2022-12-21",
+      "downloads": 2
     }
   ],
   "package": "csvs-to-sqlite",

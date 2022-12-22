@@ -12,11 +12,6 @@
     },
     {
       "category": "Linux",
-      "date": "2022-06-23",
-      "downloads": 2
-    },
-    {
-      "category": "Linux",
       "date": "2022-07-01",
       "downloads": 3
     },
@@ -201,8 +196,8 @@
       "downloads": 1
     },
     {
-      "category": "null",
-      "date": "2022-06-23",
+      "category": "Linux",
+      "date": "2022-12-21",
       "downloads": 1
     },
     {
@@ -564,6 +559,11 @@
       "category": "null",
       "date": "2022-12-18",
       "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2022-12-21",
+      "downloads": 11
     }
   ],
   "package": "datasette-auth-existing-cookies",

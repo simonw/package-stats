@@ -447,11 +447,6 @@
     },
     {
       "category": "null",
-      "date": "2022-06-23",
-      "downloads": 1
-    },
-    {
-      "category": "null",
       "date": "2022-07-01",
       "downloads": 1
     },
@@ -654,6 +649,11 @@
       "category": "null",
       "date": "2022-12-20",
       "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2022-12-21",
+      "downloads": 4
     }
   ],
   "package": "sphinx-to-sqlite",
