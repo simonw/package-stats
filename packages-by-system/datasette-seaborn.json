@@ -687,11 +687,6 @@
     },
     {
       "category": "Windows",
-      "date": "2022-06-28",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
       "date": "2022-07-01",
       "downloads": 1
     },
@@ -1074,6 +1069,11 @@
       "category": "Windows",
       "date": "2022-12-19",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2022-12-26",
+      "downloads": 2
     }
   ],
   "package": "datasette-seaborn",
