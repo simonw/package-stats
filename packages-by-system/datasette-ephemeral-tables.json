@@ -76,6 +76,11 @@
       "downloads": 4
     },
     {
+      "category": "Linux",
+      "date": "2023-01-01",
+      "downloads": 1
+    },
+    {
       "category": "null",
       "date": "2022-11-29",
       "downloads": 17
@@ -184,6 +189,11 @@
       "category": "null",
       "date": "2022-12-29",
       "downloads": 3
+    },
+    {
+      "category": "null",
+      "date": "2023-01-01",
+      "downloads": 1
     }
   ],
   "package": "datasette-ephemeral-tables",
