@@ -97,24 +97,24 @@
   "analytics": {
     "install": {
       "30d": {
-        "datasette": 466
+        "datasette": 470
       },
       "90d": {
-        "datasette": 1413
+        "datasette": 1426
       },
       "365d": {
-        "datasette": 3454
+        "datasette": 3464
       }
     },
     "install_on_request": {
       "30d": {
-        "datasette": 465
+        "datasette": 469
       },
       "90d": {
-        "datasette": 1412
+        "datasette": 1425
       },
       "365d": {
-        "datasette": 3451
+        "datasette": 3461
       }
     },
     "build_error": {
@@ -126,24 +126,24 @@
   "analytics-linux": {
     "install": {
       "30d": {
-        "datasette": 6
+        "datasette": 7
       },
       "90d": {
-        "datasette": 17
+        "datasette": 18
       },
       "365d": {
-        "datasette": 40
+        "datasette": 41
       }
     },
     "install_on_request": {
       "30d": {
-        "datasette": 6
+        "datasette": 7
       },
       "90d": {
-        "datasette": 17
+        "datasette": 18
       },
       "365d": {
-        "datasette": 40
+        "datasette": 41
       }
     },
     "build_error": {
@@ -152,5 +152,5 @@
       }
     }
   },
-  "generated_date": "2023-01-06"
+  "generated_date": "2023-01-07"
 }
