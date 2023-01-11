@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2022-07-13",
-      "downloads": 1
-    },
-    {
-      "category": "Darwin",
       "date": "2022-07-16",
       "downloads": 1
     },
@@ -256,9 +251,9 @@
       "downloads": 1
     },
     {
-      "category": "Linux",
-      "date": "2022-07-13",
-      "downloads": 3
+      "category": "Darwin",
+      "date": "2023-01-10",
+      "downloads": 1
     },
     {
       "category": "Linux",
@@ -981,9 +976,9 @@
       "downloads": 5
     },
     {
-      "category": "null",
-      "date": "2022-07-13",
-      "downloads": 1
+      "category": "Linux",
+      "date": "2023-01-10",
+      "downloads": 2
     },
     {
       "category": "null",
@@ -1496,6 +1491,11 @@
       "downloads": 2
     },
     {
+      "category": "null",
+      "date": "2023-01-10",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2022-07-15",
       "downloads": 1
@@ -1888,6 +1888,11 @@
     {
       "category": "Windows",
       "date": "2023-01-07",
+      "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2023-01-10",
       "downloads": 1
     }
   ],
