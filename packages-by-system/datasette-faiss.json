@@ -1,0 +1,41 @@
+{
+  "data": [
+    {
+      "category": "Darwin",
+      "date": "2023-01-12",
+      "downloads": 1
+    },
+    {
+      "category": "Linux",
+      "date": "2023-01-11",
+      "downloads": 10
+    },
+    {
+      "category": "Linux",
+      "date": "2023-01-12",
+      "downloads": 5
+    },
+    {
+      "category": "Linux",
+      "date": "2023-01-13",
+      "downloads": 5
+    },
+    {
+      "category": "null",
+      "date": "2023-01-11",
+      "downloads": 19
+    },
+    {
+      "category": "null",
+      "date": "2023-01-12",
+      "downloads": 22
+    },
+    {
+      "category": "null",
+      "date": "2023-01-13",
+      "downloads": 18
+    }
+  ],
+  "package": "datasette-faiss",
+  "type": "system_downloads"
+}

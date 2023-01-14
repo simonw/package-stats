@@ -1,0 +1,71 @@
+{
+  "data": [
+    {
+      "category": "Darwin",
+      "date": "2023-01-03",
+      "downloads": 1
+    },
+    {
+      "category": "Darwin",
+      "date": "2023-01-13",
+      "downloads": 1
+    },
+    {
+      "category": "Linux",
+      "date": "2023-01-03",
+      "downloads": 6
+    },
+    {
+      "category": "Linux",
+      "date": "2023-01-13",
+      "downloads": 4
+    },
+    {
+      "category": "null",
+      "date": "2023-01-03",
+      "downloads": 53
+    },
+    {
+      "category": "null",
+      "date": "2023-01-04",
+      "downloads": 12
+    },
+    {
+      "category": "null",
+      "date": "2023-01-05",
+      "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2023-01-06",
+      "downloads": 6
+    },
+    {
+      "category": "null",
+      "date": "2023-01-07",
+      "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2023-01-09",
+      "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2023-01-12",
+      "downloads": 3
+    },
+    {
+      "category": "null",
+      "date": "2023-01-13",
+      "downloads": 42
+    },
+    {
+      "category": "Windows",
+      "date": "2023-01-05",
+      "downloads": 1
+    }
+  ],
+  "package": "openai-to-sqlite",
+  "type": "system_downloads"
+}
