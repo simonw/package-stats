@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2022-07-22",
-      "downloads": 1
-    },
-    {
-      "category": "Darwin",
       "date": "2022-07-27",
       "downloads": 1
     },
@@ -294,11 +289,6 @@
       "category": "Darwin",
       "date": "2023-01-18",
       "downloads": 5
-    },
-    {
-      "category": "Linux",
-      "date": "2022-07-22",
-      "downloads": 14
     },
     {
       "category": "Linux",
@@ -1196,9 +1186,9 @@
       "downloads": 2
     },
     {
-      "category": "null",
-      "date": "2022-07-22",
-      "downloads": 6
+      "category": "Linux",
+      "date": "2023-01-19",
+      "downloads": 2
     },
     {
       "category": "null",
@@ -1734,6 +1724,11 @@
       "category": "Windows",
       "date": "2023-01-18",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2023-01-19",
+      "downloads": 2
     }
   ],
   "package": "datasette-render-markdown",
