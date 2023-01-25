@@ -111,6 +111,11 @@
       "downloads": 4
     },
     {
+      "category": "Linux",
+      "date": "2023-01-24",
+      "downloads": 3
+    },
+    {
       "category": "null",
       "date": "2023-01-03",
       "downloads": 43
@@ -209,6 +214,11 @@
       "category": "null",
       "date": "2023-01-23",
       "downloads": 10
+    },
+    {
+      "category": "Windows",
+      "date": "2023-01-24",
+      "downloads": 1
     }
   ],
   "package": "datasette-openai",
