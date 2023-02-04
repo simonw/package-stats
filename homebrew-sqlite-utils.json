@@ -97,29 +97,29 @@
   "disabled": false,
   "disable_date": null,
   "disable_reason": null,
-  "tap_git_head": "4dcb95070da65096074142b44706de169da05051",
+  "tap_git_head": "f07e0afc099e1467ff9044c9e1d334bb627d1707",
   "variations": {},
   "analytics": {
     "install": {
       "30d": {
-        "sqlite-utils": 369
+        "sqlite-utils": 371
       },
       "90d": {
-        "sqlite-utils": 1654
+        "sqlite-utils": 1656
       },
       "365d": {
-        "sqlite-utils": 7319
+        "sqlite-utils": 7321
       }
     },
     "install_on_request": {
       "30d": {
-        "sqlite-utils": 368
+        "sqlite-utils": 370
       },
       "90d": {
-        "sqlite-utils": 1649
+        "sqlite-utils": 1651
       },
       "365d": {
-        "sqlite-utils": 7313
+        "sqlite-utils": 7315
       }
     },
     "build_error": {
@@ -131,24 +131,24 @@
   "analytics-linux": {
     "install": {
       "30d": {
-        "sqlite-utils": 10
+        "sqlite-utils": 0
       },
       "90d": {
-        "sqlite-utils": 42
+        "sqlite-utils": 0
       },
       "365d": {
-        "sqlite-utils": 140
+        "sqlite-utils": 0
       }
     },
     "install_on_request": {
       "30d": {
-        "sqlite-utils": 10
+        "sqlite-utils": 0
       },
       "90d": {
-        "sqlite-utils": 42
+        "sqlite-utils": 0
       },
       "365d": {
-        "sqlite-utils": 140
+        "sqlite-utils": 0
       }
     },
     "build_error": {
