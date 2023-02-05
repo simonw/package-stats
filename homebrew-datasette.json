@@ -10,7 +10,7 @@
   "homepage": "https://docs.datasette.io/en/stable/",
   "versions": {
     "stable": "0.64.1",
-    "head": "HEAD",
+    "head": null,
     "bottle": true
   },
   "urls": {
@@ -93,29 +93,29 @@
   "disabled": false,
   "disable_date": null,
   "disable_reason": null,
-  "tap_git_head": "7946479053ec814e273b81063d81ac3a64763c8d",
+  "tap_git_head": "c5cfffbf39e2188af10ed368f2653f5d650e7935",
   "variations": {},
   "analytics": {
     "install": {
       "30d": {
-        "datasette": 767
+        "datasette": 771
       },
       "90d": {
-        "datasette": 1812
+        "datasette": 1816
       },
       "365d": {
-        "datasette": 3866
+        "datasette": 3870
       }
     },
     "install_on_request": {
       "30d": {
-        "datasette": 767
+        "datasette": 771
       },
       "90d": {
-        "datasette": 1811
+        "datasette": 1815
       },
       "365d": {
-        "datasette": 3864
+        "datasette": 3868
       }
     },
     "build_error": {
