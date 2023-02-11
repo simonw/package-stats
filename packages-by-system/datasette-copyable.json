@@ -166,9 +166,9 @@
       "downloads": 1
     },
     {
-      "category": "Linux",
-      "date": "2022-08-13",
-      "downloads": 31
+      "category": "Darwin",
+      "date": "2023-02-10",
+      "downloads": 1
     },
     {
       "category": "Linux",
@@ -1071,9 +1071,9 @@
       "downloads": 31
     },
     {
-      "category": "null",
-      "date": "2022-08-13",
-      "downloads": 1
+      "category": "Linux",
+      "date": "2023-02-10",
+      "downloads": 35
     },
     {
       "category": "null",
@@ -1589,6 +1589,11 @@
       "category": "Windows",
       "date": "2023-01-19",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2023-02-10",
+      "downloads": 1
     }
   ],
   "package": "datasette-copyable",
