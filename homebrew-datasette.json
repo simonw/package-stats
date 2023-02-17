@@ -97,29 +97,29 @@
   "disabled": false,
   "disable_date": null,
   "disable_reason": null,
-  "tap_git_head": "976228d8d10ca75e90fc858a1cd4cc4e3cfce04b",
+  "tap_git_head": "92fa3ad27955bd3a8ae47c7c51152037d50ed026",
   "variations": {},
   "analytics": {
     "install": {
       "30d": {
-        "datasette": 603
+        "datasette": 685
       },
       "90d": {
-        "datasette": 1778
+        "datasette": 1860
       },
       "365d": {
-        "datasette": 3917
+        "datasette": 3999
       }
     },
     "install_on_request": {
       "30d": {
-        "datasette": 613
+        "datasette": 697
       },
       "90d": {
-        "datasette": 1787
+        "datasette": 1871
       },
       "365d": {
-        "datasette": 3926
+        "datasette": 4010
       }
     },
     "build_error": {
@@ -131,24 +131,24 @@
   "analytics-linux": {
     "install": {
       "30d": {
-        "datasette": 7
+        "datasette": 8
       },
       "90d": {
-        "datasette": 23
+        "datasette": 24
       },
       "365d": {
-        "datasette": 53
+        "datasette": 54
       }
     },
     "install_on_request": {
       "30d": {
-        "datasette": 7
+        "datasette": 8
       },
       "90d": {
-        "datasette": 23
+        "datasette": 24
       },
       "365d": {
-        "datasette": 53
+        "datasette": 54
       }
     },
     "build_error": {
