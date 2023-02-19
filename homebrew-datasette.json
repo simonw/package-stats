@@ -97,29 +97,29 @@
   "disabled": false,
   "disable_date": null,
   "disable_reason": null,
-  "tap_git_head": "acecc14d2b35860b516a3fdc1273a2c0e275a281",
+  "tap_git_head": "2d3313d9b2fd2409269a97d26eb90e5de1e853b7",
   "variations": {},
   "analytics": {
     "install": {
       "30d": {
-        "datasette": 629
+        "datasette": 593
       },
       "90d": {
-        "datasette": 1862
+        "datasette": 1841
       },
       "365d": {
-        "datasette": 4023
+        "datasette": 4021
       }
     },
     "install_on_request": {
       "30d": {
-        "datasette": 642
+        "datasette": 606
       },
       "90d": {
-        "datasette": 1874
+        "datasette": 1853
       },
       "365d": {
-        "datasette": 4035
+        "datasette": 4033
       }
     },
     "build_error": {
@@ -157,5 +157,5 @@
       }
     }
   },
-  "generated_date": "2023-02-18"
+  "generated_date": "2023-02-19"
 }
