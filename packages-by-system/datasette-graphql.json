@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2022-08-21",
-      "downloads": 1
-    },
-    {
-      "category": "Darwin",
       "date": "2022-08-23",
       "downloads": 1
     },
@@ -164,11 +159,6 @@
       "category": "Darwin",
       "date": "2023-01-30",
       "downloads": 1
-    },
-    {
-      "category": "Linux",
-      "date": "2022-08-21",
-      "downloads": 46
     },
     {
       "category": "Linux",
@@ -1071,9 +1061,9 @@
       "downloads": 31
     },
     {
-      "category": "null",
-      "date": "2022-08-21",
-      "downloads": 1
+      "category": "Linux",
+      "date": "2023-02-18",
+      "downloads": 26
     },
     {
       "category": "null",
@@ -1746,6 +1736,11 @@
       "downloads": 1
     },
     {
+      "category": "null",
+      "date": "2023-02-18",
+      "downloads": 5
+    },
+    {
       "category": "Windows",
       "date": "2022-08-22",
       "downloads": 1
@@ -2119,6 +2114,11 @@
       "category": "Windows",
       "date": "2023-02-17",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2023-02-18",
+      "downloads": 1
     }
   ],
   "package": "datasette-graphql",
