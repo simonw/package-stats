@@ -99,7 +99,7 @@
   "disabled": false,
   "disable_date": null,
   "disable_reason": null,
-  "tap_git_head": "ff892eecdb9b55abfc88b63fcbcef22d6e6e99b7",
+  "tap_git_head": "79cd87a873fee7c9014963e1f94699866179dce5",
   "ruby_source_checksum": {
     "sha256": "170f10a7eeb12eb6a00d13389664a85235b21a1834d975e29ec2e5c8047bea58"
   },
@@ -136,10 +136,10 @@
   "analytics-linux": {
     "install": {
       "30d": {
-        "sqlite-utils": 8
+        "sqlite-utils": 7
       },
       "90d": {
-        "sqlite-utils": 38
+        "sqlite-utils": 35
       },
       "365d": {
         "sqlite-utils": 140
@@ -147,10 +147,10 @@
     },
     "install_on_request": {
       "30d": {
-        "sqlite-utils": 8
+        "sqlite-utils": 7
       },
       "90d": {
-        "sqlite-utils": 38
+        "sqlite-utils": 35
       },
       "365d": {
         "sqlite-utils": 140
