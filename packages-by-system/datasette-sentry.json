@@ -21,8 +21,8 @@
       "downloads": 1
     },
     {
-      "category": "Linux",
-      "date": "2022-09-04",
+      "category": "Darwin",
+      "date": "2023-03-04",
       "downloads": 1
     },
     {
@@ -216,9 +216,9 @@
       "downloads": 1
     },
     {
-      "category": "null",
-      "date": "2022-09-04",
-      "downloads": 2
+      "category": "Linux",
+      "date": "2023-03-04",
+      "downloads": 4
     },
     {
       "category": "null",
@@ -759,6 +759,11 @@
       "category": "null",
       "date": "2023-03-03",
       "downloads": 9
+    },
+    {
+      "category": "null",
+      "date": "2023-03-04",
+      "downloads": 1
     }
   ],
   "package": "datasette-sentry",
