@@ -99,7 +99,7 @@
   "disabled": false,
   "disable_date": null,
   "disable_reason": null,
-  "tap_git_head": "0c27bd8752ce7a2d43be942f48952d9fcb097ecc",
+  "tap_git_head": "6e4d536592e41f642d8d69445e97c166b4b512b9",
   "ruby_source_checksum": {
     "sha256": "170f10a7eeb12eb6a00d13389664a85235b21a1834d975e29ec2e5c8047bea58"
   },
@@ -107,24 +107,24 @@
   "analytics": {
     "install": {
       "30d": {
-        "sqlite-utils": 149
+        "sqlite-utils": 137
       },
       "90d": {
-        "sqlite-utils": 977
+        "sqlite-utils": 948
       },
       "365d": {
-        "sqlite-utils": 6716
+        "sqlite-utils": 6699
       }
     },
     "install_on_request": {
       "30d": {
-        "sqlite-utils": 148
+        "sqlite-utils": 136
       },
       "90d": {
-        "sqlite-utils": 975
+        "sqlite-utils": 946
       },
       "365d": {
-        "sqlite-utils": 6713
+        "sqlite-utils": 6696
       }
     },
     "build_error": {
@@ -162,5 +162,5 @@
       }
     }
   },
-  "generated_date": "2023-03-08"
+  "generated_date": "2023-03-09"
 }
