@@ -2,18 +2,53 @@
   "data": [
     {
       "category": "Linux",
-      "date": "2023-01-27",
-      "downloads": 7
+      "date": "2023-01-28",
+      "downloads": 6
     },
     {
       "category": "Linux",
-      "date": "2023-01-28",
+      "date": "2023-02-01",
+      "downloads": 3
+    },
+    {
+      "category": "Linux",
+      "date": "2023-02-02",
+      "downloads": 6
+    },
+    {
+      "category": "Linux",
+      "date": "2023-02-03",
       "downloads": 1
     },
     {
       "category": "Linux",
-      "date": "2023-01-31",
+      "date": "2023-02-06",
+      "downloads": 6
+    },
+    {
+      "category": "Linux",
+      "date": "2023-02-15",
+      "downloads": 4
+    },
+    {
+      "category": "Linux",
+      "date": "2023-02-21",
       "downloads": 2
+    },
+    {
+      "category": "Linux",
+      "date": "2023-02-22",
+      "downloads": 1
+    },
+    {
+      "category": "Linux",
+      "date": "2023-02-23",
+      "downloads": 1
+    },
+    {
+      "category": "Linux",
+      "date": "2023-02-24",
+      "downloads": 1
     },
     {
       "category": "Linux",
@@ -27,27 +62,27 @@
     },
     {
       "category": "null",
-      "date": "2023-01-27",
-      "downloads": 36
-    },
-    {
-      "category": "null",
       "date": "2023-01-28",
-      "downloads": 16
+      "downloads": 68
     },
     {
       "category": "null",
       "date": "2023-01-29",
-      "downloads": 20
-    },
-    {
-      "category": "null",
-      "date": "2023-01-30",
       "downloads": 6
     },
     {
       "category": "null",
+      "date": "2023-01-30",
+      "downloads": 21
+    },
+    {
+      "category": "null",
       "date": "2023-01-31",
+      "downloads": 3
+    },
+    {
+      "category": "null",
+      "date": "2023-02-01",
       "downloads": 3
     },
     {
@@ -58,22 +93,17 @@
     {
       "category": "null",
       "date": "2023-02-03",
-      "downloads": 1
+      "downloads": 2
     },
     {
       "category": "null",
       "date": "2023-02-04",
-      "downloads": 3
+      "downloads": 1
     },
     {
       "category": "null",
       "date": "2023-02-05",
-      "downloads": 8
-    },
-    {
-      "category": "null",
-      "date": "2023-02-06",
-      "downloads": 1
+      "downloads": 2
     },
     {
       "category": "null",
@@ -98,26 +128,16 @@
     {
       "category": "null",
       "date": "2023-02-11",
-      "downloads": 4
-    },
-    {
-      "category": "null",
-      "date": "2023-02-12",
       "downloads": 3
     },
     {
       "category": "null",
+      "date": "2023-02-12",
+      "downloads": 2
+    },
+    {
+      "category": "null",
       "date": "2023-02-14",
-      "downloads": 1
-    },
-    {
-      "category": "null",
-      "date": "2023-02-16",
-      "downloads": 1
-    },
-    {
-      "category": "null",
-      "date": "2023-02-17",
       "downloads": 1
     },
     {
@@ -128,7 +148,7 @@
     {
       "category": "null",
       "date": "2023-02-19",
-      "downloads": 3
+      "downloads": 4
     },
     {
       "category": "null",
@@ -138,7 +158,7 @@
     {
       "category": "null",
       "date": "2023-02-25",
-      "downloads": 2
+      "downloads": 1
     },
     {
       "category": "null",
@@ -157,15 +177,10 @@
     },
     {
       "category": "null",
-      "date": "2023-03-05",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2023-02-27",
+      "date": "2023-03-06",
       "downloads": 1
     }
   ],
-  "package": "datasette-youtube-embed",
+  "package": "datasette-matomo",
   "type": "system_downloads"
 }
