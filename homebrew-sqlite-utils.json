@@ -99,7 +99,7 @@
   "disabled": false,
   "disable_date": null,
   "disable_reason": null,
-  "tap_git_head": "16e45eb053b72c2869bcfc2b445417f93824196b",
+  "tap_git_head": "d002c28834771527c1eec4fff0a80298b4bc6b7a",
   "ruby_source_checksum": {
     "sha256": "170f10a7eeb12eb6a00d13389664a85235b21a1834d975e29ec2e5c8047bea58"
   },
@@ -139,7 +139,7 @@
         "sqlite-utils": 3
       },
       "90d": {
-        "sqlite-utils": 30
+        "sqlite-utils": 27
       },
       "365d": {
         "sqlite-utils": 134
@@ -150,7 +150,7 @@
         "sqlite-utils": 3
       },
       "90d": {
-        "sqlite-utils": 30
+        "sqlite-utils": 27
       },
       "365d": {
         "sqlite-utils": 134
