@@ -99,7 +99,7 @@
   "disabled": false,
   "disable_date": null,
   "disable_reason": null,
-  "tap_git_head": "ce3736b78311b9638838191b1baece6fcda0bbd5",
+  "tap_git_head": "476d0d279ba5dfb00808e34425d824f2ffc83c0f",
   "ruby_source_checksum": {
     "sha256": "7c8785e1eee301c9b2da292e1aa2fd0bfcb9000b7b74d6c33d2b5ffeb5942e14"
   },
@@ -136,7 +136,7 @@
   "analytics-linux": {
     "install": {
       "30d": {
-        "datasette": 4
+        "datasette": 1
       },
       "90d": {
         "datasette": 22
@@ -147,7 +147,7 @@
     },
     "install_on_request": {
       "30d": {
-        "datasette": 4
+        "datasette": 1
       },
       "90d": {
         "datasette": 22
