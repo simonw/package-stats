@@ -57,11 +57,6 @@
     },
     {
       "category": "Linux",
-      "date": "2022-09-21",
-      "downloads": 1
-    },
-    {
-      "category": "Linux",
       "date": "2022-09-22",
       "downloads": 1
     },
@@ -961,6 +956,11 @@
       "downloads": 3
     },
     {
+      "category": "Linux",
+      "date": "2023-03-21",
+      "downloads": 3
+    },
+    {
       "category": "null",
       "date": "2022-09-22",
       "downloads": 6
@@ -1274,6 +1274,11 @@
       "category": "null",
       "date": "2023-03-17",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2023-03-21",
+      "downloads": 11
     }
   ],
   "package": "datasette-pretty-traces",
