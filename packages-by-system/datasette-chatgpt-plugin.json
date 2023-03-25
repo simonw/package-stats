@@ -1,5 +1,21 @@
 {
-  "data": [],
+  "data": [
+    {
+      "category": "Darwin",
+      "date": "2023-03-24",
+      "downloads": 1
+    },
+    {
+      "category": "Linux",
+      "date": "2023-03-24",
+      "downloads": 10
+    },
+    {
+      "category": "null",
+      "date": "2023-03-24",
+      "downloads": 57
+    }
+  ],
   "package": "datasette-chatgpt-plugin",
   "type": "system_downloads"
 }
