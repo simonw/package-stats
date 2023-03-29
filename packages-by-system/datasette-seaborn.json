@@ -496,6 +496,11 @@
       "downloads": 2
     },
     {
+      "category": "Linux",
+      "date": "2023-03-28",
+      "downloads": 1
+    },
+    {
       "category": "null",
       "date": "2022-10-01",
       "downloads": 1
@@ -798,11 +803,6 @@
     {
       "category": "null",
       "date": "2023-03-15",
-      "downloads": 3
-    },
-    {
-      "category": "Windows",
-      "date": "2022-09-28",
       "downloads": 3
     },
     {
@@ -1254,6 +1254,11 @@
       "category": "Windows",
       "date": "2023-03-27",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2023-03-28",
+      "downloads": 1
     }
   ],
   "package": "datasette-seaborn",
