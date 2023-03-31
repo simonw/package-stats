@@ -50,6 +50,10 @@ jobs:
     - name: Fetch latest GitHub releases stats for datasette-app
       run: |
         curl https://api.github.com/repos/simonw/datasette-app/releases | jq . > datasette-app-releases.json
+    - name: Fetch Docker Hub information
+      run: |
+        curl https://hub.docker.com/v2/repositories/datasetteproject/datasette \
+          | jq > hub-docker-com-datasette.json
     - name: Commit and push if s changed
       run: |-
         git config user.name "Automated"
