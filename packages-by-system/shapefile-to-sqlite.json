@@ -101,9 +101,9 @@
       "downloads": 1
     },
     {
-      "category": "Linux",
-      "date": "2022-10-11",
-      "downloads": 1
+      "category": "Darwin",
+      "date": "2023-04-10",
+      "downloads": 2
     },
     {
       "category": "Linux",
@@ -309,6 +309,11 @@
       "category": "Linux",
       "date": "2023-04-09",
       "downloads": 2
+    },
+    {
+      "category": "Linux",
+      "date": "2023-04-10",
+      "downloads": 1
     },
     {
       "category": "null",
@@ -651,6 +656,11 @@
       "downloads": 1
     },
     {
+      "category": "null",
+      "date": "2023-04-10",
+      "downloads": 2
+    },
+    {
       "category": "Windows",
       "date": "2022-10-17",
       "downloads": 1
@@ -919,6 +929,11 @@
       "category": "Windows",
       "date": "2023-04-07",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2023-04-10",
+      "downloads": 2
     }
   ],
   "package": "shapefile-to-sqlite",
