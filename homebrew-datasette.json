@@ -100,7 +100,7 @@
   "disable_date": null,
   "disable_reason": null,
   "service": null,
-  "tap_git_head": "7db08748b161fc64bf71d240ae88244b520c95c0",
+  "tap_git_head": "6216414e8485d9d0f4b4a8f3ecac1bbaf633ec94",
   "ruby_source_checksum": {
     "sha256": "7c8785e1eee301c9b2da292e1aa2fd0bfcb9000b7b74d6c33d2b5ffeb5942e14"
   },
@@ -141,7 +141,7 @@
         "datasette": 0
       },
       "90d": {
-        "datasette": 12
+        "datasette": 9
       },
       "365d": {
         "datasette": 48
@@ -152,7 +152,7 @@
         "datasette": 0
       },
       "90d": {
-        "datasette": 12
+        "datasette": 9
       },
       "365d": {
         "datasette": 48
