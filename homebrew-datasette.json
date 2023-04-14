@@ -100,7 +100,7 @@
   "disable_date": null,
   "disable_reason": null,
   "service": null,
-  "tap_git_head": "f35dc79fa31e07bbdec40a37e4d0f4a6ae0c6cf3",
+  "tap_git_head": "9dfe9c6f1879c41036ebb81a855f31242e6de649",
   "ruby_source_checksum": {
     "sha256": "7c8785e1eee301c9b2da292e1aa2fd0bfcb9000b7b74d6c33d2b5ffeb5942e14"
   },
@@ -112,10 +112,10 @@
         "datasette": 2
       },
       "90d": {
-        "datasette": 891
+        "datasette": 856
       },
       "365d": {
-        "datasette": 3623
+        "datasette": 3619
       }
     },
     "install_on_request": {
@@ -123,10 +123,10 @@
         "datasette": 2
       },
       "90d": {
-        "datasette": 906
+        "datasette": 871
       },
       "365d": {
-        "datasette": 3637
+        "datasette": 3633
       }
     },
     "build_error": {
@@ -164,5 +164,5 @@
       }
     }
   },
-  "generated_date": "2023-04-13"
+  "generated_date": "2023-04-14"
 }
