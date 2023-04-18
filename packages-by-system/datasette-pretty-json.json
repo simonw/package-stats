@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2022-10-18",
-      "downloads": 7
-    },
-    {
-      "category": "Darwin",
       "date": "2022-10-19",
       "downloads": 1
     },
@@ -866,9 +861,9 @@
       "downloads": 2
     },
     {
-      "category": "Linux",
-      "date": "2022-10-18",
-      "downloads": 31
+      "category": "Darwin",
+      "date": "2023-04-17",
+      "downloads": 1
     },
     {
       "category": "Linux",
@@ -1751,6 +1746,11 @@
       "downloads": 7
     },
     {
+      "category": "Linux",
+      "date": "2023-04-17",
+      "downloads": 6
+    },
+    {
       "category": "null",
       "date": "2022-10-20",
       "downloads": 2
@@ -2319,6 +2319,11 @@
       "category": "Windows",
       "date": "2023-04-01",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2023-04-17",
+      "downloads": 2
     }
   ],
   "package": "datasette-pretty-json",
