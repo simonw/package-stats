@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2022-10-29",
-      "downloads": 1
-    },
-    {
-      "category": "Darwin",
       "date": "2022-11-04",
       "downloads": 1
     },
@@ -446,8 +441,8 @@
       "downloads": 1
     },
     {
-      "category": "null",
-      "date": "2022-10-29",
+      "category": "Linux",
+      "date": "2023-04-28",
       "downloads": 1
     },
     {
@@ -914,6 +909,11 @@
       "category": "Windows",
       "date": "2023-03-22",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2023-04-28",
+      "downloads": 2
     }
   ],
   "package": "datasette-nteract-data-explorer",

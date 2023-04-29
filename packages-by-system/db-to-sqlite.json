@@ -356,8 +356,8 @@
       "downloads": 2
     },
     {
-      "category": "Linux",
-      "date": "2022-10-29",
+      "category": "Darwin",
+      "date": "2023-04-28",
       "downloads": 1
     },
     {
@@ -1111,6 +1111,11 @@
       "downloads": 4
     },
     {
+      "category": "Linux",
+      "date": "2023-04-28",
+      "downloads": 10
+    },
+    {
       "category": "null",
       "date": "2022-10-30",
       "downloads": 1
@@ -1606,6 +1611,11 @@
       "downloads": 5
     },
     {
+      "category": "null",
+      "date": "2023-04-28",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2022-10-31",
       "downloads": 3
@@ -2044,6 +2054,11 @@
       "category": "Windows",
       "date": "2023-04-27",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2023-04-28",
+      "downloads": 2
     }
   ],
   "package": "db-to-sqlite",
