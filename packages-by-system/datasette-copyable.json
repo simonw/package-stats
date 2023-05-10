@@ -227,11 +227,6 @@
     },
     {
       "category": "Linux",
-      "date": "2022-11-09",
-      "downloads": 35
-    },
-    {
-      "category": "Linux",
       "date": "2022-11-10",
       "downloads": 32
     },
@@ -1131,6 +1126,11 @@
       "downloads": 4
     },
     {
+      "category": "Linux",
+      "date": "2023-05-09",
+      "downloads": 4
+    },
+    {
       "category": "null",
       "date": "2022-11-10",
       "downloads": 1
@@ -1606,6 +1606,11 @@
       "downloads": 1
     },
     {
+      "category": "null",
+      "date": "2023-05-09",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2022-11-18",
       "downloads": 1
@@ -1644,6 +1649,11 @@
       "category": "Windows",
       "date": "2023-04-13",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2023-05-09",
+      "downloads": 2
     }
   ],
   "package": "datasette-copyable",
