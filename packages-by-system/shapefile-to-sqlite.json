@@ -356,6 +356,11 @@
       "downloads": 1
     },
     {
+      "category": "Linux",
+      "date": "2023-05-11",
+      "downloads": 1
+    },
+    {
       "category": "null",
       "date": "2022-11-12",
       "downloads": 1
@@ -717,11 +722,6 @@
     },
     {
       "category": "Windows",
-      "date": "2022-11-11",
-      "downloads": 3
-    },
-    {
-      "category": "Windows",
       "date": "2022-11-14",
       "downloads": 1
     },
@@ -1004,6 +1004,11 @@
       "category": "Windows",
       "date": "2023-05-08",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2023-05-11",
+      "downloads": 4
     }
   ],
   "package": "shapefile-to-sqlite",
