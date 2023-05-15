@@ -1141,6 +1141,11 @@
       "downloads": 2
     },
     {
+      "category": "Linux",
+      "date": "2023-05-14",
+      "downloads": 1
+    },
+    {
       "category": "null",
       "date": "2022-11-17",
       "downloads": 2
@@ -1627,11 +1632,6 @@
     },
     {
       "category": "Windows",
-      "date": "2022-11-14",
-      "downloads": 1
-    },
-    {
-      "category": "Windows",
       "date": "2022-11-15",
       "downloads": 1
     },
@@ -2064,6 +2064,11 @@
       "category": "Windows",
       "date": "2023-05-11",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2023-05-14",
+      "downloads": 1
     }
   ],
   "package": "db-to-sqlite",
