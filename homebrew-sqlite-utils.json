@@ -96,7 +96,7 @@
   "disable_date": null,
   "disable_reason": null,
   "service": null,
-  "tap_git_head": "2e8dcb71112dbb50e1d46075b101ea9f55df4dfe",
+  "tap_git_head": "a261dd606e46b249dc12e24fc9820e61b6b78624",
   "ruby_source_path": "Formula/sqlite-utils.rb",
   "ruby_source_checksum": {
     "sha256": "d57a6cc2fdf7313f1e365f65836fb33b8fd8f797aa72c149a64cc51d3c8ec7f5"
@@ -137,7 +137,7 @@
         "sqlite-utils": 0
       },
       "90d": {
-        "sqlite-utils": 1
+        "sqlite-utils": 0
       },
       "365d": {
         "sqlite-utils": 119
@@ -148,7 +148,7 @@
         "sqlite-utils": 0
       },
       "90d": {
-        "sqlite-utils": 1
+        "sqlite-utils": 0
       },
       "365d": {
         "sqlite-utils": 119
