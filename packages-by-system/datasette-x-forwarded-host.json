@@ -326,6 +326,11 @@
       "downloads": 4
     },
     {
+      "category": "Linux",
+      "date": "2023-05-25",
+      "downloads": 18
+    },
+    {
       "category": "null",
       "date": "2022-11-28",
       "downloads": 1
@@ -499,6 +504,11 @@
       "category": "Windows",
       "date": "2023-04-19",
       "downloads": 3
+    },
+    {
+      "category": "Windows",
+      "date": "2023-05-25",
+      "downloads": 1
     }
   ],
   "package": "datasette-x-forwarded-host",
