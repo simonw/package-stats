@@ -116,9 +116,9 @@
       "downloads": 3
     },
     {
-      "category": "Linux",
-      "date": "2022-12-15",
-      "downloads": 5
+      "category": "Darwin",
+      "date": "2023-06-14",
+      "downloads": 6
     },
     {
       "category": "Linux",
@@ -1021,6 +1021,11 @@
       "downloads": 3
     },
     {
+      "category": "Linux",
+      "date": "2023-06-14",
+      "downloads": 10
+    },
+    {
       "category": "null",
       "date": "2022-12-16",
       "downloads": 4
@@ -1197,11 +1202,6 @@
     },
     {
       "category": "Windows",
-      "date": "2022-12-15",
-      "downloads": 1
-    },
-    {
-      "category": "Windows",
       "date": "2023-01-11",
       "downloads": 1
     },
@@ -1274,6 +1274,11 @@
       "category": "Windows",
       "date": "2023-06-13",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2023-06-14",
+      "downloads": 5
     }
   ],
   "package": "datasette-render-timestamps",
