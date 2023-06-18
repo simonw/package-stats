@@ -96,7 +96,7 @@
   "disable_date": null,
   "disable_reason": null,
   "service": null,
-  "tap_git_head": "347425b21f895850c44cb3eef3d19702b5ba2142",
+  "tap_git_head": "ebff77d3ddc4d970cb14661b1d5af2fd6cab9be7",
   "ruby_source_path": "Formula/sqlite-utils.rb",
   "ruby_source_checksum": {
     "sha256": "ac519acd09bb1fc89fa526e6a77b1abbb9db80f21ae741e25bcccccc4d2660c2"
@@ -131,5 +131,5 @@
       }
     }
   },
-  "generated_date": "2023-06-17"
+  "generated_date": "2023-06-18"
 }
