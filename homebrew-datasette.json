@@ -101,7 +101,7 @@
   "disable_date": null,
   "disable_reason": null,
   "service": null,
-  "tap_git_head": "a014f92998537f955a9294be6e36435cf4b58b53",
+  "tap_git_head": "54baa21f3a405975d7d52f3ba6bd60830591c5d0",
   "ruby_source_path": "Formula/datasette.rb",
   "ruby_source_checksum": {
     "sha256": "da37fcd534934108f39833dc7f407ef93c443cd70b3f70b9fd777a319a778444"
@@ -136,5 +136,5 @@
       }
     }
   },
-  "generated_date": "2023-06-21"
+  "generated_date": "2023-06-22"
 }
