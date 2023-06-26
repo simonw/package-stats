@@ -10,16 +10,16 @@
   "license": "Apache-2.0",
   "homepage": "https://sqlite-utils.datasette.io/",
   "versions": {
-    "stable": "3.32.1",
+    "stable": "3.33",
     "head": null,
     "bottle": true
   },
   "urls": {
     "stable": {
-      "url": "https://files.pythonhosted.org/packages/1a/95/b6fe852980c9494bf8a5e99d017cc6b864f9807a3e082c7837c267302217/sqlite-utils-3.32.1.tar.gz",
+      "url": "https://files.pythonhosted.org/packages/99/48/b974a270fd710e62c5ab863dc216cf3ffe26b5108ffb5d64ddeba1786bce/sqlite-utils-3.33.tar.gz",
       "tag": null,
       "revision": null,
-      "checksum": "6c28fe32fcebd658a1691dedfa4d111499ad302cc0139c5a5893a590d461848a"
+      "checksum": "be779936dadb9decef511a46f280bd94683d385625f69a65730fb6e00e5f2656"
     }
   },
   "revision": 0,
@@ -31,38 +31,38 @@
       "files": {
         "arm64_ventura": {
           "cellar": ":any_skip_relocation",
-          "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:f405006eb021d8903c9a654accaef05494dc83a9610c7f0354a9e8aa01fa2b30",
-          "sha256": "f405006eb021d8903c9a654accaef05494dc83a9610c7f0354a9e8aa01fa2b30"
+          "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:21ff4b5101f921a5735ed0516462c4120b120229455cd5eefecc03a2dd6c9fef",
+          "sha256": "21ff4b5101f921a5735ed0516462c4120b120229455cd5eefecc03a2dd6c9fef"
         },
         "arm64_monterey": {
           "cellar": ":any_skip_relocation",
-          "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:8e8a8796dadb0b11020fa5c905944af70e6d1eadd794f043d3019e585910488f",
-          "sha256": "8e8a8796dadb0b11020fa5c905944af70e6d1eadd794f043d3019e585910488f"
+          "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:4393f8a01234dcfef7fee114a693428054b8628945ee477863213d7b42798743",
+          "sha256": "4393f8a01234dcfef7fee114a693428054b8628945ee477863213d7b42798743"
         },
         "arm64_big_sur": {
           "cellar": ":any_skip_relocation",
-          "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:41aaf30e5c0598f526add6cf897bfa829d57d90233e82645ad614dbba0ca16de",
-          "sha256": "41aaf30e5c0598f526add6cf897bfa829d57d90233e82645ad614dbba0ca16de"
+          "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:0a8f42fd50ee8b66086cc0e84e650ca7dd52a8e64715db8f47d618eca8cb475a",
+          "sha256": "0a8f42fd50ee8b66086cc0e84e650ca7dd52a8e64715db8f47d618eca8cb475a"
         },
         "ventura": {
           "cellar": ":any_skip_relocation",
-          "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:f5dd279f6a6066ff1048d0d35e14e20b9866315c5b5ea532dba5029d13344904",
-          "sha256": "f5dd279f6a6066ff1048d0d35e14e20b9866315c5b5ea532dba5029d13344904"
+          "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:3bc45523a85114375706c0a274877cc96cd3ea7fd28f647f2240b641edcaa95f",
+          "sha256": "3bc45523a85114375706c0a274877cc96cd3ea7fd28f647f2240b641edcaa95f"
         },
         "monterey": {
           "cellar": ":any_skip_relocation",
-          "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:208ae33f4a96bee6f41bb0205150c69f6226b33d007b665815a9deb77a7325f1",
-          "sha256": "208ae33f4a96bee6f41bb0205150c69f6226b33d007b665815a9deb77a7325f1"
+          "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:13350d47ba6fa260505c7132ff78088895d8f0827d807d3c74431581c70497f4",
+          "sha256": "13350d47ba6fa260505c7132ff78088895d8f0827d807d3c74431581c70497f4"
         },
         "big_sur": {
           "cellar": ":any_skip_relocation",
-          "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:df0a6295a2592ef67619e4f7328d2957ea4e44175181c7ea7adb6795cf177637",
-          "sha256": "df0a6295a2592ef67619e4f7328d2957ea4e44175181c7ea7adb6795cf177637"
+          "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:188afa872873fb735b4f74c431a0f0bcebbabfaabe77f6382b33a59aa5bcf23c",
+          "sha256": "188afa872873fb735b4f74c431a0f0bcebbabfaabe77f6382b33a59aa5bcf23c"
         },
         "x86_64_linux": {
           "cellar": ":any_skip_relocation",
-          "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:31fe70e61cf0532acf34ab704e07cbe334eeca3d9dfc7f784d8704ca1e88b889",
-          "sha256": "31fe70e61cf0532acf34ab704e07cbe334eeca3d9dfc7f784d8704ca1e88b889"
+          "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:5e6b848eb0ad4ed0e457771cdf0dbda2513df10cad8b3a6fc821b542207521fb",
+          "sha256": "5e6b848eb0ad4ed0e457771cdf0dbda2513df10cad8b3a6fc821b542207521fb"
         }
       }
     }
@@ -97,10 +97,10 @@
   "disable_reason": null,
   "post_install_defined": false,
   "service": null,
-  "tap_git_head": "a8712178bbbd19247abab91f3fb2eae240f8249c",
+  "tap_git_head": "a83c6484fcc2fc2addabbca089ed31bd7ac7b5ae",
   "ruby_source_path": "Formula/sqlite-utils.rb",
   "ruby_source_checksum": {
-    "sha256": "ac519acd09bb1fc89fa526e6a77b1abbb9db80f21ae741e25bcccccc4d2660c2"
+    "sha256": "bbdf3e828acf7eb53e9b4dafc94a5f3e0e1b0de841bd3acb7041ae16d0c63750"
   },
   "variations": {},
   "analytics": {
