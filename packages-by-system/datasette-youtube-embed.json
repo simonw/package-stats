@@ -11,6 +11,11 @@
       "downloads": 1
     },
     {
+      "category": "Darwin",
+      "date": "2023-07-08",
+      "downloads": 1
+    },
+    {
       "category": "Linux",
       "date": "2023-01-27",
       "downloads": 7
@@ -456,6 +461,11 @@
       "downloads": 1
     },
     {
+      "category": "null",
+      "date": "2023-07-08",
+      "downloads": 3
+    },
+    {
       "category": "Windows",
       "date": "2023-02-27",
       "downloads": 1
@@ -479,6 +489,11 @@
       "category": "Windows",
       "date": "2023-06-28",
       "downloads": 3
+    },
+    {
+      "category": "Windows",
+      "date": "2023-07-08",
+      "downloads": 2
     }
   ],
   "package": "datasette-youtube-embed",
