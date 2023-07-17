@@ -286,6 +286,11 @@
       "downloads": 1
     },
     {
+      "category": "Darwin",
+      "date": "2023-07-16",
+      "downloads": 2
+    },
+    {
       "category": "Linux",
       "date": "2023-05-18",
       "downloads": 28
@@ -944,6 +949,11 @@
       "category": "Windows",
       "date": "2023-07-15",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2023-07-16",
+      "downloads": 5
     }
   ],
   "package": "strip-tags",
