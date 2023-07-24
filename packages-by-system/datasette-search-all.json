@@ -172,11 +172,6 @@
     },
     {
       "category": "Linux",
-      "date": "2023-01-23",
-      "downloads": 13
-    },
-    {
-      "category": "Linux",
       "date": "2023-01-24",
       "downloads": 15
     },
@@ -1076,9 +1071,9 @@
       "downloads": 5
     },
     {
-      "category": "null",
-      "date": "2023-01-23",
-      "downloads": 3
+      "category": "Linux",
+      "date": "2023-07-23",
+      "downloads": 9
     },
     {
       "category": "null",
@@ -1467,11 +1462,6 @@
     },
     {
       "category": "Windows",
-      "date": "2023-01-23",
-      "downloads": 1
-    },
-    {
-      "category": "Windows",
       "date": "2023-02-10",
       "downloads": 1
     },
@@ -1524,6 +1514,11 @@
       "category": "Windows",
       "date": "2023-07-18",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2023-07-23",
+      "downloads": 2
     }
   ],
   "package": "datasette-search-all",
