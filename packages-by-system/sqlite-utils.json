@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2023-03-05",
-      "downloads": 21
-    },
-    {
-      "category": "Darwin",
       "date": "2023-03-06",
       "downloads": 21
     },
@@ -906,9 +901,9 @@
       "downloads": 90
     },
     {
-      "category": "Linux",
-      "date": "2023-03-05",
-      "downloads": 6412
+      "category": "Darwin",
+      "date": "2023-09-02",
+      "downloads": 54
     },
     {
       "category": "Linux",
@@ -1811,9 +1806,9 @@
       "downloads": 9029
     },
     {
-      "category": "null",
-      "date": "2023-03-05",
-      "downloads": 348
+      "category": "Linux",
+      "date": "2023-09-02",
+      "downloads": 8142
     },
     {
       "category": "null",
@@ -2716,6 +2711,11 @@
       "downloads": 280
     },
     {
+      "category": "null",
+      "date": "2023-09-02",
+      "downloads": 152
+    },
+    {
       "category": "other",
       "date": "2023-03-28",
       "downloads": 1
@@ -2829,11 +2829,6 @@
       "category": "other",
       "date": "2023-08-08",
       "downloads": 1
-    },
-    {
-      "category": "Windows",
-      "date": "2023-03-05",
-      "downloads": 27
     },
     {
       "category": "Windows",
@@ -3734,6 +3729,11 @@
       "category": "Windows",
       "date": "2023-09-01",
       "downloads": 89
+    },
+    {
+      "category": "Windows",
+      "date": "2023-09-02",
+      "downloads": 45
     }
   ],
   "package": "sqlite-utils",
