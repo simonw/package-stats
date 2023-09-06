@@ -76,9 +76,9 @@
       "downloads": 2
     },
     {
-      "category": "Linux",
-      "date": "2023-03-08",
-      "downloads": 26
+      "category": "Darwin",
+      "date": "2023-09-05",
+      "downloads": 3
     },
     {
       "category": "Linux",
@@ -334,6 +334,11 @@
       "category": "Linux",
       "date": "2023-09-04",
       "downloads": 7
+    },
+    {
+      "category": "Linux",
+      "date": "2023-09-05",
+      "downloads": 9
     },
     {
       "category": "null",
@@ -616,6 +621,11 @@
       "downloads": 5
     },
     {
+      "category": "null",
+      "date": "2023-09-05",
+      "downloads": 9
+    },
+    {
       "category": "Windows",
       "date": "2023-05-22",
       "downloads": 1
@@ -649,6 +659,11 @@
       "category": "Windows",
       "date": "2023-09-04",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2023-09-05",
+      "downloads": 2
     }
   ],
   "package": "datasette-export-notebook",
