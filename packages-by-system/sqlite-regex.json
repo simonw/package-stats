@@ -302,11 +302,6 @@
     },
     {
       "category": "Linux",
-      "date": "2023-03-18",
-      "downloads": 3
-    },
-    {
-      "category": "Linux",
       "date": "2023-03-19",
       "downloads": 2
     },
@@ -1131,6 +1126,11 @@
       "downloads": 231
     },
     {
+      "category": "Linux",
+      "date": "2023-09-15",
+      "downloads": 202
+    },
+    {
       "category": "null",
       "date": "2023-03-19",
       "downloads": 1
@@ -1836,6 +1836,11 @@
       "downloads": 7
     },
     {
+      "category": "null",
+      "date": "2023-09-15",
+      "downloads": 7
+    },
+    {
       "category": "Windows",
       "date": "2023-03-23",
       "downloads": 3
@@ -2124,6 +2129,11 @@
       "category": "Windows",
       "date": "2023-09-14",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2023-09-15",
+      "downloads": 3
     }
   ],
   "package": "sqlite-regex",
