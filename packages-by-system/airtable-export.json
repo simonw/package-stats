@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2023-03-20",
-      "downloads": 1
-    },
-    {
-      "category": "Darwin",
       "date": "2023-03-24",
       "downloads": 1
     },
@@ -134,11 +129,6 @@
       "category": "Darwin",
       "date": "2023-09-07",
       "downloads": 1
-    },
-    {
-      "category": "Linux",
-      "date": "2023-03-20",
-      "downloads": 2
     },
     {
       "category": "Linux",
@@ -1041,6 +1031,11 @@
       "downloads": 13
     },
     {
+      "category": "Linux",
+      "date": "2023-09-17",
+      "downloads": 2
+    },
+    {
       "category": "null",
       "date": "2023-03-30",
       "downloads": 3
@@ -1569,6 +1564,11 @@
       "category": "Windows",
       "date": "2023-09-05",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2023-09-17",
+      "downloads": 1
     }
   ],
   "package": "airtable-export",
