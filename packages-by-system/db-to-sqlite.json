@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2023-03-22",
-      "downloads": 1
-    },
-    {
-      "category": "Darwin",
       "date": "2023-03-27",
       "downloads": 1
     },
@@ -354,11 +349,6 @@
       "category": "Darwin",
       "date": "2023-09-18",
       "downloads": 2
-    },
-    {
-      "category": "Linux",
-      "date": "2023-03-22",
-      "downloads": 1
     },
     {
       "category": "Linux",
@@ -1161,9 +1151,9 @@
       "downloads": 30
     },
     {
-      "category": "null",
-      "date": "2023-03-22",
-      "downloads": 2
+      "category": "Linux",
+      "date": "2023-09-19",
+      "downloads": 31
     },
     {
       "category": "null",
@@ -1686,6 +1676,11 @@
       "downloads": 9
     },
     {
+      "category": "null",
+      "date": "2023-09-19",
+      "downloads": 6
+    },
+    {
       "category": "other",
       "date": "2023-06-24",
       "downloads": 1
@@ -2119,6 +2114,11 @@
       "category": "Windows",
       "date": "2023-09-18",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2023-09-19",
+      "downloads": 1
     }
   ],
   "package": "db-to-sqlite",
