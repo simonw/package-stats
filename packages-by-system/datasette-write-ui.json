@@ -286,6 +286,11 @@
       "downloads": 21
     },
     {
+      "category": "Linux",
+      "date": "2023-09-21",
+      "downloads": 8
+    },
+    {
       "category": "null",
       "date": "2023-08-08",
       "downloads": 52
@@ -479,6 +484,11 @@
       "category": "Windows",
       "date": "2023-09-20",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2023-09-21",
+      "downloads": 1
     }
   ],
   "package": "datasette-write-ui",
