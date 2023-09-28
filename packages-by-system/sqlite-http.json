@@ -512,11 +512,6 @@
     },
     {
       "category": "null",
-      "date": "2023-03-30",
-      "downloads": 8
-    },
-    {
-      "category": "null",
       "date": "2023-03-31",
       "downloads": 1
     },
@@ -1081,6 +1076,11 @@
       "downloads": 1
     },
     {
+      "category": "null",
+      "date": "2023-09-27",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2023-03-31",
       "downloads": 1
@@ -1159,6 +1159,11 @@
       "category": "Windows",
       "date": "2023-09-04",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2023-09-27",
+      "downloads": 4
     }
   ],
   "package": "sqlite-http",

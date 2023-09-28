@@ -67,11 +67,6 @@
     },
     {
       "category": "null",
-      "date": "2023-03-30",
-      "downloads": 1
-    },
-    {
-      "category": "null",
       "date": "2023-04-01",
       "downloads": 2
     },
@@ -474,6 +469,11 @@
       "category": "Windows",
       "date": "2023-08-05",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2023-09-27",
+      "downloads": 2
     }
   ],
   "package": "datasette-multiline-links",
