@@ -96,8 +96,8 @@
       "downloads": 1
     },
     {
-      "category": "Linux",
-      "date": "2023-03-31",
+      "category": "Darwin",
+      "date": "2023-09-28",
       "downloads": 1
     },
     {
@@ -1001,6 +1001,11 @@
       "downloads": 1
     },
     {
+      "category": "Linux",
+      "date": "2023-09-28",
+      "downloads": 2
+    },
+    {
       "category": "null",
       "date": "2023-04-07",
       "downloads": 3
@@ -1304,6 +1309,11 @@
       "category": "Windows",
       "date": "2023-09-15",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2023-09-28",
+      "downloads": 2
     }
   ],
   "package": "datasette-geojson-map",

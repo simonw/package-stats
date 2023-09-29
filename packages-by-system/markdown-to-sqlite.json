@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2023-03-31",
-      "downloads": 1
-    },
-    {
-      "category": "Darwin",
       "date": "2023-05-08",
       "downloads": 1
     },
@@ -479,6 +474,11 @@
       "category": "Windows",
       "date": "2023-07-15",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2023-09-28",
+      "downloads": 2
     }
   ],
   "package": "markdown-to-sqlite",

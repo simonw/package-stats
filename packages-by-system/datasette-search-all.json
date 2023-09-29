@@ -187,11 +187,6 @@
     },
     {
       "category": "Linux",
-      "date": "2023-03-31",
-      "downloads": 14
-    },
-    {
-      "category": "Linux",
       "date": "2023-04-01",
       "downloads": 10
     },
@@ -1091,6 +1086,11 @@
       "downloads": 35
     },
     {
+      "category": "Linux",
+      "date": "2023-09-28",
+      "downloads": 39
+    },
+    {
       "category": "null",
       "date": "2023-04-01",
       "downloads": 4
@@ -1624,6 +1624,11 @@
       "category": "Windows",
       "date": "2023-09-20",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2023-09-28",
+      "downloads": 2
     }
   ],
   "package": "datasette-search-all",

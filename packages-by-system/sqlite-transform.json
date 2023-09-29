@@ -137,11 +137,6 @@
     },
     {
       "category": "null",
-      "date": "2023-03-31",
-      "downloads": 6
-    },
-    {
-      "category": "null",
       "date": "2023-04-01",
       "downloads": 6
     },
@@ -1031,6 +1026,11 @@
       "downloads": 3
     },
     {
+      "category": "null",
+      "date": "2023-09-28",
+      "downloads": 2
+    },
+    {
       "category": "Windows",
       "date": "2023-04-06",
       "downloads": 1
@@ -1044,6 +1044,11 @@
       "category": "Windows",
       "date": "2023-05-02",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2023-09-28",
+      "downloads": 2
     }
   ],
   "package": "sqlite-transform",

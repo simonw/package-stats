@@ -7,11 +7,6 @@
     },
     {
       "category": "Linux",
-      "date": "2023-03-31",
-      "downloads": 1
-    },
-    {
-      "category": "Linux",
       "date": "2023-04-02",
       "downloads": 1
     },
@@ -218,6 +213,11 @@
     {
       "category": "Linux",
       "date": "2023-09-23",
+      "downloads": 1
+    },
+    {
+      "category": "Linux",
+      "date": "2023-09-28",
       "downloads": 1
     },
     {
@@ -634,6 +634,11 @@
       "category": "Windows",
       "date": "2023-09-02",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2023-09-28",
+      "downloads": 2
     }
   ],
   "package": "geocode-sqlite",
