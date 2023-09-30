@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2023-04-01",
-      "downloads": 1
-    },
-    {
-      "category": "Darwin",
       "date": "2023-04-03",
       "downloads": 1
     },
@@ -69,11 +64,6 @@
       "category": "Darwin",
       "date": "2023-09-24",
       "downloads": 1
-    },
-    {
-      "category": "Linux",
-      "date": "2023-04-01",
-      "downloads": 83
     },
     {
       "category": "Linux",
@@ -976,6 +966,11 @@
       "downloads": 19
     },
     {
+      "category": "Linux",
+      "date": "2023-09-29",
+      "downloads": 20
+    },
+    {
       "category": "null",
       "date": "2023-04-03",
       "downloads": 2
@@ -1746,6 +1741,11 @@
       "downloads": 9
     },
     {
+      "category": "null",
+      "date": "2023-09-29",
+      "downloads": 16
+    },
+    {
       "category": "Windows",
       "date": "2023-05-02",
       "downloads": 1
@@ -1794,6 +1794,11 @@
       "category": "Windows",
       "date": "2023-08-31",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2023-09-29",
+      "downloads": 2
     }
   ],
   "package": "datasette-block-robots",
