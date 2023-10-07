@@ -67,11 +67,6 @@
     },
     {
       "category": "Linux",
-      "date": "2023-04-08",
-      "downloads": 2
-    },
-    {
-      "category": "Linux",
       "date": "2023-04-09",
       "downloads": 2
     },
@@ -636,9 +631,9 @@
       "downloads": 4
     },
     {
-      "category": "null",
-      "date": "2023-04-08",
-      "downloads": 4
+      "category": "Linux",
+      "date": "2023-10-06",
+      "downloads": 1
     },
     {
       "category": "null",
@@ -1081,8 +1076,8 @@
       "downloads": 1
     },
     {
-      "category": "Windows",
-      "date": "2023-04-08",
+      "category": "null",
+      "date": "2023-10-06",
       "downloads": 1
     },
     {
@@ -1099,6 +1094,11 @@
       "category": "Windows",
       "date": "2023-07-21",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2023-10-06",
+      "downloads": 2
     }
   ],
   "package": "twitter-to-sqlite",
