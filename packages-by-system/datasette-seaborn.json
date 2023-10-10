@@ -152,11 +152,6 @@
     },
     {
       "category": "Linux",
-      "date": "2023-04-11",
-      "downloads": 2
-    },
-    {
-      "category": "Linux",
       "date": "2023-04-12",
       "downloads": 1
     },
@@ -706,6 +701,11 @@
       "downloads": 1
     },
     {
+      "category": "Linux",
+      "date": "2023-10-09",
+      "downloads": 1
+    },
+    {
       "category": "null",
       "date": "2023-04-18",
       "downloads": 1
@@ -924,11 +924,6 @@
       "category": "null",
       "date": "2023-10-07",
       "downloads": 7
-    },
-    {
-      "category": "Windows",
-      "date": "2023-04-11",
-      "downloads": 2
     },
     {
       "category": "Windows",
@@ -1329,6 +1324,11 @@
       "category": "Windows",
       "date": "2023-10-08",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2023-10-09",
+      "downloads": 2
     }
   ],
   "package": "datasette-seaborn",
