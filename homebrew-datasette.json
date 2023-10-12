@@ -19,11 +19,13 @@
       "url": "https://files.pythonhosted.org/packages/44/69/2c4e85d5409ca9d162a51312d284676eb7ba4293aff6c3d427523fef116d/datasette-0.64.5.tar.gz",
       "tag": null,
       "revision": null,
+      "using": null,
       "checksum": "df917896f181ce57e26c6b3b78ff7fdfdc46c322c46673b2276fae1d8e7f19e2"
     },
     "head": {
       "url": "https://github.com/simonw/datasette.git",
-      "branch": "main"
+      "branch": "main",
+      "using": null
     }
   },
   "revision": 0,
@@ -104,7 +106,7 @@
   "disable_reason": null,
   "post_install_defined": false,
   "service": null,
-  "tap_git_head": "3b6b1de1282955a81b35a9ba97487127a1cf3e8a",
+  "tap_git_head": "95517da330547a16b12eedc8ccdc69591be1bd79",
   "ruby_source_path": "Formula/d/datasette.rb",
   "ruby_source_checksum": {
     "sha256": "ffb9cb98c09d24978cbd495ec4283f3a5acce577db7580a43df98ef6aab08d75"
@@ -113,24 +115,24 @@
   "analytics": {
     "install": {
       "30d": {
-        "datasette": 543
+        "datasette": 545
       },
       "90d": {
         "datasette": 1116
       },
       "365d": {
-        "datasette": 1870
+        "datasette": 1872
       }
     },
     "install_on_request": {
       "30d": {
-        "datasette": 543
+        "datasette": 545
       },
       "90d": {
         "datasette": 1116
       },
       "365d": {
-        "datasette": 1870
+        "datasette": 1872
       }
     },
     "build_error": {
