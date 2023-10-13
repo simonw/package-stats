@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2023-04-14",
-      "downloads": 1
-    },
-    {
-      "category": "Darwin",
       "date": "2023-04-16",
       "downloads": 1
     },
@@ -141,9 +136,9 @@
       "downloads": 1
     },
     {
-      "category": "Linux",
-      "date": "2023-04-14",
-      "downloads": 7
+      "category": "Darwin",
+      "date": "2023-10-12",
+      "downloads": 1
     },
     {
       "category": "Linux",
@@ -466,9 +461,9 @@
       "downloads": 1
     },
     {
-      "category": "null",
-      "date": "2023-04-14",
-      "downloads": 8
+      "category": "Linux",
+      "date": "2023-10-12",
+      "downloads": 2
     },
     {
       "category": "null",
@@ -771,6 +766,11 @@
       "downloads": 15
     },
     {
+      "category": "null",
+      "date": "2023-10-12",
+      "downloads": 7
+    },
+    {
       "category": "Windows",
       "date": "2023-04-28",
       "downloads": 2
@@ -809,6 +809,11 @@
       "category": "Windows",
       "date": "2023-09-28",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2023-10-12",
+      "downloads": 1
     }
   ],
   "package": "datasette-nteract-data-explorer",
