@@ -362,11 +362,6 @@
     },
     {
       "category": "Linux",
-      "date": "2023-04-18",
-      "downloads": 6
-    },
-    {
-      "category": "Linux",
       "date": "2023-04-19",
       "downloads": 25
     },
@@ -1176,9 +1171,9 @@
       "downloads": 1
     },
     {
-      "category": "null",
-      "date": "2023-04-18",
-      "downloads": 3
+      "category": "Linux",
+      "date": "2023-10-16",
+      "downloads": 17
     },
     {
       "category": "null",
@@ -1716,6 +1711,11 @@
       "downloads": 1
     },
     {
+      "category": "null",
+      "date": "2023-10-16",
+      "downloads": 5
+    },
+    {
       "category": "other",
       "date": "2023-06-24",
       "downloads": 1
@@ -1724,11 +1724,6 @@
       "category": "other",
       "date": "2023-10-02",
       "downloads": 1
-    },
-    {
-      "category": "Windows",
-      "date": "2023-04-18",
-      "downloads": 2
     },
     {
       "category": "Windows",
@@ -2154,6 +2149,11 @@
       "category": "Windows",
       "date": "2023-10-12",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2023-10-16",
+      "downloads": 2
     }
   ],
   "package": "db-to-sqlite",
