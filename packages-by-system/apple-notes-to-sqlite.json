@@ -246,8 +246,8 @@
       "downloads": 1
     },
     {
-      "category": "Linux",
-      "date": "2023-04-23",
+      "category": "Darwin",
+      "date": "2023-10-21",
       "downloads": 1
     },
     {
@@ -587,11 +587,6 @@
     },
     {
       "category": "Windows",
-      "date": "2023-04-23",
-      "downloads": 1
-    },
-    {
-      "category": "Windows",
       "date": "2023-04-28",
       "downloads": 1
     },
@@ -624,6 +619,11 @@
       "category": "Windows",
       "date": "2023-10-07",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2023-10-21",
+      "downloads": 2
     }
   ],
   "package": "apple-notes-to-sqlite",
