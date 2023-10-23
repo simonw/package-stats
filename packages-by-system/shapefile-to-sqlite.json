@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2023-04-24",
-      "downloads": 1
-    },
-    {
-      "category": "Darwin",
       "date": "2023-05-08",
       "downloads": 1
     },
@@ -869,6 +864,11 @@
       "category": "Windows",
       "date": "2023-10-13",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2023-10-22",
+      "downloads": 2
     }
   ],
   "package": "shapefile-to-sqlite",
