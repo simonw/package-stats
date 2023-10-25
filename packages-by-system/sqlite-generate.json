@@ -162,11 +162,6 @@
     },
     {
       "category": "null",
-      "date": "2023-04-26",
-      "downloads": 2
-    },
-    {
-      "category": "null",
       "date": "2023-04-28",
       "downloads": 2
     },
@@ -507,11 +502,6 @@
     },
     {
       "category": "Windows",
-      "date": "2023-04-26",
-      "downloads": 1
-    },
-    {
-      "category": "Windows",
       "date": "2023-06-06",
       "downloads": 1
     },
@@ -539,6 +529,11 @@
       "category": "Windows",
       "date": "2023-10-22",
       "downloads": 8
+    },
+    {
+      "category": "Windows",
+      "date": "2023-10-24",
+      "downloads": 1
     }
   ],
   "package": "sqlite-generate",
