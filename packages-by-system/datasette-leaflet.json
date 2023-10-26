@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2023-04-27",
-      "downloads": 3
-    },
-    {
-      "category": "Darwin",
       "date": "2023-04-28",
       "downloads": 2
     },
@@ -846,9 +841,9 @@
       "downloads": 4
     },
     {
-      "category": "Linux",
-      "date": "2023-04-27",
-      "downloads": 105
+      "category": "Darwin",
+      "date": "2023-10-25",
+      "downloads": 10
     },
     {
       "category": "Linux",
@@ -1751,9 +1746,9 @@
       "downloads": 148
     },
     {
-      "category": "null",
-      "date": "2023-04-27",
-      "downloads": 20
+      "category": "Linux",
+      "date": "2023-10-25",
+      "downloads": 154
     },
     {
       "category": "null",
@@ -2636,6 +2631,11 @@
       "downloads": 50
     },
     {
+      "category": "null",
+      "date": "2023-10-25",
+      "downloads": 7
+    },
+    {
       "category": "other",
       "date": "2023-06-03",
       "downloads": 1
@@ -2984,6 +2984,11 @@
       "category": "Windows",
       "date": "2023-10-24",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2023-10-25",
+      "downloads": 3
     }
   ],
   "package": "datasette-leaflet",
