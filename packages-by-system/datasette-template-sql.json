@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2023-04-29",
-      "downloads": 1
-    },
-    {
-      "category": "Darwin",
       "date": "2023-05-01",
       "downloads": 1
     },
@@ -229,11 +224,6 @@
       "category": "Darwin",
       "date": "2023-10-21",
       "downloads": 2
-    },
-    {
-      "category": "Linux",
-      "date": "2023-04-29",
-      "downloads": 4
     },
     {
       "category": "Linux",
@@ -1136,9 +1126,9 @@
       "downloads": 12
     },
     {
-      "category": "null",
-      "date": "2023-04-29",
-      "downloads": 4
+      "category": "Linux",
+      "date": "2023-10-27",
+      "downloads": 15
     },
     {
       "category": "null",
@@ -1509,6 +1499,11 @@
       "category": "Windows",
       "date": "2023-10-20",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2023-10-27",
+      "downloads": 1
     }
   ],
   "package": "datasette-template-sql",
