@@ -67,11 +67,6 @@
     },
     {
       "category": "Linux",
-      "date": "2023-05-04",
-      "downloads": 2
-    },
-    {
-      "category": "Linux",
       "date": "2023-05-05",
       "downloads": 2
     },
@@ -696,6 +691,11 @@
       "downloads": 4
     },
     {
+      "category": "Linux",
+      "date": "2023-11-01",
+      "downloads": 4
+    },
+    {
       "category": "null",
       "date": "2023-05-06",
       "downloads": 1
@@ -956,6 +956,11 @@
       "downloads": 1
     },
     {
+      "category": "null",
+      "date": "2023-11-01",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2023-05-13",
       "downloads": 1
@@ -1009,6 +1014,11 @@
       "category": "Windows",
       "date": "2023-10-21",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2023-11-01",
+      "downloads": 1
     }
   ],
   "package": "yaml-to-sqlite",
