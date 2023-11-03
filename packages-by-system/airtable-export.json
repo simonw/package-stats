@@ -151,9 +151,9 @@
       "downloads": 1
     },
     {
-      "category": "Linux",
-      "date": "2023-05-05",
-      "downloads": 5
+      "category": "Darwin",
+      "date": "2023-11-02",
+      "downloads": 1
     },
     {
       "category": "Linux",
@@ -1056,6 +1056,11 @@
       "downloads": 48
     },
     {
+      "category": "Linux",
+      "date": "2023-11-02",
+      "downloads": 45
+    },
+    {
       "category": "null",
       "date": "2023-05-09",
       "downloads": 8
@@ -1594,6 +1599,11 @@
       "category": "Windows",
       "date": "2023-10-21",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2023-11-02",
+      "downloads": 1
     }
   ],
   "package": "airtable-export",
