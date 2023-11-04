@@ -226,8 +226,8 @@
       "downloads": 1
     },
     {
-      "category": "Linux",
-      "date": "2023-05-06",
+      "category": "Darwin",
+      "date": "2023-11-03",
       "downloads": 1
     },
     {
@@ -876,9 +876,9 @@
       "downloads": 5
     },
     {
-      "category": "null",
-      "date": "2023-05-06",
-      "downloads": 1
+      "category": "Linux",
+      "date": "2023-11-03",
+      "downloads": 19
     },
     {
       "category": "null",
@@ -1434,6 +1434,11 @@
       "category": "Windows",
       "date": "2023-10-23",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2023-11-03",
+      "downloads": 2
     }
   ],
   "package": "datasette-upload-csvs",
