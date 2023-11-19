@@ -681,6 +681,11 @@
       "downloads": 5
     },
     {
+      "category": "Linux",
+      "date": "2023-11-18",
+      "downloads": 3
+    },
+    {
       "category": "null",
       "date": "2023-05-22",
       "downloads": 2
@@ -1221,6 +1226,11 @@
       "downloads": 32
     },
     {
+      "category": "null",
+      "date": "2023-11-18",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2023-05-22",
       "downloads": 1
@@ -1319,6 +1329,11 @@
       "category": "Windows",
       "date": "2023-11-13",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2023-11-18",
+      "downloads": 4
     }
   ],
   "package": "datasette-export-notebook",
