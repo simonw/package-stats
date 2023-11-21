@@ -81,8 +81,8 @@
       "downloads": 1
     },
     {
-      "category": "Linux",
-      "date": "2023-05-23",
+      "category": "Darwin",
+      "date": "2023-11-20",
       "downloads": 1
     },
     {
@@ -931,6 +931,11 @@
       "downloads": 3
     },
     {
+      "category": "Linux",
+      "date": "2023-11-20",
+      "downloads": 48
+    },
+    {
       "category": "null",
       "date": "2023-05-25",
       "downloads": 1
@@ -1414,6 +1419,11 @@
       "category": "Windows",
       "date": "2023-11-05",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2023-11-20",
+      "downloads": 2
     }
   ],
   "package": "datasette-dateutil",
