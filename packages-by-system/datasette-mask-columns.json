@@ -42,11 +42,6 @@
     },
     {
       "category": "Linux",
-      "date": "2023-05-24",
-      "downloads": 1
-    },
-    {
-      "category": "Linux",
       "date": "2023-05-31",
       "downloads": 1
     },
@@ -676,6 +671,11 @@
       "downloads": 59
     },
     {
+      "category": "Linux",
+      "date": "2023-11-21",
+      "downloads": 30
+    },
+    {
       "category": "null",
       "date": "2023-05-27",
       "downloads": 1
@@ -906,6 +906,11 @@
       "downloads": 3
     },
     {
+      "category": "null",
+      "date": "2023-11-21",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2023-07-26",
       "downloads": 1
@@ -924,6 +929,11 @@
       "category": "Windows",
       "date": "2023-10-20",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2023-11-21",
+      "downloads": 4
     }
   ],
   "package": "datasette-mask-columns",

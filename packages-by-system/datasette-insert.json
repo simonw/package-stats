@@ -62,11 +62,6 @@
     },
     {
       "category": "Linux",
-      "date": "2023-05-24",
-      "downloads": 7
-    },
-    {
-      "category": "Linux",
       "date": "2023-05-25",
       "downloads": 1
     },
@@ -781,6 +776,11 @@
       "downloads": 47
     },
     {
+      "category": "Linux",
+      "date": "2023-11-21",
+      "downloads": 25
+    },
+    {
       "category": "null",
       "date": "2023-05-29",
       "downloads": 4
@@ -1039,6 +1039,11 @@
       "category": "Windows",
       "date": "2023-10-22",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2023-11-21",
+      "downloads": 1
     }
   ],
   "package": "datasette-insert",
