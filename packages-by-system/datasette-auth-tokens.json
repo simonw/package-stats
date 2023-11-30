@@ -901,9 +901,9 @@
       "downloads": 18
     },
     {
-      "category": "null",
-      "date": "2023-06-01",
-      "downloads": 3
+      "category": "Linux",
+      "date": "2023-11-29",
+      "downloads": 12
     },
     {
       "category": "null",
@@ -1341,6 +1341,11 @@
       "downloads": 2
     },
     {
+      "category": "null",
+      "date": "2023-11-29",
+      "downloads": 10
+    },
+    {
       "category": "Windows",
       "date": "2023-09-28",
       "downloads": 2
@@ -1349,6 +1354,11 @@
       "category": "Windows",
       "date": "2023-10-20",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2023-11-29",
+      "downloads": 4
     }
   ],
   "package": "datasette-auth-tokens",

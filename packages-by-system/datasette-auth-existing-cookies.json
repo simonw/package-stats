@@ -596,6 +596,11 @@
       "downloads": 12
     },
     {
+      "category": "Linux",
+      "date": "2023-11-29",
+      "downloads": 5
+    },
+    {
       "category": "null",
       "date": "2023-06-02",
       "downloads": 1
@@ -941,6 +946,11 @@
       "downloads": 2
     },
     {
+      "category": "null",
+      "date": "2023-11-29",
+      "downloads": 4
+    },
+    {
       "category": "Windows",
       "date": "2023-09-29",
       "downloads": 2
@@ -949,6 +959,11 @@
       "category": "Windows",
       "date": "2023-10-20",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2023-11-29",
+      "downloads": 4
     }
   ],
   "package": "datasette-auth-existing-cookies",
