@@ -501,6 +501,11 @@
       "downloads": 5
     },
     {
+      "category": "Linux",
+      "date": "2023-11-30",
+      "downloads": 24
+    },
+    {
       "category": "null",
       "date": "2023-06-05",
       "downloads": 1
@@ -774,6 +779,11 @@
       "category": "Windows",
       "date": "2023-11-16",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2023-11-30",
+      "downloads": 1
     }
   ],
   "package": "datasette-socrata",

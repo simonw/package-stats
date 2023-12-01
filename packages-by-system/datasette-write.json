@@ -696,6 +696,11 @@
       "downloads": 8
     },
     {
+      "category": "Linux",
+      "date": "2023-11-30",
+      "downloads": 23
+    },
+    {
       "category": "null",
       "date": "2023-06-11",
       "downloads": 1
@@ -949,6 +954,11 @@
       "category": "Windows",
       "date": "2023-11-24",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2023-11-30",
+      "downloads": 4
     }
   ],
   "package": "datasette-write",
