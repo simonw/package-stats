@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "category": "Darwin",
+      "date": "2023-11-30",
+      "downloads": 3
+    },
+    {
+      "category": "Linux",
+      "date": "2023-11-30",
+      "downloads": 46
+    },
+    {
+      "category": "Linux",
+      "date": "2023-12-01",
+      "downloads": 4
+    },
+    {
+      "category": "null",
+      "date": "2023-11-30",
+      "downloads": 57
+    },
+    {
+      "category": "null",
+      "date": "2023-12-01",
+      "downloads": 13
+    },
+    {
+      "category": "Windows",
+      "date": "2023-11-30",
+      "downloads": 4
+    }
+  ],
+  "package": "datasette-enrichments-opencage",
+  "type": "system_downloads"
+}
