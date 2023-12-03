@@ -86,6 +86,11 @@
       "downloads": 6
     },
     {
+      "category": "Linux",
+      "date": "2023-12-02",
+      "downloads": 14
+    },
+    {
       "category": "null",
       "date": "2023-11-16",
       "downloads": 265
@@ -151,6 +156,11 @@
       "downloads": 12
     },
     {
+      "category": "null",
+      "date": "2023-12-02",
+      "downloads": 29
+    },
+    {
       "category": "Windows",
       "date": "2023-11-16",
       "downloads": 6
@@ -184,6 +194,11 @@
       "category": "Windows",
       "date": "2023-12-01",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2023-12-02",
+      "downloads": 1
     }
   ],
   "package": "datasette-enrichments",

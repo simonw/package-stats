@@ -31,6 +31,11 @@
       "downloads": 8
     },
     {
+      "category": "Linux",
+      "date": "2023-12-02",
+      "downloads": 17
+    },
+    {
       "category": "null",
       "date": "2023-11-22",
       "downloads": 70
@@ -76,6 +81,11 @@
       "downloads": 34
     },
     {
+      "category": "null",
+      "date": "2023-12-02",
+      "downloads": 14
+    },
+    {
       "category": "Windows",
       "date": "2023-11-22",
       "downloads": 4
@@ -84,6 +94,11 @@
       "category": "Windows",
       "date": "2023-12-01",
       "downloads": 4
+    },
+    {
+      "category": "Windows",
+      "date": "2023-12-02",
+      "downloads": 5
     }
   ],
   "package": "datasette-enrichments-gpt",
