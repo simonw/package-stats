@@ -66,8 +66,8 @@
       "downloads": 1
     },
     {
-      "category": "Linux",
-      "date": "2023-06-07",
+      "category": "Darwin",
+      "date": "2023-12-05",
       "downloads": 1
     },
     {
@@ -621,9 +621,9 @@
       "downloads": 10
     },
     {
-      "category": "null",
-      "date": "2023-06-07",
-      "downloads": 2
+      "category": "Linux",
+      "date": "2023-12-05",
+      "downloads": 5
     },
     {
       "category": "null",
@@ -986,6 +986,11 @@
       "downloads": 2
     },
     {
+      "category": "null",
+      "date": "2023-12-05",
+      "downloads": 2
+    },
+    {
       "category": "Windows",
       "date": "2023-06-18",
       "downloads": 1
@@ -1009,6 +1014,11 @@
       "category": "Windows",
       "date": "2023-10-23",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2023-12-05",
+      "downloads": 4
     }
   ],
   "package": "twitter-to-sqlite",

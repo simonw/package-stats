@@ -407,11 +407,6 @@
     },
     {
       "category": "null",
-      "date": "2023-06-07",
-      "downloads": 1
-    },
-    {
-      "category": "null",
       "date": "2023-06-09",
       "downloads": 4
     },
@@ -644,6 +639,11 @@
       "category": "Windows",
       "date": "2023-11-28",
       "downloads": 4
+    },
+    {
+      "category": "Windows",
+      "date": "2023-12-05",
+      "downloads": 1
     }
   ],
   "package": "datasette-codespaces",
