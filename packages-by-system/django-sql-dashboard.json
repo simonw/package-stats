@@ -156,9 +156,9 @@
       "downloads": 2
     },
     {
-      "category": "Linux",
-      "date": "2023-06-08",
-      "downloads": 67
+      "category": "Darwin",
+      "date": "2023-12-06",
+      "downloads": 1
     },
     {
       "category": "Linux",
@@ -1061,9 +1061,9 @@
       "downloads": 143
     },
     {
-      "category": "null",
-      "date": "2023-06-08",
-      "downloads": 40
+      "category": "Linux",
+      "date": "2023-12-06",
+      "downloads": 82
     },
     {
       "category": "null",
@@ -1946,9 +1946,9 @@
       "downloads": 29
     },
     {
-      "category": "Windows",
-      "date": "2023-06-08",
-      "downloads": 1
+      "category": "null",
+      "date": "2023-12-06",
+      "downloads": 17
     },
     {
       "category": "Windows",
@@ -2109,6 +2109,11 @@
       "category": "Windows",
       "date": "2023-11-21",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2023-12-06",
+      "downloads": 1
     }
   ],
   "package": "django-sql-dashboard",
