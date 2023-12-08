@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "category": "Linux",
+      "date": "2023-12-06",
+      "downloads": 28
+    },
+    {
+      "category": "Linux",
+      "date": "2023-12-07",
+      "downloads": 6
+    },
+    {
+      "category": "null",
+      "date": "2023-12-06",
+      "downloads": 146
+    },
+    {
+      "category": "null",
+      "date": "2023-12-07",
+      "downloads": 17
+    },
+    {
+      "category": "Windows",
+      "date": "2023-12-06",
+      "downloads": 4
+    }
+  ],
+  "package": "datasette-chronicle",
+  "type": "system_downloads"
+}
