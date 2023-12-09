@@ -22,11 +22,6 @@
     },
     {
       "category": "Linux",
-      "date": "2023-06-10",
-      "downloads": 4
-    },
-    {
-      "category": "Linux",
       "date": "2023-06-11",
       "downloads": 1
     },
@@ -94,11 +89,6 @@
       "category": "Linux",
       "date": "2023-11-27",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2023-06-10",
-      "downloads": 1
     },
     {
       "category": "null",
@@ -351,6 +341,11 @@
       "downloads": 1
     },
     {
+      "category": "null",
+      "date": "2023-12-08",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2023-06-22",
       "downloads": 1
@@ -389,6 +384,11 @@
       "category": "Windows",
       "date": "2023-11-01",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2023-12-08",
+      "downloads": 4
     }
   ],
   "package": "datasette-mp3-audio",

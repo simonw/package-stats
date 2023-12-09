@@ -61,8 +61,8 @@
       "downloads": 1
     },
     {
-      "category": "Linux",
-      "date": "2023-06-10",
+      "category": "Darwin",
+      "date": "2023-12-08",
       "downloads": 1
     },
     {
@@ -966,9 +966,9 @@
       "downloads": 1
     },
     {
-      "category": "null",
-      "date": "2023-06-10",
-      "downloads": 2
+      "category": "Linux",
+      "date": "2023-12-08",
+      "downloads": 1
     },
     {
       "category": "null",
@@ -1439,6 +1439,11 @@
       "category": "Windows",
       "date": "2023-11-22",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2023-12-08",
+      "downloads": 4
     }
   ],
   "package": "geojson-to-sqlite",
