@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2023-06-11",
-      "downloads": 1
-    },
-    {
-      "category": "Darwin",
       "date": "2023-06-13",
       "downloads": 1
     },
@@ -154,11 +149,6 @@
       "category": "Darwin",
       "date": "2023-12-08",
       "downloads": 1
-    },
-    {
-      "category": "Linux",
-      "date": "2023-06-11",
-      "downloads": 2
     },
     {
       "category": "Linux",
@@ -996,9 +986,9 @@
       "downloads": 7
     },
     {
-      "category": "null",
-      "date": "2023-06-11",
-      "downloads": 1
+      "category": "Linux",
+      "date": "2023-12-09",
+      "downloads": 5
     },
     {
       "category": "null",
@@ -1481,6 +1471,11 @@
       "downloads": 16
     },
     {
+      "category": "null",
+      "date": "2023-12-09",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2023-07-20",
       "downloads": 1
@@ -1509,6 +1504,11 @@
       "category": "Windows",
       "date": "2023-11-23",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2023-12-09",
+      "downloads": 4
     }
   ],
   "package": "github-to-sqlite",
