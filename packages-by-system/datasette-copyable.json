@@ -207,11 +207,6 @@
     },
     {
       "category": "Linux",
-      "date": "2023-06-12",
-      "downloads": 5
-    },
-    {
-      "category": "Linux",
       "date": "2023-06-13",
       "downloads": 5
     },
@@ -1091,6 +1086,11 @@
       "downloads": 7
     },
     {
+      "category": "Linux",
+      "date": "2023-12-10",
+      "downloads": 5
+    },
+    {
       "category": "null",
       "date": "2023-06-14",
       "downloads": 1
@@ -1799,6 +1799,11 @@
       "category": "Windows",
       "date": "2023-12-01",
       "downloads": 4
+    },
+    {
+      "category": "Windows",
+      "date": "2023-12-10",
+      "downloads": 1
     }
   ],
   "package": "datasette-copyable",
