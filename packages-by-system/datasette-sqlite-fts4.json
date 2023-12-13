@@ -646,6 +646,11 @@
       "downloads": 2
     },
     {
+      "category": "Linux",
+      "date": "2023-12-12",
+      "downloads": 2
+    },
+    {
       "category": "null",
       "date": "2023-06-16",
       "downloads": 1
@@ -907,11 +912,6 @@
     },
     {
       "category": "Windows",
-      "date": "2023-06-14",
-      "downloads": 1
-    },
-    {
-      "category": "Windows",
       "date": "2023-08-16",
       "downloads": 1
     },
@@ -944,6 +944,11 @@
       "category": "Windows",
       "date": "2023-10-23",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2023-12-12",
+      "downloads": 4
     }
   ],
   "package": "datasette-sqlite-fts4",
