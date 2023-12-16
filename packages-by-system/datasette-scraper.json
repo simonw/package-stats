@@ -347,11 +347,6 @@
     },
     {
       "category": "null",
-      "date": "2023-06-17",
-      "downloads": 6
-    },
-    {
-      "category": "null",
       "date": "2023-06-20",
       "downloads": 10
     },
@@ -671,6 +666,11 @@
       "downloads": 1
     },
     {
+      "category": "null",
+      "date": "2023-12-15",
+      "downloads": 6
+    },
+    {
       "category": "Windows",
       "date": "2023-06-27",
       "downloads": 1
@@ -709,6 +709,11 @@
       "category": "Windows",
       "date": "2023-12-01",
       "downloads": 4
+    },
+    {
+      "category": "Windows",
+      "date": "2023-12-15",
+      "downloads": 1
     }
   ],
   "package": "datasette-scraper",
