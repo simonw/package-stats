@@ -2,38 +2,23 @@
   "data": [
     {
       "category": "Linux",
-      "date": "2023-12-06",
-      "downloads": 28
-    },
-    {
-      "category": "Linux",
       "date": "2023-12-07",
-      "downloads": 6
+      "downloads": 33
     },
     {
       "category": "Linux",
       "date": "2023-12-08",
-      "downloads": 19
-    },
-    {
-      "category": "Linux",
-      "date": "2023-12-09",
-      "downloads": 5
-    },
-    {
-      "category": "Linux",
-      "date": "2023-12-10",
-      "downloads": 5
+      "downloads": 2
     },
     {
       "category": "Linux",
       "date": "2023-12-11",
-      "downloads": 5
+      "downloads": 3
     },
     {
       "category": "Linux",
       "date": "2023-12-12",
-      "downloads": 7
+      "downloads": 1
     },
     {
       "category": "Linux",
@@ -42,28 +27,8 @@
     },
     {
       "category": "Linux",
-      "date": "2023-12-14",
-      "downloads": 9
-    },
-    {
-      "category": "Linux",
-      "date": "2023-12-15",
-      "downloads": 4
-    },
-    {
-      "category": "Linux",
-      "date": "2023-12-16",
-      "downloads": 4
-    },
-    {
-      "category": "Linux",
-      "date": "2023-12-17",
-      "downloads": 6
-    },
-    {
-      "category": "Linux",
       "date": "2023-12-18",
-      "downloads": 4
+      "downloads": 1
     },
     {
       "category": "Linux",
@@ -73,69 +38,79 @@
     {
       "category": "Linux",
       "date": "2023-12-20",
-      "downloads": 4
+      "downloads": 2
     },
     {
       "category": "Linux",
       "date": "2023-12-21",
-      "downloads": 17
-    },
-    {
-      "category": "null",
-      "date": "2023-12-06",
-      "downloads": 146
-    },
-    {
-      "category": "null",
-      "date": "2023-12-07",
-      "downloads": 17
-    },
-    {
-      "category": "null",
-      "date": "2023-12-08",
-      "downloads": 63
-    },
-    {
-      "category": "null",
-      "date": "2023-12-09",
       "downloads": 19
     },
     {
       "category": "null",
+      "date": "2023-12-07",
+      "downloads": 141
+    },
+    {
+      "category": "null",
+      "date": "2023-12-08",
+      "downloads": 38
+    },
+    {
+      "category": "null",
+      "date": "2023-12-09",
+      "downloads": 25
+    },
+    {
+      "category": "null",
       "date": "2023-12-10",
+      "downloads": 7
+    },
+    {
+      "category": "null",
+      "date": "2023-12-12",
       "downloads": 2
     },
     {
       "category": "null",
       "date": "2023-12-13",
-      "downloads": 2
+      "downloads": 3
     },
     {
       "category": "null",
       "date": "2023-12-15",
-      "downloads": 4
+      "downloads": 3
+    },
+    {
+      "category": "null",
+      "date": "2023-12-16",
+      "downloads": 1
     },
     {
       "category": "null",
       "date": "2023-12-19",
-      "downloads": 2
+      "downloads": 36
     },
     {
       "category": "null",
       "date": "2023-12-20",
-      "downloads": 1
+      "downloads": 10
+    },
+    {
+      "category": "null",
+      "date": "2023-12-21",
+      "downloads": 67
     },
     {
       "category": "Windows",
-      "date": "2023-12-06",
+      "date": "2023-12-07",
       "downloads": 4
     },
     {
       "category": "Windows",
-      "date": "2023-12-08",
-      "downloads": 8
+      "date": "2023-12-19",
+      "downloads": 5
     }
   ],
-  "package": "datasette-chronicle",
+  "package": "datasette-plot",
   "type": "system_downloads"
 }
