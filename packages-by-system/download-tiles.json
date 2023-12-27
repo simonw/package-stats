@@ -102,11 +102,6 @@
     },
     {
       "category": "Linux",
-      "date": "2023-06-28",
-      "downloads": 1
-    },
-    {
-      "category": "Linux",
       "date": "2023-06-29",
       "downloads": 1
     },
@@ -696,6 +691,11 @@
       "downloads": 1
     },
     {
+      "category": "null",
+      "date": "2023-12-26",
+      "downloads": 4
+    },
+    {
       "category": "Windows",
       "date": "2023-06-30",
       "downloads": 1
@@ -899,6 +899,11 @@
       "category": "Windows",
       "date": "2023-12-25",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2023-12-26",
+      "downloads": 2
     }
   ],
   "package": "download-tiles",
