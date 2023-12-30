@@ -157,11 +157,6 @@
     },
     {
       "category": "null",
-      "date": "2023-07-01",
-      "downloads": 4
-    },
-    {
-      "category": "null",
       "date": "2023-07-02",
       "downloads": 3
     },
@@ -379,6 +374,11 @@
       "category": "Windows",
       "date": "2023-11-29",
       "downloads": 4
+    },
+    {
+      "category": "Windows",
+      "date": "2023-12-29",
+      "downloads": 1
     }
   ],
   "package": "datasette-ephemeral-tables",
