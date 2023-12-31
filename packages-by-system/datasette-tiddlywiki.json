@@ -52,11 +52,6 @@
     },
     {
       "category": "null",
-      "date": "2023-07-02",
-      "downloads": 2
-    },
-    {
-      "category": "null",
       "date": "2023-07-05",
       "downloads": 2
     },
@@ -269,6 +264,11 @@
       "category": "Windows",
       "date": "2023-12-03",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2023-12-30",
+      "downloads": 2
     }
   ],
   "package": "datasette-tiddlywiki",
