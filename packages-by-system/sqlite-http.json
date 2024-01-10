@@ -62,11 +62,6 @@
     },
     {
       "category": "Linux",
-      "date": "2023-07-12",
-      "downloads": 9
-    },
-    {
-      "category": "Linux",
       "date": "2023-07-15",
       "downloads": 2
     },
@@ -656,9 +651,9 @@
       "downloads": 16
     },
     {
-      "category": "null",
-      "date": "2023-07-12",
-      "downloads": 59
+      "category": "Linux",
+      "date": "2024-01-09",
+      "downloads": 2
     },
     {
       "category": "null",
@@ -1259,6 +1254,11 @@
       "category": "Windows",
       "date": "2024-01-01",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2024-01-09",
+      "downloads": 1
     }
   ],
   "package": "sqlite-http",
