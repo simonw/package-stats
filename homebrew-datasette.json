@@ -28,7 +28,7 @@
       "using": null
     }
   },
-  "revision": 0,
+  "revision": 1,
   "version_scheme": 0,
   "bottle": {
     "stable": {
@@ -37,38 +37,38 @@
       "files": {
         "arm64_sonoma": {
           "cellar": ":any_skip_relocation",
-          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:008c1337e9fa824845072a352b6ddce2e629207f8f17237b16d8bb99e3fc7c17",
-          "sha256": "008c1337e9fa824845072a352b6ddce2e629207f8f17237b16d8bb99e3fc7c17"
+          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:549bde599a5c10378ecccdc707bea2074d0424ea65f811343193f6c8b6d3a54b",
+          "sha256": "549bde599a5c10378ecccdc707bea2074d0424ea65f811343193f6c8b6d3a54b"
         },
         "arm64_ventura": {
           "cellar": ":any_skip_relocation",
-          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:1bbfa65a4cd46f769ec8670122738663eb7ffd89a1ec8c268e604e8d8ded32f3",
-          "sha256": "1bbfa65a4cd46f769ec8670122738663eb7ffd89a1ec8c268e604e8d8ded32f3"
+          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:51400d561d76bdafcb5ba337a1057b0d6d4d3c44149a5d91c10b8932073c358b",
+          "sha256": "51400d561d76bdafcb5ba337a1057b0d6d4d3c44149a5d91c10b8932073c358b"
         },
         "arm64_monterey": {
           "cellar": ":any_skip_relocation",
-          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:d7d14c33232c703e2e9c17025226dc9c7a68f53dfc5eb28a73c1de2a7dc675e0",
-          "sha256": "d7d14c33232c703e2e9c17025226dc9c7a68f53dfc5eb28a73c1de2a7dc675e0"
+          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:6565806e4c24c59b3fd612ba5fbfe29465d54ca21b3fb5f76713c4af6ef8f8bf",
+          "sha256": "6565806e4c24c59b3fd612ba5fbfe29465d54ca21b3fb5f76713c4af6ef8f8bf"
         },
         "sonoma": {
           "cellar": ":any_skip_relocation",
-          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:1e9c65787da35dccdc3d6f66988846ad76e62b5801d35b6a16e9b88e718957a2",
-          "sha256": "1e9c65787da35dccdc3d6f66988846ad76e62b5801d35b6a16e9b88e718957a2"
+          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:ae790d8a286837553c7e4ef7543f3f188b888e60c524ae3860fcdd3cf7f0dc89",
+          "sha256": "ae790d8a286837553c7e4ef7543f3f188b888e60c524ae3860fcdd3cf7f0dc89"
         },
         "ventura": {
           "cellar": ":any_skip_relocation",
-          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:c53c26fbd0308ef8e23889b2797a680b5bde3a9ebdfe471fa79683f40d34e3d0",
-          "sha256": "c53c26fbd0308ef8e23889b2797a680b5bde3a9ebdfe471fa79683f40d34e3d0"
+          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:c6651180b094cd749414cea257e285f43d304d39462a0ea69c75a0255a6d7bc8",
+          "sha256": "c6651180b094cd749414cea257e285f43d304d39462a0ea69c75a0255a6d7bc8"
         },
         "monterey": {
           "cellar": ":any_skip_relocation",
-          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:82c69a3b02cf3e912cb687a98b0d0f3c31be4a2b69ddf8c9e89472f6ac3c1fd0",
-          "sha256": "82c69a3b02cf3e912cb687a98b0d0f3c31be4a2b69ddf8c9e89472f6ac3c1fd0"
+          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:52a896b7c03ea47ca349c5035aae966bbdfe8ad89c2cbbdb4f6cf9ac78269acd",
+          "sha256": "52a896b7c03ea47ca349c5035aae966bbdfe8ad89c2cbbdb4f6cf9ac78269acd"
         },
         "x86_64_linux": {
           "cellar": ":any_skip_relocation",
-          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:04e0673b9a5c0ad39244a208270c1d9357b503338f6bbfa48b166cac94b5f8c0",
-          "sha256": "04e0673b9a5c0ad39244a208270c1d9357b503338f6bbfa48b166cac94b5f8c0"
+          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:32617b474bb4f6a9b3fb9a7f3abdd089e52eef2a6e7297e119384690eb16cfb0",
+          "sha256": "32617b474bb4f6a9b3fb9a7f3abdd089e52eef2a6e7297e119384690eb16cfb0"
         }
       }
     }
@@ -111,33 +111,33 @@
   "disable_reason": null,
   "post_install_defined": false,
   "service": null,
-  "tap_git_head": "d7df3c9690b30dda9ab9a414625eecbc52381a10",
+  "tap_git_head": "c681c9e97a5ff5100dc909879058f4b268b3021d",
   "ruby_source_path": "Formula/d/datasette.rb",
   "ruby_source_checksum": {
-    "sha256": "ef482ee3039a960d31e8ea0f4b8a7cdf066a03463b0de13fc87194b2e058fe55"
+    "sha256": "d4ca3d326fad6c57bd4ebd864ad30e6392b7b21a8c3bda15f16b770ad4bf17a0"
   },
   "variations": {},
   "analytics": {
     "install": {
       "30d": {
-        "datasette": 411
+        "datasette": 432
       },
       "90d": {
-        "datasette": 1026
+        "datasette": 1040
       },
       "365d": {
-        "datasette": 2928
+        "datasette": 2947
       }
     },
     "install_on_request": {
       "30d": {
-        "datasette": 411
+        "datasette": 430
       },
       "90d": {
-        "datasette": 1026
+        "datasette": 1039
       },
       "365d": {
-        "datasette": 2928
+        "datasette": 2947
       }
     },
     "build_error": {
