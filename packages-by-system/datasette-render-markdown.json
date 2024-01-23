@@ -457,11 +457,6 @@
     },
     {
       "category": "Linux",
-      "date": "2023-07-25",
-      "downloads": 18
-    },
-    {
-      "category": "Linux",
       "date": "2023-07-26",
       "downloads": 20
     },
@@ -1361,9 +1356,9 @@
       "downloads": 42
     },
     {
-      "category": "null",
-      "date": "2023-07-25",
-      "downloads": 2
+      "category": "Linux",
+      "date": "2024-01-22",
+      "downloads": 46
     },
     {
       "category": "null",
@@ -2266,6 +2261,11 @@
       "downloads": 5
     },
     {
+      "category": "null",
+      "date": "2024-01-22",
+      "downloads": 11
+    },
+    {
       "category": "other",
       "date": "2023-08-02",
       "downloads": 2
@@ -2439,6 +2439,11 @@
       "category": "Windows",
       "date": "2024-01-11",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2024-01-22",
+      "downloads": 1
     }
   ],
   "package": "datasette-render-markdown",
