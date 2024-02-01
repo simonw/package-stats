@@ -111,7 +111,7 @@
   "disable_reason": null,
   "post_install_defined": false,
   "service": null,
-  "tap_git_head": "31e8ef165bc004014d4f18c77a85f2adf5245a52",
+  "tap_git_head": "46280f7beff35efd97aa4fa1c532b1c1922b2e9d",
   "ruby_source_path": "Formula/d/datasette.rb",
   "ruby_source_checksum": {
     "sha256": "d4ca3d326fad6c57bd4ebd864ad30e6392b7b21a8c3bda15f16b770ad4bf17a0"
@@ -120,7 +120,7 @@
   "analytics": {
     "install": {
       "30d": {
-        "datasette": 487,
+        "datasette": 483,
         "datasette --HEAD": 1
       },
       "90d": {
@@ -128,13 +128,13 @@
         "datasette --HEAD": 1
       },
       "365d": {
-        "datasette": 3310,
+        "datasette": 3312,
         "datasette --HEAD": 4
       }
     },
     "install_on_request": {
       "30d": {
-        "datasette": 487,
+        "datasette": 483,
         "datasette --HEAD": 1
       },
       "90d": {
@@ -142,7 +142,7 @@
         "datasette --HEAD": 1
       },
       "365d": {
-        "datasette": 3310,
+        "datasette": 3312,
         "datasette --HEAD": 4
       }
     },
