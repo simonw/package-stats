@@ -122,11 +122,6 @@
     },
     {
       "category": "null",
-      "date": "2023-08-03",
-      "downloads": 2
-    },
-    {
-      "category": "null",
       "date": "2023-08-05",
       "downloads": 1
     },
@@ -499,6 +494,11 @@
       "category": "Windows",
       "date": "2024-01-21",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2024-01-31",
+      "downloads": 1
     }
   ],
   "package": "datasette-basemap",
