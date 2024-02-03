@@ -81,9 +81,9 @@
       "downloads": 1
     },
     {
-      "category": "Linux",
-      "date": "2023-08-05",
-      "downloads": 1
+      "category": "Darwin",
+      "date": "2024-02-02",
+      "downloads": 2
     },
     {
       "category": "Linux",
@@ -641,6 +641,11 @@
       "downloads": 3
     },
     {
+      "category": "null",
+      "date": "2024-02-02",
+      "downloads": 3
+    },
+    {
       "category": "Windows",
       "date": "2023-09-28",
       "downloads": 2
@@ -664,6 +669,11 @@
       "category": "Windows",
       "date": "2024-01-16",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2024-02-02",
+      "downloads": 3
     }
   ],
   "package": "datasette-render-image-tags",
