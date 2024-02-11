@@ -112,27 +112,27 @@
   "analytics": {
     "install": {
       "30d": {
-        "sqlite-utils": 516
+        "sqlite-utils": 515
       },
       "90d": {
-        "sqlite-utils": 1878,
+        "sqlite-utils": 1880,
         "sqlite-utils --HEAD": 1
       },
       "365d": {
-        "sqlite-utils": 5274,
+        "sqlite-utils": 5279,
         "sqlite-utils --HEAD": 4
       }
     },
     "install_on_request": {
       "30d": {
-        "sqlite-utils": 193
+        "sqlite-utils": 191
       },
       "90d": {
-        "sqlite-utils": 1074,
+        "sqlite-utils": 1073,
         "sqlite-utils --HEAD": 1
       },
       "365d": {
-        "sqlite-utils": 4470,
+        "sqlite-utils": 4472,
         "sqlite-utils --HEAD": 4
       }
     },
