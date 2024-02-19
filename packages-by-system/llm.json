@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2023-08-21",
-      "downloads": 115
-    },
-    {
-      "category": "Darwin",
       "date": "2023-08-22",
       "downloads": 94
     },
@@ -906,9 +901,9 @@
       "downloads": 36
     },
     {
-      "category": "Linux",
-      "date": "2023-08-21",
-      "downloads": 143
+      "category": "Darwin",
+      "date": "2024-02-18",
+      "downloads": 43
     },
     {
       "category": "Linux",
@@ -1811,9 +1806,9 @@
       "downloads": 85
     },
     {
-      "category": "null",
-      "date": "2023-08-21",
-      "downloads": 96
+      "category": "Linux",
+      "date": "2024-02-18",
+      "downloads": 180
     },
     {
       "category": "null",
@@ -2711,6 +2706,11 @@
       "downloads": 6
     },
     {
+      "category": "null",
+      "date": "2024-02-18",
+      "downloads": 3
+    },
+    {
       "category": "other",
       "date": "2023-10-11",
       "downloads": 3
@@ -2769,11 +2769,6 @@
       "category": "other",
       "date": "2024-01-28",
       "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2023-08-21",
-      "downloads": 23
     },
     {
       "category": "Windows",
@@ -3674,6 +3669,11 @@
       "category": "Windows",
       "date": "2024-02-17",
       "downloads": 25
+    },
+    {
+      "category": "Windows",
+      "date": "2024-02-18",
+      "downloads": 35
     }
   ],
   "package": "llm",
