@@ -71,6 +71,11 @@
       "downloads": 7
     },
     {
+      "category": "Darwin",
+      "date": "2024-02-19",
+      "downloads": 11
+    },
+    {
       "category": "Linux",
       "date": "2023-08-23",
       "downloads": 2
@@ -611,8 +616,8 @@
       "downloads": 1
     },
     {
-      "category": "Windows",
-      "date": "2023-08-22",
+      "category": "null",
+      "date": "2024-02-19",
       "downloads": 1
     },
     {
@@ -914,6 +919,11 @@
       "category": "Windows",
       "date": "2024-02-07",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2024-02-19",
+      "downloads": 5
     }
   ],
   "package": "shapefile-to-sqlite",
