@@ -2,16 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2023-08-23",
-      "downloads": 92
-    },
-    {
-      "category": "Darwin",
-      "date": "2023-08-24",
-      "downloads": 102
-    },
-    {
-      "category": "Darwin",
       "date": "2023-08-25",
       "downloads": 94
     },
@@ -906,14 +896,14 @@
       "downloads": 283
     },
     {
-      "category": "Linux",
-      "date": "2023-08-23",
-      "downloads": 9530
+      "category": "Darwin",
+      "date": "2024-02-20",
+      "downloads": 145
     },
     {
-      "category": "Linux",
-      "date": "2023-08-24",
-      "downloads": 9009
+      "category": "Darwin",
+      "date": "2024-02-21",
+      "downloads": 121
     },
     {
       "category": "Linux",
@@ -1811,14 +1801,14 @@
       "downloads": 8036
     },
     {
-      "category": "null",
-      "date": "2023-08-23",
-      "downloads": 407
+      "category": "Linux",
+      "date": "2024-02-20",
+      "downloads": 8938
     },
     {
-      "category": "null",
-      "date": "2023-08-24",
-      "downloads": 336
+      "category": "Linux",
+      "date": "2024-02-21",
+      "downloads": 8967
     },
     {
       "category": "null",
@@ -2716,6 +2706,16 @@
       "downloads": 138
     },
     {
+      "category": "null",
+      "date": "2024-02-20",
+      "downloads": 151
+    },
+    {
+      "category": "null",
+      "date": "2024-02-21",
+      "downloads": 198
+    },
+    {
       "category": "other",
       "date": "2023-09-07",
       "downloads": 2
@@ -2879,16 +2879,6 @@
       "category": "other",
       "date": "2024-02-06",
       "downloads": 4
-    },
-    {
-      "category": "Windows",
-      "date": "2023-08-23",
-      "downloads": 59
-    },
-    {
-      "category": "Windows",
-      "date": "2023-08-24",
-      "downloads": 78
     },
     {
       "category": "Windows",
@@ -3784,6 +3774,16 @@
       "category": "Windows",
       "date": "2024-02-19",
       "downloads": 130
+    },
+    {
+      "category": "Windows",
+      "date": "2024-02-20",
+      "downloads": 170
+    },
+    {
+      "category": "Windows",
+      "date": "2024-02-21",
+      "downloads": 190
     }
   ],
   "package": "sqlite-utils",
