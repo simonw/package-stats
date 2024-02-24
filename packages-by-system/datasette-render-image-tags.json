@@ -406,6 +406,11 @@
       "downloads": 2
     },
     {
+      "category": "Linux",
+      "date": "2024-02-23",
+      "downloads": 15
+    },
+    {
       "category": "null",
       "date": "2023-08-30",
       "downloads": 1
@@ -721,6 +726,11 @@
       "downloads": 1
     },
     {
+      "category": "null",
+      "date": "2024-02-23",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2023-09-28",
       "downloads": 2
@@ -749,6 +759,11 @@
       "category": "Windows",
       "date": "2024-02-02",
       "downloads": 3
+    },
+    {
+      "category": "Windows",
+      "date": "2024-02-23",
+      "downloads": 1
     }
   ],
   "package": "datasette-render-image-tags",
