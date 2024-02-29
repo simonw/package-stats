@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2023-08-31",
-      "downloads": 1
-    },
-    {
-      "category": "Darwin",
       "date": "2023-09-01",
       "downloads": 1
     },
@@ -129,11 +124,6 @@
       "category": "Darwin",
       "date": "2024-02-21",
       "downloads": 1
-    },
-    {
-      "category": "Linux",
-      "date": "2023-08-31",
-      "downloads": 24
     },
     {
       "category": "Linux",
@@ -1036,6 +1026,11 @@
       "downloads": 211
     },
     {
+      "category": "Linux",
+      "date": "2024-02-28",
+      "downloads": 210
+    },
+    {
       "category": "null",
       "date": "2023-09-02",
       "downloads": 1
@@ -1726,6 +1721,11 @@
       "downloads": 9
     },
     {
+      "category": "null",
+      "date": "2024-02-28",
+      "downloads": 5
+    },
+    {
       "category": "Windows",
       "date": "2023-09-21",
       "downloads": 2
@@ -1799,6 +1799,11 @@
       "category": "Windows",
       "date": "2024-02-10",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2024-02-28",
+      "downloads": 2
     }
   ],
   "package": "git-history",

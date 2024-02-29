@@ -111,9 +111,9 @@
       "downloads": 1
     },
     {
-      "category": "Linux",
-      "date": "2023-08-31",
-      "downloads": 5
+      "category": "Darwin",
+      "date": "2024-02-28",
+      "downloads": 4
     },
     {
       "category": "Linux",
@@ -846,6 +846,11 @@
       "downloads": 31
     },
     {
+      "category": "Linux",
+      "date": "2024-02-28",
+      "downloads": 17
+    },
+    {
       "category": "null",
       "date": "2023-09-11",
       "downloads": 6
@@ -1061,6 +1066,11 @@
       "downloads": 48
     },
     {
+      "category": "null",
+      "date": "2024-02-28",
+      "downloads": 9
+    },
+    {
       "category": "Windows",
       "date": "2023-09-28",
       "downloads": 2
@@ -1099,6 +1109,11 @@
       "category": "Windows",
       "date": "2024-02-21",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2024-02-28",
+      "downloads": 2
     }
   ],
   "package": "datasette-write",
