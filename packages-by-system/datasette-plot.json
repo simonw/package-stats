@@ -546,6 +546,11 @@
       "downloads": 15
     },
     {
+      "category": "Linux",
+      "date": "2024-02-29",
+      "downloads": 10
+    },
+    {
       "category": "null",
       "date": "2023-12-07",
       "downloads": 141
@@ -804,6 +809,11 @@
       "category": "Windows",
       "date": "2024-02-20",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2024-02-29",
+      "downloads": 2
     }
   ],
   "package": "datasette-plot",
