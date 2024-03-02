@@ -231,9 +231,9 @@
       "downloads": 3
     },
     {
-      "category": "Linux",
-      "date": "2023-09-02",
-      "downloads": 3
+      "category": "Darwin",
+      "date": "2024-03-01",
+      "downloads": 1
     },
     {
       "category": "Linux",
@@ -1136,6 +1136,11 @@
       "downloads": 58
     },
     {
+      "category": "Linux",
+      "date": "2024-03-01",
+      "downloads": 23
+    },
+    {
       "category": "null",
       "date": "2023-09-03",
       "downloads": 1
@@ -1559,6 +1564,11 @@
       "category": "Windows",
       "date": "2024-02-28",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2024-03-01",
+      "downloads": 1
     }
   ],
   "package": "datasette-write-ui",

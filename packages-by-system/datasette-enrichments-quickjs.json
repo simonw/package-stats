@@ -136,6 +136,11 @@
       "downloads": 18
     },
     {
+      "category": "Linux",
+      "date": "2024-03-01",
+      "downloads": 12
+    },
+    {
       "category": "null",
       "date": "2024-02-09",
       "downloads": 78
@@ -209,6 +214,16 @@
       "category": "null",
       "date": "2024-02-29",
       "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2024-03-01",
+      "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2024-03-01",
+      "downloads": 1
     }
   ],
   "package": "datasette-enrichments-quickjs",
