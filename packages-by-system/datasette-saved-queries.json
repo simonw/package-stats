@@ -106,9 +106,9 @@
       "downloads": 2
     },
     {
-      "category": "Linux",
-      "date": "2023-09-09",
-      "downloads": 14
+      "category": "Darwin",
+      "date": "2024-03-08",
+      "downloads": 2
     },
     {
       "category": "Linux",
@@ -1011,6 +1011,11 @@
       "downloads": 135
     },
     {
+      "category": "Linux",
+      "date": "2024-03-08",
+      "downloads": 42
+    },
+    {
       "category": "null",
       "date": "2023-09-11",
       "downloads": 6
@@ -1226,6 +1231,11 @@
       "downloads": 51
     },
     {
+      "category": "null",
+      "date": "2024-03-08",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2023-09-28",
       "downloads": 2
@@ -1249,6 +1259,11 @@
       "category": "Windows",
       "date": "2023-12-01",
       "downloads": 4
+    },
+    {
+      "category": "Windows",
+      "date": "2024-03-08",
+      "downloads": 1
     }
   ],
   "package": "datasette-saved-queries",
