@@ -192,11 +192,6 @@
     },
     {
       "category": "Linux",
-      "date": "2023-09-10",
-      "downloads": 1
-    },
-    {
-      "category": "Linux",
       "date": "2023-09-11",
       "downloads": 3
     },
@@ -1061,6 +1056,11 @@
       "downloads": 3
     },
     {
+      "category": "Linux",
+      "date": "2024-03-09",
+      "downloads": 4
+    },
+    {
       "category": "null",
       "date": "2023-09-11",
       "downloads": 1
@@ -1531,6 +1531,11 @@
       "downloads": 1
     },
     {
+      "category": "null",
+      "date": "2024-03-09",
+      "downloads": 2
+    },
+    {
       "category": "Windows",
       "date": "2023-10-05",
       "downloads": 2
@@ -1589,6 +1594,11 @@
       "category": "Windows",
       "date": "2024-02-12",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2024-03-09",
+      "downloads": 1
     }
   ],
   "package": "github-to-sqlite",
