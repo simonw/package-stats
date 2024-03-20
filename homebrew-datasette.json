@@ -105,7 +105,7 @@
   "disable_reason": null,
   "post_install_defined": false,
   "service": null,
-  "tap_git_head": "72e857d3a3bb647ff7d4b0a0f817d8c452cb080f",
+  "tap_git_head": "10d610484a4ab54bea88455ac9e646865527f105",
   "ruby_source_path": "Formula/d/datasette.rb",
   "ruby_source_checksum": {
     "sha256": "6f6355efea518e637313114486c1aa85b20b921f75092fb04c1153073e4e0ddf"
@@ -146,5 +146,5 @@
       }
     }
   },
-  "generated_date": "2024-03-19"
+  "generated_date": "2024-03-20"
 }
