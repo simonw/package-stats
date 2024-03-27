@@ -61,9 +61,9 @@
       "downloads": 1
     },
     {
-      "category": "Linux",
-      "date": "2023-09-27",
-      "downloads": 17
+      "category": "Darwin",
+      "date": "2024-03-26",
+      "downloads": 1
     },
     {
       "category": "Linux",
@@ -966,6 +966,11 @@
       "downloads": 116
     },
     {
+      "category": "Linux",
+      "date": "2024-03-26",
+      "downloads": 128
+    },
+    {
       "category": "null",
       "date": "2023-09-28",
       "downloads": 1
@@ -1284,6 +1289,11 @@
       "category": "Windows",
       "date": "2023-12-05",
       "downloads": 4
+    },
+    {
+      "category": "Windows",
+      "date": "2024-03-26",
+      "downloads": 2
     }
   ],
   "package": "datasette-atom",

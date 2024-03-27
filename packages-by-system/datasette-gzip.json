@@ -67,11 +67,6 @@
     },
     {
       "category": "Linux",
-      "date": "2023-09-27",
-      "downloads": 7
-    },
-    {
-      "category": "Linux",
       "date": "2023-09-28",
       "downloads": 31
     },
@@ -971,9 +966,9 @@
       "downloads": 17
     },
     {
-      "category": "null",
-      "date": "2023-09-27",
-      "downloads": 1
+      "category": "Linux",
+      "date": "2024-03-26",
+      "downloads": 20
     },
     {
       "category": "null",
@@ -1309,6 +1304,11 @@
       "category": "Windows",
       "date": "2024-03-19",
       "downloads": 3
+    },
+    {
+      "category": "Windows",
+      "date": "2024-03-26",
+      "downloads": 2
     }
   ],
   "package": "datasette-gzip",
