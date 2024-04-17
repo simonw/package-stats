@@ -98,7 +98,7 @@
   "disable_reason": null,
   "post_install_defined": false,
   "service": null,
-  "tap_git_head": "5f0b116f18773a9f709a9c87b8e6699433bd0840",
+  "tap_git_head": "2a22cd5e0a3e6e675a6c504d5e87511236a54da7",
   "ruby_source_path": "Formula/s/sqlite-utils.rb",
   "ruby_source_checksum": {
     "sha256": "c2f94b475e984e989c8ffecb76e84dd979b0972fb6a75e1ed0df973acc070b86"
@@ -107,22 +107,22 @@
   "analytics": {
     "install": {
       "30d": {
-        "sqlite-utils": 185
+        "sqlite-utils": 184
       },
       "90d": {
-        "sqlite-utils": 1013
+        "sqlite-utils": 1007
       },
       "365d": {
-        "sqlite-utils": 5799,
+        "sqlite-utils": 5798,
         "sqlite-utils --HEAD": 4
       }
     },
     "install_on_request": {
       "30d": {
-        "sqlite-utils": 179
+        "sqlite-utils": 178
       },
       "90d": {
-        "sqlite-utils": 574
+        "sqlite-utils": 573
       },
       "365d": {
         "sqlite-utils": 4825,
