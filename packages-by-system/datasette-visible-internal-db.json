@@ -791,6 +791,11 @@
       "downloads": 12
     },
     {
+      "category": "Linux",
+      "date": "2024-04-23",
+      "downloads": 7
+    },
+    {
       "category": "null",
       "date": "2023-10-26",
       "downloads": 1
@@ -1001,9 +1006,19 @@
       "downloads": 2
     },
     {
+      "category": "null",
+      "date": "2024-04-23",
+      "downloads": 2
+    },
+    {
       "category": "Windows",
       "date": "2023-12-01",
       "downloads": 4
+    },
+    {
+      "category": "Windows",
+      "date": "2024-04-23",
+      "downloads": 2
     }
   ],
   "package": "datasette-visible-internal-db",
