@@ -111,6 +111,11 @@
       "downloads": 2
     },
     {
+      "category": "Darwin",
+      "date": "2024-04-30",
+      "downloads": 2
+    },
+    {
       "category": "Linux",
       "date": "2024-03-07",
       "downloads": 58
@@ -326,6 +331,11 @@
       "downloads": 19
     },
     {
+      "category": "Linux",
+      "date": "2024-04-30",
+      "downloads": 2
+    },
+    {
       "category": "null",
       "date": "2024-03-07",
       "downloads": 218
@@ -511,6 +521,11 @@
       "downloads": 3
     },
     {
+      "category": "null",
+      "date": "2024-04-30",
+      "downloads": 6
+    },
+    {
       "category": "Windows",
       "date": "2024-03-25",
       "downloads": 2
@@ -554,6 +569,11 @@
       "category": "Windows",
       "date": "2024-04-25",
       "downloads": 4
+    },
+    {
+      "category": "Windows",
+      "date": "2024-04-30",
+      "downloads": 2
     }
   ],
   "package": "datasette-extract",
