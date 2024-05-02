@@ -147,16 +147,6 @@
     },
     {
       "category": "Linux",
-      "date": "2023-11-01",
-      "downloads": 12
-    },
-    {
-      "category": "Linux",
-      "date": "2023-11-02",
-      "downloads": 13
-    },
-    {
-      "category": "Linux",
       "date": "2023-11-03",
       "downloads": 64
     },
@@ -1051,9 +1041,14 @@
       "downloads": 29
     },
     {
-      "category": "null",
-      "date": "2023-11-01",
-      "downloads": 5
+      "category": "Linux",
+      "date": "2024-04-30",
+      "downloads": 10
+    },
+    {
+      "category": "Linux",
+      "date": "2024-05-01",
+      "downloads": 18
     },
     {
       "category": "null",
@@ -1306,6 +1301,16 @@
       "downloads": 1
     },
     {
+      "category": "null",
+      "date": "2024-04-30",
+      "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2024-05-01",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2023-12-01",
       "downloads": 4
@@ -1319,6 +1324,11 @@
       "category": "Windows",
       "date": "2024-03-17",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2024-04-30",
+      "downloads": 2
     }
   ],
   "package": "datasette-saved-queries",
