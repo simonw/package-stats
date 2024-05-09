@@ -47,11 +47,6 @@
     },
     {
       "category": "Linux",
-      "date": "2023-11-09",
-      "downloads": 5
-    },
-    {
-      "category": "Linux",
       "date": "2023-11-10",
       "downloads": 2
     },
@@ -756,6 +751,11 @@
       "downloads": 25
     },
     {
+      "category": "Linux",
+      "date": "2024-05-08",
+      "downloads": 19
+    },
+    {
       "category": "null",
       "date": "2023-11-11",
       "downloads": 33
@@ -1109,6 +1109,11 @@
       "category": "Windows",
       "date": "2024-01-09",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2024-05-08",
+      "downloads": 2
     }
   ],
   "package": "twitter-to-sqlite",
