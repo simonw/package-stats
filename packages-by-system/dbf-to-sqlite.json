@@ -237,11 +237,6 @@
     },
     {
       "category": "Linux",
-      "date": "2023-11-18",
-      "downloads": 1
-    },
-    {
-      "category": "Linux",
       "date": "2023-11-20",
       "downloads": 1
     },
@@ -586,6 +581,11 @@
       "downloads": 1
     },
     {
+      "category": "Linux",
+      "date": "2024-05-17",
+      "downloads": 1
+    },
+    {
       "category": "null",
       "date": "2023-11-25",
       "downloads": 1
@@ -823,11 +823,6 @@
     {
       "category": "null",
       "date": "2024-05-12",
-      "downloads": 1
-    },
-    {
-      "category": "Windows",
-      "date": "2023-11-18",
       "downloads": 1
     },
     {
@@ -1244,6 +1239,11 @@
       "category": "Windows",
       "date": "2024-05-14",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2024-05-17",
+      "downloads": 4
     }
   ],
   "package": "dbf-to-sqlite",
