@@ -37,11 +37,6 @@
     },
     {
       "category": "Linux",
-      "date": "2023-11-29",
-      "downloads": 2
-    },
-    {
-      "category": "Linux",
       "date": "2023-11-30",
       "downloads": 2
     },
@@ -659,6 +654,11 @@
       "category": "Windows",
       "date": "2024-05-05",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2024-05-28",
+      "downloads": 1
     }
   ],
   "package": "sqlite-path",
