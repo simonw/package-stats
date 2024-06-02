@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2023-12-03",
-      "downloads": 1
-    },
-    {
-      "category": "Darwin",
       "date": "2024-01-11",
       "downloads": 1
     },
@@ -59,11 +54,6 @@
       "category": "Darwin",
       "date": "2024-05-03",
       "downloads": 2
-    },
-    {
-      "category": "Linux",
-      "date": "2023-12-03",
-      "downloads": 1
     },
     {
       "category": "Linux",
@@ -941,6 +931,11 @@
       "downloads": 12
     },
     {
+      "category": "Linux",
+      "date": "2024-06-01",
+      "downloads": 13
+    },
+    {
       "category": "null",
       "date": "2023-12-07",
       "downloads": 1
@@ -1236,6 +1231,11 @@
       "downloads": 1
     },
     {
+      "category": "null",
+      "date": "2024-06-01",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2023-12-05",
       "downloads": 4
@@ -1264,6 +1264,11 @@
       "category": "Windows",
       "date": "2024-05-27",
       "downloads": 4
+    },
+    {
+      "category": "Windows",
+      "date": "2024-06-01",
+      "downloads": 1
     }
   ],
   "package": "datasette-openai",

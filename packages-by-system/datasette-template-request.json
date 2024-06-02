@@ -716,6 +716,11 @@
       "downloads": 9
     },
     {
+      "category": "Linux",
+      "date": "2024-06-01",
+      "downloads": 17
+    },
+    {
       "category": "null",
       "date": "2023-12-06",
       "downloads": 1
@@ -864,11 +869,6 @@
       "category": "null",
       "date": "2024-05-28",
       "downloads": 1
-    },
-    {
-      "category": "Windows",
-      "date": "2023-12-03",
-      "downloads": 4
     }
   ],
   "package": "datasette-template-request",
