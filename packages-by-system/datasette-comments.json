@@ -42,11 +42,6 @@
     },
     {
       "category": "Linux",
-      "date": "2023-12-07",
-      "downloads": 9
-    },
-    {
-      "category": "Linux",
       "date": "2023-12-08",
       "downloads": 8
     },
@@ -751,9 +746,9 @@
       "downloads": 15
     },
     {
-      "category": "null",
-      "date": "2023-12-07",
-      "downloads": 3
+      "category": "Linux",
+      "date": "2024-06-05",
+      "downloads": 17
     },
     {
       "category": "null",
@@ -1146,9 +1141,19 @@
       "downloads": 13
     },
     {
+      "category": "null",
+      "date": "2024-06-05",
+      "downloads": 21
+    },
+    {
       "category": "Windows",
       "date": "2024-03-08",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2024-06-05",
+      "downloads": 2
     }
   ],
   "package": "datasette-comments",
