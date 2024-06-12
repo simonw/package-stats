@@ -342,16 +342,6 @@
     },
     {
       "category": "Linux",
-      "date": "2023-12-12",
-      "downloads": 22
-    },
-    {
-      "category": "Linux",
-      "date": "2023-12-13",
-      "downloads": 24
-    },
-    {
-      "category": "Linux",
       "date": "2023-12-14",
       "downloads": 23
     },
@@ -1246,14 +1236,14 @@
       "downloads": 28
     },
     {
-      "category": "null",
-      "date": "2023-12-12",
-      "downloads": 11
+      "category": "Linux",
+      "date": "2024-06-10",
+      "downloads": 41
     },
     {
-      "category": "null",
-      "date": "2023-12-13",
-      "downloads": 8
+      "category": "Linux",
+      "date": "2024-06-11",
+      "downloads": 28
     },
     {
       "category": "null",
@@ -2146,9 +2136,14 @@
       "downloads": 14
     },
     {
-      "category": "Windows",
-      "date": "2023-12-12",
-      "downloads": 2
+      "category": "null",
+      "date": "2024-06-10",
+      "downloads": 43
+    },
+    {
+      "category": "null",
+      "date": "2024-06-11",
+      "downloads": 15
     },
     {
       "category": "Windows",
@@ -2209,6 +2204,11 @@
       "category": "Windows",
       "date": "2024-05-28",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2024-06-10",
+      "downloads": 2
     }
   ],
   "package": "datasette-dashboards",

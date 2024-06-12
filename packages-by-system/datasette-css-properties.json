@@ -22,16 +22,6 @@
     },
     {
       "category": "Linux",
-      "date": "2023-12-12",
-      "downloads": 3
-    },
-    {
-      "category": "Linux",
-      "date": "2023-12-13",
-      "downloads": 3
-    },
-    {
-      "category": "Linux",
       "date": "2023-12-14",
       "downloads": 2
     },
@@ -926,6 +916,16 @@
       "downloads": 8
     },
     {
+      "category": "Linux",
+      "date": "2024-06-10",
+      "downloads": 8
+    },
+    {
+      "category": "Linux",
+      "date": "2024-06-11",
+      "downloads": 8
+    },
+    {
       "category": "null",
       "date": "2023-12-19",
       "downloads": 1
@@ -1174,11 +1174,6 @@
       "category": "null",
       "date": "2024-06-08",
       "downloads": 1
-    },
-    {
-      "category": "Windows",
-      "date": "2023-12-12",
-      "downloads": 4
     }
   ],
   "package": "datasette-css-properties",
