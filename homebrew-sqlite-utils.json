@@ -109,22 +109,22 @@
         "sqlite-utils": 100
       },
       "90d": {
-        "sqlite-utils": 382
+        "sqlite-utils": 380
       },
       "365d": {
-        "sqlite-utils": 5016,
+        "sqlite-utils": 5012,
         "sqlite-utils --HEAD": 4
       }
     },
     "install_on_request": {
       "30d": {
-        "sqlite-utils": 99
+        "sqlite-utils": 100
       },
       "90d": {
-        "sqlite-utils": 374
+        "sqlite-utils": 372
       },
       "365d": {
-        "sqlite-utils": 4039,
+        "sqlite-utils": 4036,
         "sqlite-utils --HEAD": 4
       }
     },
