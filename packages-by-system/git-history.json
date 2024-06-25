@@ -92,11 +92,6 @@
     },
     {
       "category": "Linux",
-      "date": "2023-12-26",
-      "downloads": 22
-    },
-    {
-      "category": "Linux",
       "date": "2023-12-27",
       "downloads": 23
     },
@@ -996,9 +991,9 @@
       "downloads": 44
     },
     {
-      "category": "null",
-      "date": "2023-12-26",
-      "downloads": 7
+      "category": "Linux",
+      "date": "2024-06-24",
+      "downloads": 52
     },
     {
       "category": "null",
@@ -1891,6 +1886,11 @@
       "downloads": 5
     },
     {
+      "category": "null",
+      "date": "2024-06-24",
+      "downloads": 6
+    },
+    {
       "category": "Windows",
       "date": "2024-01-15",
       "downloads": 1
@@ -1939,6 +1939,11 @@
       "category": "Windows",
       "date": "2024-05-29",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2024-06-24",
+      "downloads": 2
     }
   ],
   "package": "git-history",

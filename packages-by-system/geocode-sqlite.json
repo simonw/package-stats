@@ -287,11 +287,6 @@
     },
     {
       "category": "null",
-      "date": "2023-12-26",
-      "downloads": 18
-    },
-    {
-      "category": "null",
       "date": "2023-12-31",
       "downloads": 9
     },
@@ -666,6 +661,11 @@
       "downloads": 1
     },
     {
+      "category": "null",
+      "date": "2024-06-24",
+      "downloads": 2
+    },
+    {
       "category": "Windows",
       "date": "2024-01-24",
       "downloads": 1
@@ -684,6 +684,11 @@
       "category": "Windows",
       "date": "2024-04-14",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2024-06-24",
+      "downloads": 2
     }
   ],
   "package": "geocode-sqlite",
