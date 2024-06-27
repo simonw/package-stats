@@ -62,11 +62,6 @@
     },
     {
       "category": "Linux",
-      "date": "2023-12-28",
-      "downloads": 8
-    },
-    {
-      "category": "Linux",
       "date": "2023-12-29",
       "downloads": 7
     },
@@ -751,6 +746,11 @@
       "downloads": 2
     },
     {
+      "category": "Linux",
+      "date": "2024-06-26",
+      "downloads": 2
+    },
+    {
       "category": "null",
       "date": "2023-12-30",
       "downloads": 3
@@ -1074,6 +1074,11 @@
       "category": "null",
       "date": "2024-06-25",
       "downloads": 7
+    },
+    {
+      "category": "null",
+      "date": "2024-06-26",
+      "downloads": 12
     }
   ],
   "package": "datasette-upload-dbs",
