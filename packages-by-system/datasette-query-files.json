@@ -72,11 +72,6 @@
     },
     {
       "category": "Linux",
-      "date": "2024-01-15",
-      "downloads": 27
-    },
-    {
-      "category": "Linux",
       "date": "2024-01-16",
       "downloads": 27
     },
@@ -971,6 +966,11 @@
       "downloads": 49
     },
     {
+      "category": "Linux",
+      "date": "2024-07-14",
+      "downloads": 49
+    },
+    {
       "category": "null",
       "date": "2024-01-20",
       "downloads": 1
@@ -1224,6 +1224,11 @@
       "category": "null",
       "date": "2024-07-11",
       "downloads": 4
+    },
+    {
+      "category": "null",
+      "date": "2024-07-14",
+      "downloads": 1
     }
   ],
   "package": "datasette-query-files",
