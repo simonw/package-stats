@@ -81,8 +81,8 @@
       "downloads": 2
     },
     {
-      "category": "Linux",
-      "date": "2024-01-18",
+      "category": "Darwin",
+      "date": "2024-07-17",
       "downloads": 1
     },
     {
@@ -966,6 +966,11 @@
       "downloads": 2
     },
     {
+      "category": "Linux",
+      "date": "2024-07-17",
+      "downloads": 1
+    },
+    {
       "category": "null",
       "date": "2024-01-22",
       "downloads": 4
@@ -1231,6 +1236,11 @@
       "downloads": 3
     },
     {
+      "category": "null",
+      "date": "2024-07-17",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2024-02-12",
       "downloads": 1
@@ -1244,6 +1254,11 @@
       "category": "Windows",
       "date": "2024-04-25",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2024-07-17",
+      "downloads": 1
     }
   ],
   "package": "datasette-geojson-map",
