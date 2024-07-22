@@ -12,11 +12,6 @@
     },
     {
       "category": "Linux",
-      "date": "2024-01-22",
-      "downloads": 12
-    },
-    {
-      "category": "Linux",
       "date": "2024-01-23",
       "downloads": 12
     },
@@ -901,9 +896,9 @@
       "downloads": 10
     },
     {
-      "category": "null",
-      "date": "2024-01-22",
-      "downloads": 4
+      "category": "Linux",
+      "date": "2024-07-21",
+      "downloads": 12
     },
     {
       "category": "null",
@@ -1174,6 +1169,11 @@
       "category": "null",
       "date": "2024-07-20",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2024-07-21",
+      "downloads": 5
     }
   ],
   "package": "datasette-cookies-for-magic-parameters",
