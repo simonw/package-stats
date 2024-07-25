@@ -32,11 +32,6 @@
     },
     {
       "category": "Linux",
-      "date": "2024-01-25",
-      "downloads": 288
-    },
-    {
-      "category": "Linux",
       "date": "2024-01-26",
       "downloads": 288
     },
@@ -931,6 +926,11 @@
       "downloads": 16
     },
     {
+      "category": "Linux",
+      "date": "2024-07-24",
+      "downloads": 35
+    },
+    {
       "category": "null",
       "date": "2024-01-29",
       "downloads": 6
@@ -1184,6 +1184,11 @@
       "category": "null",
       "date": "2024-07-23",
       "downloads": 3
+    },
+    {
+      "category": "null",
+      "date": "2024-07-24",
+      "downloads": 1
     }
   ],
   "package": "datasette-debug-asgi",

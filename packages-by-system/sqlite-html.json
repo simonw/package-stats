@@ -77,11 +77,6 @@
     },
     {
       "category": "Linux",
-      "date": "2024-01-25",
-      "downloads": 3
-    },
-    {
-      "category": "Linux",
       "date": "2024-01-26",
       "downloads": 1
     },
@@ -389,6 +384,11 @@
       "category": "Linux",
       "date": "2024-07-23",
       "downloads": 1
+    },
+    {
+      "category": "Linux",
+      "date": "2024-07-24",
+      "downloads": 2
     },
     {
       "category": "null",
@@ -724,6 +724,11 @@
       "category": "Windows",
       "date": "2024-07-02",
       "downloads": 3
+    },
+    {
+      "category": "Windows",
+      "date": "2024-07-24",
+      "downloads": 1
     }
   ],
   "package": "sqlite-html",
