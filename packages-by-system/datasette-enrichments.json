@@ -386,8 +386,8 @@
       "downloads": 5
     },
     {
-      "category": "Linux",
-      "date": "2024-01-26",
+      "category": "Darwin",
+      "date": "2024-07-25",
       "downloads": 2
     },
     {
@@ -1246,9 +1246,9 @@
       "downloads": 15
     },
     {
-      "category": "null",
-      "date": "2024-01-26",
-      "downloads": 9
+      "category": "Linux",
+      "date": "2024-07-25",
+      "downloads": 43
     },
     {
       "category": "null",
@@ -1869,6 +1869,11 @@
       "category": "Windows",
       "date": "2024-07-21",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2024-07-25",
+      "downloads": 1
     }
   ],
   "package": "datasette-enrichments",
