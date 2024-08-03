@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2024-02-03",
-      "downloads": 10
-    },
-    {
-      "category": "Darwin",
       "date": "2024-02-08",
       "downloads": 10
     },
@@ -734,6 +729,11 @@
       "category": "Windows",
       "date": "2024-07-28",
       "downloads": 3
+    },
+    {
+      "category": "Windows",
+      "date": "2024-08-02",
+      "downloads": 2
     }
   ],
   "package": "download-tiles",
