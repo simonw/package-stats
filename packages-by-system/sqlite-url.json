@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2024-02-12",
-      "downloads": 14
-    },
-    {
-      "category": "Darwin",
       "date": "2024-02-16",
       "downloads": 1
     },
@@ -604,6 +599,11 @@
       "category": "null",
       "date": "2024-08-08",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2024-08-11",
+      "downloads": 4
     }
   ],
   "package": "sqlite-url",
