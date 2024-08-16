@@ -7,11 +7,6 @@
     },
     {
       "category": "Linux",
-      "date": "2024-02-16",
-      "downloads": 7
-    },
-    {
-      "category": "Linux",
       "date": "2024-02-18",
       "downloads": 4
     },
@@ -169,6 +164,11 @@
       "category": "Linux",
       "date": "2024-08-14",
       "downloads": 3
+    },
+    {
+      "category": "Linux",
+      "date": "2024-08-15",
+      "downloads": 9
     },
     {
       "category": "null",
@@ -429,6 +429,11 @@
       "category": "null",
       "date": "2024-08-12",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2024-08-15",
+      "downloads": 3
     }
   ],
   "package": "datasette-ephemeral-tables",
