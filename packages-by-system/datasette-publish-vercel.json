@@ -151,9 +151,9 @@
       "downloads": 2
     },
     {
-      "category": "Linux",
-      "date": "2024-02-25",
-      "downloads": 102
+      "category": "Darwin",
+      "date": "2024-08-24",
+      "downloads": 2
     },
     {
       "category": "Linux",
@@ -1051,6 +1051,11 @@
       "downloads": 235
     },
     {
+      "category": "Linux",
+      "date": "2024-08-24",
+      "downloads": 202
+    },
+    {
       "category": "null",
       "date": "2024-02-28",
       "downloads": 3
@@ -1509,6 +1514,11 @@
       "category": "Windows",
       "date": "2024-08-21",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2024-08-24",
+      "downloads": 1
     }
   ],
   "package": "datasette-publish-vercel",
