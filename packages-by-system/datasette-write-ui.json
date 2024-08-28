@@ -302,11 +302,6 @@
     },
     {
       "category": "Linux",
-      "date": "2024-02-28",
-      "downloads": 18
-    },
-    {
-      "category": "Linux",
       "date": "2024-02-29",
       "downloads": 58
     },
@@ -1206,9 +1201,9 @@
       "downloads": 24
     },
     {
-      "category": "null",
-      "date": "2024-02-28",
-      "downloads": 8
+      "category": "Linux",
+      "date": "2024-08-27",
+      "downloads": 29
     },
     {
       "category": "null",
@@ -1526,9 +1521,9 @@
       "downloads": 1
     },
     {
-      "category": "Windows",
-      "date": "2024-02-28",
-      "downloads": 2
+      "category": "null",
+      "date": "2024-08-27",
+      "downloads": 1
     },
     {
       "category": "Windows",
@@ -1589,6 +1584,11 @@
       "category": "Windows",
       "date": "2024-07-15",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2024-08-27",
+      "downloads": 2
     }
   ],
   "package": "datasette-write-ui",

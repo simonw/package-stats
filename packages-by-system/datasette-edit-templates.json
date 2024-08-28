@@ -52,11 +52,6 @@
     },
     {
       "category": "Linux",
-      "date": "2024-02-28",
-      "downloads": 19
-    },
-    {
-      "category": "Linux",
       "date": "2024-02-29",
       "downloads": 55
     },
@@ -711,6 +706,11 @@
       "downloads": 4
     },
     {
+      "category": "Linux",
+      "date": "2024-08-27",
+      "downloads": 17
+    },
+    {
       "category": "null",
       "date": "2024-02-29",
       "downloads": 7
@@ -1109,6 +1109,11 @@
       "category": "null",
       "date": "2024-08-23",
       "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2024-08-27",
+      "downloads": 1
     }
   ],
   "package": "datasette-edit-templates",
