@@ -7,11 +7,6 @@
     },
     {
       "category": "Linux",
-      "date": "2024-03-14",
-      "downloads": 1
-    },
-    {
-      "category": "Linux",
       "date": "2024-03-21",
       "downloads": 1
     },
@@ -138,11 +133,6 @@
     {
       "category": "Linux",
       "date": "2024-09-08",
-      "downloads": 1
-    },
-    {
-      "category": "null",
-      "date": "2024-03-14",
       "downloads": 1
     },
     {
@@ -399,6 +389,11 @@
       "category": "null",
       "date": "2024-09-08",
       "downloads": 8
+    },
+    {
+      "category": "null",
+      "date": "2024-09-11",
+      "downloads": 3
     }
   ],
   "package": "datasette-glitch",
