@@ -72,11 +72,6 @@
     },
     {
       "category": "Linux",
-      "date": "2024-03-19",
-      "downloads": 38
-    },
-    {
-      "category": "Linux",
       "date": "2024-03-20",
       "downloads": 37
     },
@@ -971,6 +966,11 @@
       "downloads": 17
     },
     {
+      "category": "Linux",
+      "date": "2024-09-16",
+      "downloads": 21
+    },
+    {
       "category": "null",
       "date": "2024-03-25",
       "downloads": 1
@@ -1326,9 +1326,9 @@
       "downloads": 7
     },
     {
-      "category": "Windows",
-      "date": "2024-03-19",
-      "downloads": 3
+      "category": "null",
+      "date": "2024-09-16",
+      "downloads": 4
     },
     {
       "category": "Windows",
@@ -1414,6 +1414,11 @@
       "category": "Windows",
       "date": "2024-09-08",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2024-09-16",
+      "downloads": 1
     }
   ],
   "package": "datasette-gzip",

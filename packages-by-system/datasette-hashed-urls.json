@@ -77,11 +77,6 @@
     },
     {
       "category": "Linux",
-      "date": "2024-03-19",
-      "downloads": 3
-    },
-    {
-      "category": "Linux",
       "date": "2024-03-20",
       "downloads": 3
     },
@@ -976,6 +971,11 @@
       "downloads": 142
     },
     {
+      "category": "Linux",
+      "date": "2024-09-16",
+      "downloads": 131
+    },
+    {
       "category": "null",
       "date": "2024-03-23",
       "downloads": 1
@@ -1324,6 +1324,11 @@
       "category": "null",
       "date": "2024-09-14",
       "downloads": 4
+    },
+    {
+      "category": "null",
+      "date": "2024-09-16",
+      "downloads": 10
     }
   ],
   "package": "datasette-hashed-urls",
