@@ -12,11 +12,6 @@
     },
     {
       "category": "Linux",
-      "date": "2024-04-09",
-      "downloads": 58
-    },
-    {
-      "category": "Linux",
       "date": "2024-04-10",
       "downloads": 12
     },
@@ -712,11 +707,6 @@
     },
     {
       "category": "null",
-      "date": "2024-04-09",
-      "downloads": 4
-    },
-    {
-      "category": "null",
       "date": "2024-04-11",
       "downloads": 11
     },
@@ -1114,6 +1104,11 @@
       "category": "null",
       "date": "2024-10-06",
       "downloads": 35
+    },
+    {
+      "category": "null",
+      "date": "2024-10-07",
+      "downloads": 31
     }
   ],
   "package": "datasette-scale-to-zero",
