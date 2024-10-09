@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2024-04-10",
-      "downloads": 6
-    },
-    {
-      "category": "Darwin",
       "date": "2024-04-11",
       "downloads": 5
     },
@@ -311,9 +306,9 @@
       "downloads": 2
     },
     {
-      "category": "Linux",
-      "date": "2024-04-10",
-      "downloads": 16
+      "category": "Darwin",
+      "date": "2024-10-08",
+      "downloads": 2
     },
     {
       "category": "Linux",
@@ -1211,9 +1206,9 @@
       "downloads": 7
     },
     {
-      "category": "null",
-      "date": "2024-04-10",
-      "downloads": 1
+      "category": "Linux",
+      "date": "2024-10-08",
+      "downloads": 9
     },
     {
       "category": "null",
@@ -1751,6 +1746,11 @@
       "downloads": 58
     },
     {
+      "category": "null",
+      "date": "2024-10-08",
+      "downloads": 55
+    },
+    {
       "category": "Windows",
       "date": "2024-04-15",
       "downloads": 2
@@ -1844,6 +1844,11 @@
       "category": "Windows",
       "date": "2024-10-01",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2024-10-08",
+      "downloads": 3
     }
   ],
   "package": "datasette-upload-csvs",
