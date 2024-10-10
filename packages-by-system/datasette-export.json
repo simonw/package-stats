@@ -12,11 +12,6 @@
     },
     {
       "category": "Linux",
-      "date": "2024-04-11",
-      "downloads": 1
-    },
-    {
-      "category": "Linux",
       "date": "2024-04-13",
       "downloads": 1
     },
@@ -189,11 +184,6 @@
       "category": "Linux",
       "date": "2024-10-07",
       "downloads": 1
-    },
-    {
-      "category": "null",
-      "date": "2024-04-11",
-      "downloads": 2
     },
     {
       "category": "null",
@@ -484,6 +474,11 @@
       "category": "null",
       "date": "2024-10-08",
       "downloads": 4
+    },
+    {
+      "category": "null",
+      "date": "2024-10-09",
+      "downloads": 9
     }
   ],
   "package": "datasette-export",
