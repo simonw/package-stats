@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2024-04-12",
-      "downloads": 9
-    },
-    {
-      "category": "Darwin",
       "date": "2024-04-13",
       "downloads": 4
     },
@@ -676,9 +671,9 @@
       "downloads": 2
     },
     {
-      "category": "Linux",
-      "date": "2024-04-12",
-      "downloads": 5
+      "category": "Darwin",
+      "date": "2024-10-10",
+      "downloads": 4
     },
     {
       "category": "Linux",
@@ -1581,6 +1576,11 @@
       "downloads": 21
     },
     {
+      "category": "Linux",
+      "date": "2024-10-10",
+      "downloads": 26
+    },
+    {
       "category": "null",
       "date": "2024-04-13",
       "downloads": 1
@@ -2231,6 +2231,11 @@
       "downloads": 24
     },
     {
+      "category": "null",
+      "date": "2024-10-10",
+      "downloads": 48
+    },
+    {
       "category": "other",
       "date": "2024-06-13",
       "downloads": 2
@@ -2239,11 +2244,6 @@
       "category": "other",
       "date": "2024-08-14",
       "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2024-04-12",
-      "downloads": 1
     },
     {
       "category": "Windows",
@@ -2559,6 +2559,11 @@
       "category": "Windows",
       "date": "2024-10-09",
       "downloads": 3
+    },
+    {
+      "category": "Windows",
+      "date": "2024-10-10",
+      "downloads": 1
     }
   ],
   "package": "strip-tags",
