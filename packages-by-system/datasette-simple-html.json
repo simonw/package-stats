@@ -12,11 +12,6 @@
     },
     {
       "category": "Linux",
-      "date": "2024-04-14",
-      "downloads": 11
-    },
-    {
-      "category": "Linux",
       "date": "2024-04-15",
       "downloads": 11
     },
@@ -916,9 +911,9 @@
       "downloads": 14
     },
     {
-      "category": "null",
-      "date": "2024-04-14",
-      "downloads": 2
+      "category": "Linux",
+      "date": "2024-10-12",
+      "downloads": 7
     },
     {
       "category": "null",
@@ -1289,6 +1284,11 @@
       "category": "null",
       "date": "2024-10-11",
       "downloads": 25
+    },
+    {
+      "category": "null",
+      "date": "2024-10-12",
+      "downloads": 11
     }
   ],
   "package": "datasette-simple-html",

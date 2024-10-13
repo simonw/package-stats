@@ -17,11 +17,6 @@
     },
     {
       "category": "Linux",
-      "date": "2024-04-14",
-      "downloads": 7
-    },
-    {
-      "category": "Linux",
       "date": "2024-04-15",
       "downloads": 6
     },
@@ -916,6 +911,11 @@
       "downloads": 10
     },
     {
+      "category": "Linux",
+      "date": "2024-10-12",
+      "downloads": 11
+    },
+    {
       "category": "null",
       "date": "2024-04-15",
       "downloads": 1
@@ -1239,6 +1239,11 @@
       "category": "null",
       "date": "2024-10-11",
       "downloads": 19
+    },
+    {
+      "category": "null",
+      "date": "2024-10-12",
+      "downloads": 9
     }
   ],
   "package": "datasette-rure",
