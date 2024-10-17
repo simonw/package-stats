@@ -27,11 +27,6 @@
     },
     {
       "category": "Linux",
-      "date": "2024-04-18",
-      "downloads": 49
-    },
-    {
-      "category": "Linux",
       "date": "2024-04-19",
       "downloads": 49
     },
@@ -931,6 +926,11 @@
       "downloads": 46
     },
     {
+      "category": "Linux",
+      "date": "2024-10-16",
+      "downloads": 46
+    },
+    {
       "category": "null",
       "date": "2024-04-19",
       "downloads": 1
@@ -1294,6 +1294,11 @@
       "category": "null",
       "date": "2024-10-15",
       "downloads": 5
+    },
+    {
+      "category": "null",
+      "date": "2024-10-16",
+      "downloads": 8
     }
   ],
   "package": "datasette-chatgpt-plugin",
