@@ -23,6 +23,7 @@
       "events_url": "https://api.github.com/users/simonw/events{/privacy}",
       "received_events_url": "https://api.github.com/users/simonw/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "node_id": "RE_kwDOF8z3PM4Fl90U",
@@ -58,6 +59,7 @@
           "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
           "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
           "type": "Bot",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/json; charset=utf-8",
@@ -97,6 +99,7 @@
       "events_url": "https://api.github.com/users/simonw/events{/privacy}",
       "received_events_url": "https://api.github.com/users/simonw/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "node_id": "RE_kwDOF8z3PM4ESGyA",
@@ -132,6 +135,7 @@
           "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
           "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
           "type": "Bot",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/json; charset=utf-8",
@@ -171,6 +175,7 @@
       "events_url": "https://api.github.com/users/simonw/events{/privacy}",
       "received_events_url": "https://api.github.com/users/simonw/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "node_id": "RE_kwDOF8z3PM4C8y4a",
@@ -206,6 +211,7 @@
           "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
           "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
           "type": "Bot",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/json; charset=utf-8",
@@ -245,6 +251,7 @@
       "events_url": "https://api.github.com/users/simonw/events{/privacy}",
       "received_events_url": "https://api.github.com/users/simonw/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "node_id": "RE_kwDOF8z3PM4C8iaI",
@@ -280,6 +287,7 @@
           "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
           "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
           "type": "Bot",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/json; charset=utf-8",
@@ -319,6 +327,7 @@
       "events_url": "https://api.github.com/users/simonw/events{/privacy}",
       "received_events_url": "https://api.github.com/users/simonw/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "node_id": "RE_kwDOF8z3PM4C7jz3",
@@ -354,6 +363,7 @@
           "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
           "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
           "type": "Bot",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/json; charset=utf-8",
