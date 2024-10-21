@@ -12,11 +12,6 @@
     },
     {
       "category": "Linux",
-      "date": "2024-04-22",
-      "downloads": 6
-    },
-    {
-      "category": "Linux",
       "date": "2024-04-23",
       "downloads": 4
     },
@@ -637,11 +632,6 @@
     },
     {
       "category": "null",
-      "date": "2024-04-22",
-      "downloads": 1
-    },
-    {
-      "category": "null",
       "date": "2024-04-23",
       "downloads": 2
     },
@@ -964,6 +954,16 @@
       "category": "null",
       "date": "2024-10-19",
       "downloads": 12
+    },
+    {
+      "category": "null",
+      "date": "2024-10-20",
+      "downloads": 8
+    },
+    {
+      "category": "Windows",
+      "date": "2024-10-20",
+      "downloads": 2
     }
   ],
   "package": "datasette-sqlite-authorizer",

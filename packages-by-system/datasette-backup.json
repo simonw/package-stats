@@ -196,8 +196,8 @@
       "downloads": 2
     },
     {
-      "category": "null",
-      "date": "2024-04-22",
+      "category": "Linux",
+      "date": "2024-10-20",
       "downloads": 2
     },
     {
@@ -541,9 +541,19 @@
       "downloads": 12
     },
     {
+      "category": "null",
+      "date": "2024-10-20",
+      "downloads": 10
+    },
+    {
       "category": "Windows",
       "date": "2024-08-24",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2024-10-20",
+      "downloads": 2
     }
   ],
   "package": "datasette-backup",

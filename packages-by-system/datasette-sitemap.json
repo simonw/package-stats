@@ -382,11 +382,6 @@
     },
     {
       "category": "null",
-      "date": "2024-04-22",
-      "downloads": 3
-    },
-    {
-      "category": "null",
       "date": "2024-04-23",
       "downloads": 4
     },
@@ -776,9 +771,24 @@
       "downloads": 18
     },
     {
+      "category": "null",
+      "date": "2024-10-20",
+      "downloads": 6
+    },
+    {
+      "category": "other",
+      "date": "2024-10-20",
+      "downloads": 3
+    },
+    {
       "category": "Windows",
       "date": "2024-08-24",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2024-10-20",
+      "downloads": 4
     }
   ],
   "package": "datasette-sitemap",

@@ -152,11 +152,6 @@
     },
     {
       "category": "null",
-      "date": "2024-04-22",
-      "downloads": 2
-    },
-    {
-      "category": "null",
       "date": "2024-04-23",
       "downloads": 2
     },
@@ -536,9 +531,19 @@
       "downloads": 16
     },
     {
+      "category": "null",
+      "date": "2024-10-20",
+      "downloads": 4
+    },
+    {
       "category": "Windows",
       "date": "2024-08-24",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2024-10-20",
+      "downloads": 2
     }
   ],
   "package": "datasette-redirect-to-https",

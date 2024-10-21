@@ -22,11 +22,6 @@
     },
     {
       "category": "Linux",
-      "date": "2024-04-22",
-      "downloads": 11
-    },
-    {
-      "category": "Linux",
       "date": "2024-04-23",
       "downloads": 11
     },
@@ -921,6 +916,11 @@
       "downloads": 12
     },
     {
+      "category": "Linux",
+      "date": "2024-10-20",
+      "downloads": 12
+    },
+    {
       "category": "null",
       "date": "2024-04-23",
       "downloads": 2
@@ -1234,6 +1234,16 @@
       "category": "null",
       "date": "2024-10-19",
       "downloads": 6
+    },
+    {
+      "category": "null",
+      "date": "2024-10-20",
+      "downloads": 3
+    },
+    {
+      "category": "Windows",
+      "date": "2024-10-20",
+      "downloads": 2
     }
   ],
   "package": "datasette-template-request",

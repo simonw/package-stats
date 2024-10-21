@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2024-04-22",
-      "downloads": 8
-    },
-    {
-      "category": "Darwin",
       "date": "2024-04-24",
       "downloads": 2
     },
@@ -339,11 +334,6 @@
       "category": "Darwin",
       "date": "2024-10-17",
       "downloads": 2
-    },
-    {
-      "category": "Linux",
-      "date": "2024-04-22",
-      "downloads": 1
     },
     {
       "category": "Linux",
@@ -756,6 +746,11 @@
       "downloads": 2
     },
     {
+      "category": "Linux",
+      "date": "2024-10-20",
+      "downloads": 2
+    },
+    {
       "category": "null",
       "date": "2024-04-23",
       "downloads": 2
@@ -1156,6 +1151,11 @@
       "downloads": 14
     },
     {
+      "category": "null",
+      "date": "2024-10-20",
+      "downloads": 8
+    },
+    {
       "category": "Windows",
       "date": "2024-04-26",
       "downloads": 1
@@ -1244,6 +1244,11 @@
       "category": "Windows",
       "date": "2024-10-08",
       "downloads": 3
+    },
+    {
+      "category": "Windows",
+      "date": "2024-10-20",
+      "downloads": 2
     }
   ],
   "package": "datasette-import",

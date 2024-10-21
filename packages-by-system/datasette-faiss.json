@@ -102,11 +102,6 @@
     },
     {
       "category": "Linux",
-      "date": "2024-04-22",
-      "downloads": 12
-    },
-    {
-      "category": "Linux",
       "date": "2024-04-23",
       "downloads": 12
     },
@@ -1006,6 +1001,11 @@
       "downloads": 12
     },
     {
+      "category": "Linux",
+      "date": "2024-10-20",
+      "downloads": 14
+    },
+    {
       "category": "null",
       "date": "2024-04-23",
       "downloads": 2
@@ -1436,9 +1436,9 @@
       "downloads": 19
     },
     {
-      "category": "Windows",
-      "date": "2024-04-22",
-      "downloads": 2
+      "category": "null",
+      "date": "2024-10-20",
+      "downloads": 6
     },
     {
       "category": "Windows",
@@ -1504,6 +1504,11 @@
       "category": "Windows",
       "date": "2024-10-11",
       "downloads": 3
+    },
+    {
+      "category": "Windows",
+      "date": "2024-10-20",
+      "downloads": 2
     }
   ],
   "package": "datasette-faiss",

@@ -157,11 +157,6 @@
     },
     {
       "category": "null",
-      "date": "2024-04-22",
-      "downloads": 2
-    },
-    {
-      "category": "null",
       "date": "2024-04-23",
       "downloads": 2
     },
@@ -511,6 +506,11 @@
       "downloads": 14
     },
     {
+      "category": "null",
+      "date": "2024-10-20",
+      "downloads": 4
+    },
+    {
       "category": "Windows",
       "date": "2024-05-14",
       "downloads": 2
@@ -549,6 +549,11 @@
       "category": "Windows",
       "date": "2024-08-24",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2024-10-20",
+      "downloads": 2
     }
   ],
   "package": "datasette-sandstorm-support",

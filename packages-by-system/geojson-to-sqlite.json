@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2024-04-22",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
       "date": "2024-04-24",
       "downloads": 2
     },
@@ -176,8 +171,8 @@
       "downloads": 4
     },
     {
-      "category": "Linux",
-      "date": "2024-04-22",
+      "category": "Darwin",
+      "date": "2024-10-20",
       "downloads": 2
     },
     {
@@ -1071,6 +1066,11 @@
       "downloads": 1
     },
     {
+      "category": "Linux",
+      "date": "2024-10-20",
+      "downloads": 5
+    },
+    {
       "category": "null",
       "date": "2024-04-23",
       "downloads": 3
@@ -1551,6 +1551,11 @@
       "downloads": 52
     },
     {
+      "category": "null",
+      "date": "2024-10-20",
+      "downloads": 34
+    },
+    {
       "category": "Windows",
       "date": "2024-04-23",
       "downloads": 2
@@ -1649,6 +1654,11 @@
       "category": "Windows",
       "date": "2024-10-18",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2024-10-20",
+      "downloads": 2
     }
   ],
   "package": "geojson-to-sqlite",

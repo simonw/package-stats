@@ -27,11 +27,6 @@
     },
     {
       "category": "Linux",
-      "date": "2024-04-22",
-      "downloads": 6
-    },
-    {
-      "category": "Linux",
       "date": "2024-04-23",
       "downloads": 6
     },
@@ -183,11 +178,6 @@
     {
       "category": "Linux",
       "date": "2024-10-18",
-      "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2024-04-22",
       "downloads": 2
     },
     {
@@ -531,6 +521,11 @@
       "downloads": 5
     },
     {
+      "category": "null",
+      "date": "2024-10-20",
+      "downloads": 4
+    },
+    {
       "category": "Windows",
       "date": "2024-06-24",
       "downloads": 2
@@ -544,6 +539,11 @@
       "category": "Windows",
       "date": "2024-10-09",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2024-10-20",
+      "downloads": 1
     }
   ],
   "package": "json-to-files",
