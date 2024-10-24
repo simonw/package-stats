@@ -327,11 +327,6 @@
     },
     {
       "category": "null",
-      "date": "2024-04-25",
-      "downloads": 1
-    },
-    {
-      "category": "null",
       "date": "2024-04-29",
       "downloads": 2
     },
@@ -811,6 +806,11 @@
       "downloads": 25
     },
     {
+      "category": "null",
+      "date": "2024-10-23",
+      "downloads": 37
+    },
+    {
       "category": "Windows",
       "date": "2024-04-28",
       "downloads": 3
@@ -934,6 +934,11 @@
       "category": "Windows",
       "date": "2024-10-19",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2024-10-23",
+      "downloads": 2
     }
   ],
   "package": "download-tiles",
