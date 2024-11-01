@@ -662,11 +662,6 @@
     },
     {
       "category": "Linux",
-      "date": "2024-05-03",
-      "downloads": 4
-    },
-    {
-      "category": "Linux",
       "date": "2024-05-04",
       "downloads": 6
     },
@@ -1561,9 +1556,9 @@
       "downloads": 22
     },
     {
-      "category": "null",
-      "date": "2024-05-03",
-      "downloads": 1
+      "category": "Linux",
+      "date": "2024-10-31",
+      "downloads": 38
     },
     {
       "category": "null",
@@ -2282,11 +2277,6 @@
     },
     {
       "category": "Windows",
-      "date": "2024-05-03",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
       "date": "2024-05-06",
       "downloads": 1
     },
@@ -2589,6 +2579,11 @@
       "category": "Windows",
       "date": "2024-10-30",
       "downloads": 7
+    },
+    {
+      "category": "Windows",
+      "date": "2024-10-31",
+      "downloads": 4
     }
   ],
   "package": "strip-tags",
