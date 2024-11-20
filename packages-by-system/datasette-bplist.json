@@ -42,11 +42,6 @@
     },
     {
       "category": "Linux",
-      "date": "2024-05-22",
-      "downloads": 1
-    },
-    {
-      "category": "Linux",
       "date": "2024-06-02",
       "downloads": 1
     },
@@ -188,6 +183,11 @@
     {
       "category": "Linux",
       "date": "2024-11-14",
+      "downloads": 1
+    },
+    {
+      "category": "Linux",
+      "date": "2024-11-19",
       "downloads": 1
     },
     {
@@ -571,6 +571,11 @@
       "downloads": 2
     },
     {
+      "category": "null",
+      "date": "2024-11-19",
+      "downloads": 2
+    },
+    {
       "category": "Windows",
       "date": "2024-10-12",
       "downloads": 2
@@ -579,6 +584,11 @@
       "category": "Windows",
       "date": "2024-10-20",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2024-11-19",
+      "downloads": 2
     }
   ],
   "package": "datasette-bplist",
