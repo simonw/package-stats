@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Linux",
-      "date": "2024-06-10",
-      "downloads": 1
-    },
-    {
-      "category": "Linux",
       "date": "2024-06-23",
       "downloads": 1
     },
@@ -881,6 +876,11 @@
       "downloads": 5
     },
     {
+      "category": "null",
+      "date": "2024-12-08",
+      "downloads": 4
+    },
+    {
       "category": "Windows",
       "date": "2024-07-21",
       "downloads": 1
@@ -949,6 +949,11 @@
       "category": "Windows",
       "date": "2024-11-21",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2024-12-08",
+      "downloads": 2
     }
   ],
   "package": "sqlite-fastrand",
