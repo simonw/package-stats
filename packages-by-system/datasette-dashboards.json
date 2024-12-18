@@ -231,9 +231,9 @@
       "downloads": 2
     },
     {
-      "category": "Linux",
-      "date": "2024-06-19",
-      "downloads": 5
+      "category": "Darwin",
+      "date": "2024-12-17",
+      "downloads": 3
     },
     {
       "category": "Linux",
@@ -1131,9 +1131,9 @@
       "downloads": 29
     },
     {
-      "category": "null",
-      "date": "2024-06-19",
-      "downloads": 2
+      "category": "Linux",
+      "date": "2024-12-17",
+      "downloads": 26
     },
     {
       "category": "null",
@@ -2026,6 +2026,11 @@
       "downloads": 18
     },
     {
+      "category": "null",
+      "date": "2024-12-17",
+      "downloads": 16
+    },
+    {
       "category": "Windows",
       "date": "2024-06-25",
       "downloads": 2
@@ -2089,6 +2094,11 @@
       "category": "Windows",
       "date": "2024-11-30",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2024-12-17",
+      "downloads": 1
     }
   ],
   "package": "datasette-dashboards",
