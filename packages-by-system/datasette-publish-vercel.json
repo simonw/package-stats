@@ -212,11 +212,6 @@
     },
     {
       "category": "Linux",
-      "date": "2024-07-01",
-      "downloads": 158
-    },
-    {
-      "category": "Linux",
       "date": "2024-07-02",
       "downloads": 185
     },
@@ -1111,9 +1106,9 @@
       "downloads": 71
     },
     {
-      "category": "null",
-      "date": "2024-07-01",
-      "downloads": 4
+      "category": "Linux",
+      "date": "2024-12-29",
+      "downloads": 69
     },
     {
       "category": "null",
@@ -1746,6 +1741,11 @@
       "downloads": 25
     },
     {
+      "category": "null",
+      "date": "2024-12-29",
+      "downloads": 28
+    },
+    {
       "category": "Windows",
       "date": "2024-08-21",
       "downloads": 2
@@ -1794,6 +1794,11 @@
       "category": "Windows",
       "date": "2024-12-28",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2024-12-29",
+      "downloads": 2
     }
   ],
   "package": "datasette-publish-vercel",

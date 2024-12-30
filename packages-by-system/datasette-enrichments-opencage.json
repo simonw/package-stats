@@ -77,11 +77,6 @@
     },
     {
       "category": "Linux",
-      "date": "2024-07-01",
-      "downloads": 8
-    },
-    {
-      "category": "Linux",
       "date": "2024-07-02",
       "downloads": 4
     },
@@ -732,11 +727,6 @@
     },
     {
       "category": "null",
-      "date": "2024-07-01",
-      "downloads": 2
-    },
-    {
-      "category": "null",
       "date": "2024-07-05",
       "downloads": 4
     },
@@ -1256,6 +1246,11 @@
       "downloads": 3
     },
     {
+      "category": "null",
+      "date": "2024-12-29",
+      "downloads": 4
+    },
+    {
       "category": "Windows",
       "date": "2024-07-14",
       "downloads": 2
@@ -1294,6 +1289,11 @@
       "category": "Windows",
       "date": "2024-11-07",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2024-12-29",
+      "downloads": 2
     }
   ],
   "package": "datasette-enrichments-opencage",
