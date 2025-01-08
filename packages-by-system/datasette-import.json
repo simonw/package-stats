@@ -317,11 +317,6 @@
     },
     {
       "category": "Linux",
-      "date": "2024-07-10",
-      "downloads": 5
-    },
-    {
-      "category": "Linux",
       "date": "2024-07-11",
       "downloads": 2
     },
@@ -1251,9 +1246,9 @@
       "downloads": 6
     },
     {
-      "category": "Windows",
-      "date": "2024-07-10",
-      "downloads": 1
+      "category": "null",
+      "date": "2025-01-07",
+      "downloads": 6
     },
     {
       "category": "Windows",
@@ -1339,6 +1334,11 @@
       "category": "Windows",
       "date": "2025-01-02",
       "downloads": 7
+    },
+    {
+      "category": "Windows",
+      "date": "2025-01-07",
+      "downloads": 2
     }
   ],
   "package": "datasette-import",
