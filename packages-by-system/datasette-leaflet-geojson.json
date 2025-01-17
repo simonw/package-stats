@@ -87,11 +87,6 @@
     },
     {
       "category": "Linux",
-      "date": "2024-07-19",
-      "downloads": 13
-    },
-    {
-      "category": "Linux",
       "date": "2024-07-20",
       "downloads": 9
     },
@@ -986,6 +981,11 @@
       "downloads": 7
     },
     {
+      "category": "Linux",
+      "date": "2025-01-16",
+      "downloads": 9
+    },
+    {
       "category": "null",
       "date": "2024-07-20",
       "downloads": 2
@@ -1621,6 +1621,11 @@
       "downloads": 16
     },
     {
+      "category": "null",
+      "date": "2025-01-16",
+      "downloads": 16
+    },
+    {
       "category": "Windows",
       "date": "2024-08-05",
       "downloads": 1
@@ -1664,6 +1669,11 @@
       "category": "Windows",
       "date": "2024-12-05",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-01-16",
+      "downloads": 5
     }
   ],
   "package": "datasette-leaflet-geojson",
