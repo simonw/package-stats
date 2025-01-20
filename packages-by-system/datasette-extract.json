@@ -222,11 +222,6 @@
     },
     {
       "category": "Linux",
-      "date": "2024-07-22",
-      "downloads": 7
-    },
-    {
-      "category": "Linux",
       "date": "2024-07-23",
       "downloads": 6
     },
@@ -912,11 +907,6 @@
     },
     {
       "category": "null",
-      "date": "2024-07-22",
-      "downloads": 1
-    },
-    {
-      "category": "null",
       "date": "2024-07-23",
       "downloads": 4
     },
@@ -1571,6 +1561,11 @@
       "downloads": 6
     },
     {
+      "category": "null",
+      "date": "2025-01-19",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2024-07-25",
       "downloads": 1
@@ -1629,6 +1624,11 @@
       "category": "Windows",
       "date": "2025-01-18",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-01-19",
+      "downloads": 4
     }
   ],
   "package": "datasette-extract",
