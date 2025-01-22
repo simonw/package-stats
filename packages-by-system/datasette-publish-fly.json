@@ -132,11 +132,6 @@
     },
     {
       "category": "Linux",
-      "date": "2024-07-24",
-      "downloads": 18
-    },
-    {
-      "category": "Linux",
       "date": "2024-07-25",
       "downloads": 15
     },
@@ -1031,9 +1026,9 @@
       "downloads": 35
     },
     {
-      "category": "null",
-      "date": "2024-07-24",
-      "downloads": 2
+      "category": "Linux",
+      "date": "2025-01-21",
+      "downloads": 28
     },
     {
       "category": "null",
@@ -1671,6 +1666,11 @@
       "downloads": 1
     },
     {
+      "category": "null",
+      "date": "2025-01-21",
+      "downloads": 1
+    },
+    {
       "category": "other",
       "date": "2024-10-20",
       "downloads": 4
@@ -1699,6 +1699,11 @@
       "category": "Windows",
       "date": "2024-11-27",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2025-01-21",
+      "downloads": 2
     }
   ],
   "package": "datasette-publish-fly",
