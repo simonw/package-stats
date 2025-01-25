@@ -751,9 +751,9 @@
       "downloads": 3
     },
     {
-      "category": "Linux",
-      "date": "2024-07-27",
-      "downloads": 11
+      "category": "Darwin",
+      "date": "2025-01-24",
+      "downloads": 7
     },
     {
       "category": "Linux",
@@ -1649,6 +1649,11 @@
       "category": "Linux",
       "date": "2025-01-23",
       "downloads": 37
+    },
+    {
+      "category": "Linux",
+      "date": "2025-01-24",
+      "downloads": 55
     },
     {
       "category": "null",
@@ -2779,6 +2784,11 @@
       "category": "Windows",
       "date": "2025-01-23",
       "downloads": 3
+    },
+    {
+      "category": "Windows",
+      "date": "2025-01-24",
+      "downloads": 2
     }
   ],
   "package": "strip-tags",
