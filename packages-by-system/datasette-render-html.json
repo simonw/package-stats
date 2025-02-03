@@ -82,11 +82,6 @@
     },
     {
       "category": "Linux",
-      "date": "2024-08-05",
-      "downloads": 10
-    },
-    {
-      "category": "Linux",
       "date": "2024-08-06",
       "downloads": 9
     },
@@ -981,9 +976,9 @@
       "downloads": 23
     },
     {
-      "category": "null",
-      "date": "2024-08-05",
-      "downloads": 1
+      "category": "Linux",
+      "date": "2025-02-02",
+      "downloads": 21
     },
     {
       "category": "null",
@@ -1561,6 +1556,11 @@
       "downloads": 5
     },
     {
+      "category": "null",
+      "date": "2025-02-02",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2024-10-20",
       "downloads": 2
@@ -1579,6 +1579,11 @@
       "category": "Windows",
       "date": "2024-12-13",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2025-02-02",
+      "downloads": 2
     }
   ],
   "package": "datasette-render-html",
