@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Linux",
-      "date": "2024-08-06",
-      "downloads": 14
-    },
-    {
-      "category": "Linux",
       "date": "2024-08-07",
       "downloads": 9
     },
@@ -901,6 +896,11 @@
       "downloads": 7
     },
     {
+      "category": "Linux",
+      "date": "2025-02-03",
+      "downloads": 44
+    },
+    {
       "category": "null",
       "date": "2024-08-07",
       "downloads": 1
@@ -1421,6 +1421,11 @@
       "downloads": 1
     },
     {
+      "category": "null",
+      "date": "2025-02-03",
+      "downloads": 1
+    },
+    {
       "category": "other",
       "date": "2024-09-25",
       "downloads": 1
@@ -1444,6 +1449,11 @@
       "category": "Windows",
       "date": "2024-12-05",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2025-02-03",
+      "downloads": 2
     }
   ],
   "package": "datasette-psutil",
