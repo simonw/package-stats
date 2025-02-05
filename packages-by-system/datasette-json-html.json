@@ -1031,6 +1031,11 @@
       "downloads": 26
     },
     {
+      "category": "Linux",
+      "date": "2025-02-04",
+      "downloads": 131
+    },
+    {
       "category": "null",
       "date": "2024-08-07",
       "downloads": 8
@@ -1856,6 +1861,11 @@
       "downloads": 6
     },
     {
+      "category": "null",
+      "date": "2025-02-04",
+      "downloads": 6
+    },
+    {
       "category": "Windows",
       "date": "2024-08-07",
       "downloads": 2
@@ -1909,6 +1919,11 @@
       "category": "Windows",
       "date": "2025-01-11",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-02-04",
+      "downloads": 4
     }
   ],
   "package": "datasette-json-html",
