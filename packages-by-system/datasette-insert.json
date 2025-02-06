@@ -946,6 +946,11 @@
       "downloads": 7
     },
     {
+      "category": "Linux",
+      "date": "2025-02-05",
+      "downloads": 7
+    },
+    {
       "category": "null",
       "date": "2024-08-07",
       "downloads": 2
@@ -1571,6 +1576,11 @@
       "downloads": 1
     },
     {
+      "category": "null",
+      "date": "2025-02-05",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2024-08-27",
       "downloads": 2
@@ -1604,6 +1614,11 @@
       "category": "Windows",
       "date": "2025-01-20",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2025-02-05",
+      "downloads": 2
     }
   ],
   "package": "datasette-insert",
