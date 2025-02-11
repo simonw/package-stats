@@ -72,11 +72,6 @@
     },
     {
       "category": "Linux",
-      "date": "2024-08-13",
-      "downloads": 51
-    },
-    {
-      "category": "Linux",
       "date": "2024-08-14",
       "downloads": 51
     },
@@ -971,6 +966,11 @@
       "downloads": 51
     },
     {
+      "category": "Linux",
+      "date": "2025-02-10",
+      "downloads": 31
+    },
+    {
       "category": "null",
       "date": "2024-08-14",
       "downloads": 2
@@ -1546,6 +1546,11 @@
       "downloads": 6
     },
     {
+      "category": "null",
+      "date": "2025-02-10",
+      "downloads": 5
+    },
+    {
       "category": "Windows",
       "date": "2024-08-24",
       "downloads": 1
@@ -1554,6 +1559,11 @@
       "category": "Windows",
       "date": "2024-10-20",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-02-10",
+      "downloads": 1
     }
   ],
   "package": "datasette-query-files",
