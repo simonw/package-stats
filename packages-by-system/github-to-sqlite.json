@@ -116,9 +116,9 @@
       "downloads": 2
     },
     {
-      "category": "Linux",
-      "date": "2024-08-18",
-      "downloads": 5
+      "category": "Darwin",
+      "date": "2025-02-15",
+      "downloads": 2
     },
     {
       "category": "Linux",
@@ -1756,6 +1756,11 @@
       "downloads": 35
     },
     {
+      "category": "null",
+      "date": "2025-02-15",
+      "downloads": 3
+    },
+    {
       "category": "Windows",
       "date": "2024-09-04",
       "downloads": 2
@@ -1814,6 +1819,11 @@
       "category": "Windows",
       "date": "2025-02-12",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2025-02-15",
+      "downloads": 4
     }
   ],
   "package": "github-to-sqlite",
