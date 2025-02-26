@@ -176,6 +176,11 @@
       "downloads": 5
     },
     {
+      "category": "Darwin",
+      "date": "2025-02-25",
+      "downloads": 2
+    },
+    {
       "category": "Linux",
       "date": "2024-08-28",
       "downloads": 72
@@ -1071,6 +1076,11 @@
       "downloads": 74
     },
     {
+      "category": "Linux",
+      "date": "2025-02-25",
+      "downloads": 67
+    },
+    {
       "category": "null",
       "date": "2024-08-28",
       "downloads": 2
@@ -1934,6 +1944,11 @@
       "category": "Windows",
       "date": "2025-02-23",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-02-25",
+      "downloads": 4
     }
   ],
   "package": "sqlite-regex",
