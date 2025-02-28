@@ -986,6 +986,11 @@
       "downloads": 13
     },
     {
+      "category": "Linux",
+      "date": "2025-02-27",
+      "downloads": 13
+    },
+    {
       "category": "null",
       "date": "2024-08-28",
       "downloads": 1
@@ -1611,6 +1616,11 @@
       "downloads": 1
     },
     {
+      "category": "null",
+      "date": "2025-02-27",
+      "downloads": 9
+    },
+    {
       "category": "Windows",
       "date": "2024-10-20",
       "downloads": 2
@@ -1654,6 +1664,11 @@
       "category": "Windows",
       "date": "2025-02-25",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-02-27",
+      "downloads": 1
     }
   ],
   "package": "datasette-render-html",
