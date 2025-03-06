@@ -261,14 +261,14 @@
       "downloads": 2
     },
     {
-      "category": "Linux",
-      "date": "2024-09-02",
-      "downloads": 8
+      "category": "Darwin",
+      "date": "2025-03-02",
+      "downloads": 2
     },
     {
-      "category": "Linux",
-      "date": "2024-09-03",
-      "downloads": 11
+      "category": "Darwin",
+      "date": "2025-03-05",
+      "downloads": 1
     },
     {
       "category": "Linux",
@@ -1156,9 +1156,24 @@
       "downloads": 12
     },
     {
-      "category": "null",
-      "date": "2024-09-02",
-      "downloads": 10
+      "category": "Linux",
+      "date": "2025-03-02",
+      "downloads": 9
+    },
+    {
+      "category": "Linux",
+      "date": "2025-03-03",
+      "downloads": 29
+    },
+    {
+      "category": "Linux",
+      "date": "2025-03-04",
+      "downloads": 41
+    },
+    {
+      "category": "Linux",
+      "date": "2025-03-05",
+      "downloads": 34
     },
     {
       "category": "null",
@@ -1846,6 +1861,21 @@
       "downloads": 4
     },
     {
+      "category": "null",
+      "date": "2025-03-02",
+      "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2025-03-03",
+      "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2025-03-04",
+      "downloads": 11
+    },
+    {
       "category": "Windows",
       "date": "2024-09-07",
       "downloads": 2
@@ -1909,6 +1939,11 @@
       "category": "Windows",
       "date": "2025-02-27",
       "downloads": 4
+    },
+    {
+      "category": "Windows",
+      "date": "2025-03-04",
+      "downloads": 2
     }
   ],
   "package": "datasette-plot",
