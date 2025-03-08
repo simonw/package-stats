@@ -131,6 +131,11 @@
       "downloads": 4
     },
     {
+      "category": "Darwin",
+      "date": "2025-03-07",
+      "downloads": 2
+    },
+    {
       "category": "Linux",
       "date": "2024-09-04",
       "downloads": 11
@@ -1041,6 +1046,11 @@
       "downloads": 7
     },
     {
+      "category": "Linux",
+      "date": "2025-03-07",
+      "downloads": 7
+    },
+    {
       "category": "null",
       "date": "2024-09-05",
       "downloads": 5
@@ -1791,6 +1801,11 @@
       "downloads": 3
     },
     {
+      "category": "null",
+      "date": "2025-03-07",
+      "downloads": 3
+    },
+    {
       "category": "other",
       "date": "2024-10-20",
       "downloads": 4
@@ -1844,6 +1859,11 @@
       "category": "Windows",
       "date": "2025-03-01",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-03-07",
+      "downloads": 1
     }
   ],
   "package": "datasette-publish-fly",
