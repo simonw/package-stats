@@ -1046,6 +1046,11 @@
       "downloads": 25
     },
     {
+      "category": "Linux",
+      "date": "2025-03-11",
+      "downloads": 79
+    },
+    {
       "category": "null",
       "date": "2024-09-11",
       "downloads": 1
@@ -1721,6 +1726,11 @@
       "downloads": 8
     },
     {
+      "category": "null",
+      "date": "2025-03-11",
+      "downloads": 4
+    },
+    {
       "category": "other",
       "date": "2024-10-20",
       "downloads": 3
@@ -1829,6 +1839,11 @@
       "category": "Windows",
       "date": "2025-03-01",
       "downloads": 8
+    },
+    {
+      "category": "Windows",
+      "date": "2025-03-11",
+      "downloads": 2
     }
   ],
   "package": "datasette-template-sql",
