@@ -2,31 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2024-09-17",
-      "downloads": 96
-    },
-    {
-      "category": "Darwin",
-      "date": "2024-09-18",
-      "downloads": 100
-    },
-    {
-      "category": "Darwin",
-      "date": "2024-09-19",
-      "downloads": 77
-    },
-    {
-      "category": "Darwin",
-      "date": "2024-09-20",
-      "downloads": 62
-    },
-    {
-      "category": "Darwin",
-      "date": "2024-09-21",
-      "downloads": 25
-    },
-    {
-      "category": "Darwin",
       "date": "2024-09-22",
       "downloads": 53
     },
@@ -916,29 +891,9 @@
       "downloads": 202
     },
     {
-      "category": "Linux",
-      "date": "2024-09-17",
-      "downloads": 420
-    },
-    {
-      "category": "Linux",
-      "date": "2024-09-18",
-      "downloads": 602
-    },
-    {
-      "category": "Linux",
-      "date": "2024-09-19",
-      "downloads": 389
-    },
-    {
-      "category": "Linux",
-      "date": "2024-09-20",
-      "downloads": 396
-    },
-    {
-      "category": "Linux",
-      "date": "2024-09-21",
-      "downloads": 239
+      "category": "Darwin",
+      "date": "2025-03-21",
+      "downloads": 142
     },
     {
       "category": "Linux",
@@ -1831,29 +1786,9 @@
       "downloads": 2379
     },
     {
-      "category": "null",
-      "date": "2024-09-17",
-      "downloads": 43
-    },
-    {
-      "category": "null",
-      "date": "2024-09-18",
-      "downloads": 37
-    },
-    {
-      "category": "null",
-      "date": "2024-09-19",
-      "downloads": 31
-    },
-    {
-      "category": "null",
-      "date": "2024-09-20",
-      "downloads": 28
-    },
-    {
-      "category": "null",
-      "date": "2024-09-21",
-      "downloads": 7
+      "category": "Linux",
+      "date": "2025-03-21",
+      "downloads": 1817
     },
     {
       "category": "null",
@@ -2746,9 +2681,9 @@
       "downloads": 15
     },
     {
-      "category": "other",
-      "date": "2024-09-21",
-      "downloads": 4
+      "category": "null",
+      "date": "2025-03-21",
+      "downloads": 23
     },
     {
       "category": "other",
@@ -2906,29 +2841,9 @@
       "downloads": 2
     },
     {
-      "category": "Windows",
-      "date": "2024-09-17",
-      "downloads": 91
-    },
-    {
-      "category": "Windows",
-      "date": "2024-09-18",
-      "downloads": 79
-    },
-    {
-      "category": "Windows",
-      "date": "2024-09-19",
-      "downloads": 94
-    },
-    {
-      "category": "Windows",
-      "date": "2024-09-20",
-      "downloads": 72
-    },
-    {
-      "category": "Windows",
-      "date": "2024-09-21",
-      "downloads": 31
+      "category": "other",
+      "date": "2025-03-21",
+      "downloads": 1
     },
     {
       "category": "Windows",
@@ -3819,6 +3734,11 @@
       "category": "Windows",
       "date": "2025-03-20",
       "downloads": 104
+    },
+    {
+      "category": "Windows",
+      "date": "2025-03-21",
+      "downloads": 97
     }
   ],
   "package": "llm",

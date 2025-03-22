@@ -2,26 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2024-09-17",
-      "downloads": 4
-    },
-    {
-      "category": "Darwin",
-      "date": "2024-09-18",
-      "downloads": 4
-    },
-    {
-      "category": "Darwin",
-      "date": "2024-09-20",
-      "downloads": 6
-    },
-    {
-      "category": "Darwin",
-      "date": "2024-09-21",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
       "date": "2024-09-22",
       "downloads": 2
     },
@@ -819,31 +799,6 @@
       "category": "Darwin",
       "date": "2025-03-20",
       "downloads": 11
-    },
-    {
-      "category": "Linux",
-      "date": "2024-09-17",
-      "downloads": 881
-    },
-    {
-      "category": "Linux",
-      "date": "2024-09-18",
-      "downloads": 843
-    },
-    {
-      "category": "Linux",
-      "date": "2024-09-19",
-      "downloads": 2712
-    },
-    {
-      "category": "Linux",
-      "date": "2024-09-20",
-      "downloads": 5651
-    },
-    {
-      "category": "Linux",
-      "date": "2024-09-21",
-      "downloads": 1362
     },
     {
       "category": "Linux",
@@ -1736,19 +1691,9 @@
       "downloads": 6519
     },
     {
-      "category": "null",
-      "date": "2024-09-17",
-      "downloads": 7
-    },
-    {
-      "category": "null",
-      "date": "2024-09-19",
-      "downloads": 1
-    },
-    {
-      "category": "null",
-      "date": "2024-09-20",
-      "downloads": 11
+      "category": "Linux",
+      "date": "2025-03-21",
+      "downloads": 6552
     },
     {
       "category": "null",
@@ -2596,6 +2541,11 @@
       "downloads": 66
     },
     {
+      "category": "null",
+      "date": "2025-03-21",
+      "downloads": 66
+    },
+    {
       "category": "other",
       "date": "2024-09-29",
       "downloads": 3
@@ -2604,26 +2554,6 @@
       "category": "other",
       "date": "2024-10-20",
       "downloads": 29
-    },
-    {
-      "category": "Windows",
-      "date": "2024-09-17",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2024-09-18",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2024-09-19",
-      "downloads": 1
-    },
-    {
-      "category": "Windows",
-      "date": "2024-09-21",
-      "downloads": 2
     },
     {
       "category": "Windows",
@@ -3299,6 +3229,11 @@
       "category": "Windows",
       "date": "2025-03-20",
       "downloads": 8
+    },
+    {
+      "category": "Windows",
+      "date": "2025-03-21",
+      "downloads": 4
     }
   ],
   "package": "shot-scraper",
