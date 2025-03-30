@@ -2,26 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2024-09-24",
-      "downloads": 4
-    },
-    {
-      "category": "Darwin",
-      "date": "2024-09-25",
-      "downloads": 4
-    },
-    {
-      "category": "Darwin",
-      "date": "2024-09-26",
-      "downloads": 19
-    },
-    {
-      "category": "Darwin",
-      "date": "2024-09-28",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
       "date": "2024-09-30",
       "downloads": 6
     },
@@ -841,34 +821,9 @@
       "downloads": 27
     },
     {
-      "category": "Linux",
-      "date": "2024-09-24",
+      "category": "Darwin",
+      "date": "2025-03-29",
       "downloads": 11
-    },
-    {
-      "category": "Linux",
-      "date": "2024-09-25",
-      "downloads": 3
-    },
-    {
-      "category": "Linux",
-      "date": "2024-09-26",
-      "downloads": 38
-    },
-    {
-      "category": "Linux",
-      "date": "2024-09-27",
-      "downloads": 6
-    },
-    {
-      "category": "Linux",
-      "date": "2024-09-28",
-      "downloads": 4
-    },
-    {
-      "category": "Linux",
-      "date": "2024-09-29",
-      "downloads": 26
     },
     {
       "category": "Linux",
@@ -1761,34 +1716,9 @@
       "downloads": 75
     },
     {
-      "category": "null",
-      "date": "2024-09-24",
-      "downloads": 9
-    },
-    {
-      "category": "null",
-      "date": "2024-09-25",
-      "downloads": 1
-    },
-    {
-      "category": "null",
-      "date": "2024-09-26",
-      "downloads": 7
-    },
-    {
-      "category": "null",
-      "date": "2024-09-27",
-      "downloads": 8
-    },
-    {
-      "category": "null",
-      "date": "2024-09-28",
-      "downloads": 7
-    },
-    {
-      "category": "null",
-      "date": "2024-09-29",
-      "downloads": 12
+      "category": "Linux",
+      "date": "2025-03-29",
+      "downloads": 11
     },
     {
       "category": "null",
@@ -2467,16 +2397,6 @@
     },
     {
       "category": "Windows",
-      "date": "2024-09-24",
-      "downloads": 4
-    },
-    {
-      "category": "Windows",
-      "date": "2024-09-28",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
       "date": "2024-10-06",
       "downloads": 1
     },
@@ -2819,6 +2739,11 @@
       "category": "Windows",
       "date": "2025-03-27",
       "downloads": 6
+    },
+    {
+      "category": "Windows",
+      "date": "2025-03-29",
+      "downloads": 4
     }
   ],
   "package": "ttok",
