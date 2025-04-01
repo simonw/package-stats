@@ -846,6 +846,11 @@
       "downloads": 6
     },
     {
+      "category": "Darwin",
+      "date": "2025-03-31",
+      "downloads": 10
+    },
+    {
       "category": "Linux",
       "date": "2024-10-01",
       "downloads": 208
@@ -1739,6 +1744,11 @@
       "category": "Linux",
       "date": "2025-03-30",
       "downloads": 212
+    },
+    {
+      "category": "Linux",
+      "date": "2025-03-31",
+      "downloads": 193
     },
     {
       "category": "null",
@@ -2636,6 +2646,11 @@
       "downloads": 22
     },
     {
+      "category": "null",
+      "date": "2025-03-31",
+      "downloads": 30
+    },
+    {
       "category": "other",
       "date": "2025-02-06",
       "downloads": 4
@@ -2884,6 +2899,11 @@
       "category": "Windows",
       "date": "2025-03-30",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-03-31",
+      "downloads": 1
     }
   ],
   "package": "datasette-leaflet",

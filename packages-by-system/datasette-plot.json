@@ -286,6 +286,11 @@
       "downloads": 1
     },
     {
+      "category": "Darwin",
+      "date": "2025-03-31",
+      "downloads": 3
+    },
+    {
       "category": "Linux",
       "date": "2024-10-01",
       "downloads": 17
@@ -1181,6 +1186,11 @@
       "downloads": 27
     },
     {
+      "category": "Linux",
+      "date": "2025-03-31",
+      "downloads": 42
+    },
+    {
       "category": "null",
       "date": "2024-10-02",
       "downloads": 1
@@ -1911,6 +1921,11 @@
       "downloads": 1
     },
     {
+      "category": "null",
+      "date": "2025-03-31",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2024-10-14",
       "downloads": 2
@@ -1959,6 +1974,11 @@
       "category": "Windows",
       "date": "2025-03-04",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-03-31",
+      "downloads": 1
     }
   ],
   "package": "datasette-plot",
