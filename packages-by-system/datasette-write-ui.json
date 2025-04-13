@@ -2,16 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2024-10-09",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
-      "date": "2024-10-11",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
       "date": "2024-10-22",
       "downloads": 2
     },
@@ -284,36 +274,6 @@
       "category": "Darwin",
       "date": "2025-04-10",
       "downloads": 1
-    },
-    {
-      "category": "Linux",
-      "date": "2024-10-08",
-      "downloads": 23
-    },
-    {
-      "category": "Linux",
-      "date": "2024-10-09",
-      "downloads": 21
-    },
-    {
-      "category": "Linux",
-      "date": "2024-10-10",
-      "downloads": 21
-    },
-    {
-      "category": "Linux",
-      "date": "2024-10-11",
-      "downloads": 21
-    },
-    {
-      "category": "Linux",
-      "date": "2024-10-12",
-      "downloads": 23
-    },
-    {
-      "category": "Linux",
-      "date": "2024-10-13",
-      "downloads": 21
     },
     {
       "category": "Linux",
@@ -1206,34 +1166,9 @@
       "downloads": 26
     },
     {
-      "category": "null",
-      "date": "2024-10-08",
-      "downloads": 27
-    },
-    {
-      "category": "null",
-      "date": "2024-10-09",
-      "downloads": 48
-    },
-    {
-      "category": "null",
-      "date": "2024-10-10",
-      "downloads": 106
-    },
-    {
-      "category": "null",
-      "date": "2024-10-11",
-      "downloads": 105
-    },
-    {
-      "category": "null",
-      "date": "2024-10-12",
-      "downloads": 35
-    },
-    {
-      "category": "null",
-      "date": "2024-10-13",
-      "downloads": 18
+      "category": "Linux",
+      "date": "2025-04-12",
+      "downloads": 14
     },
     {
       "category": "null",
@@ -1986,9 +1921,9 @@
       "downloads": 22
     },
     {
-      "category": "Windows",
-      "date": "2024-10-08",
-      "downloads": 3
+      "category": "null",
+      "date": "2025-04-12",
+      "downloads": 40
     },
     {
       "category": "Windows",
@@ -2044,6 +1979,11 @@
       "category": "Windows",
       "date": "2025-03-30",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2025-04-12",
+      "downloads": 2
     }
   ],
   "package": "datasette-write-ui",

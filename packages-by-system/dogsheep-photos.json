@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2024-10-10",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
       "date": "2024-10-24",
       "downloads": 2
     },
@@ -54,16 +49,6 @@
       "category": "Darwin",
       "date": "2025-04-08",
       "downloads": 2
-    },
-    {
-      "category": "Linux",
-      "date": "2024-10-11",
-      "downloads": 1
-    },
-    {
-      "category": "Linux",
-      "date": "2024-10-13",
-      "downloads": 1
     },
     {
       "category": "Linux",
@@ -154,36 +139,6 @@
       "category": "Linux",
       "date": "2025-03-11",
       "downloads": 1
-    },
-    {
-      "category": "null",
-      "date": "2024-10-08",
-      "downloads": 8
-    },
-    {
-      "category": "null",
-      "date": "2024-10-09",
-      "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2024-10-10",
-      "downloads": 5
-    },
-    {
-      "category": "null",
-      "date": "2024-10-11",
-      "downloads": 4
-    },
-    {
-      "category": "null",
-      "date": "2024-10-12",
-      "downloads": 6
-    },
-    {
-      "category": "null",
-      "date": "2024-10-13",
-      "downloads": 2
     },
     {
       "category": "null",
@@ -759,6 +714,11 @@
       "category": "null",
       "date": "2025-04-11",
       "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2025-04-12",
+      "downloads": 4
     }
   ],
   "package": "dogsheep-photos",
