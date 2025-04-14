@@ -622,11 +622,6 @@
     },
     {
       "category": "null",
-      "date": "2024-10-14",
-      "downloads": 42
-    },
-    {
-      "category": "null",
       "date": "2024-10-16",
       "downloads": 33
     },
@@ -1316,6 +1311,11 @@
       "downloads": 6
     },
     {
+      "category": "null",
+      "date": "2025-04-13",
+      "downloads": 33
+    },
+    {
       "category": "Windows",
       "date": "2024-10-20",
       "downloads": 2
@@ -1424,6 +1424,11 @@
       "category": "Windows",
       "date": "2025-04-12",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-04-13",
+      "downloads": 4
     }
   ],
   "package": "sqlite-path",
