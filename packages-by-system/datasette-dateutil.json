@@ -77,11 +77,6 @@
     },
     {
       "category": "Linux",
-      "date": "2024-10-22",
-      "downloads": 23
-    },
-    {
-      "category": "Linux",
       "date": "2024-10-23",
       "downloads": 23
     },
@@ -971,8 +966,8 @@
       "downloads": 12
     },
     {
-      "category": "null",
-      "date": "2024-10-22",
+      "category": "Linux",
+      "date": "2025-04-21",
       "downloads": 16
     },
     {
@@ -1761,9 +1756,9 @@
       "downloads": 8
     },
     {
-      "category": "Windows",
-      "date": "2024-10-22",
-      "downloads": 1
+      "category": "null",
+      "date": "2025-04-21",
+      "downloads": 10
     },
     {
       "category": "Windows",
@@ -2034,6 +2029,11 @@
       "category": "Windows",
       "date": "2025-04-20",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-04-21",
+      "downloads": 4
     }
   ],
   "package": "datasette-dateutil",
