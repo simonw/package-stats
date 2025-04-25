@@ -1301,6 +1301,11 @@
       "downloads": 245
     },
     {
+      "category": "Linux",
+      "date": "2025-04-24",
+      "downloads": 245
+    },
+    {
       "category": "null",
       "date": "2024-10-23",
       "downloads": 161
@@ -2196,6 +2201,11 @@
       "downloads": 162
     },
     {
+      "category": "null",
+      "date": "2025-04-24",
+      "downloads": 30
+    },
+    {
       "category": "Windows",
       "date": "2024-11-07",
       "downloads": 2
@@ -2369,6 +2379,11 @@
       "category": "Windows",
       "date": "2025-04-11",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-04-24",
+      "downloads": 4
     }
   ],
   "package": "django-sql-dashboard",
