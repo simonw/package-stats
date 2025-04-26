@@ -116,6 +116,11 @@
       "downloads": 2
     },
     {
+      "category": "Darwin",
+      "date": "2025-04-25",
+      "downloads": 2
+    },
+    {
       "category": "Linux",
       "date": "2024-10-23",
       "downloads": 104
@@ -1026,6 +1031,11 @@
       "downloads": 145
     },
     {
+      "category": "Linux",
+      "date": "2025-04-25",
+      "downloads": 152
+    },
+    {
       "category": "null",
       "date": "2024-10-23",
       "downloads": 191
@@ -1881,6 +1891,11 @@
       "downloads": 85
     },
     {
+      "category": "null",
+      "date": "2025-04-25",
+      "downloads": 3
+    },
+    {
       "category": "Windows",
       "date": "2024-10-29",
       "downloads": 1
@@ -2269,6 +2284,11 @@
       "category": "Windows",
       "date": "2025-04-24",
       "downloads": 3
+    },
+    {
+      "category": "Windows",
+      "date": "2025-04-25",
+      "downloads": 5
     }
   ],
   "package": "datasette-graphql",
