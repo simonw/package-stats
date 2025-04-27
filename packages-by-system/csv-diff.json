@@ -2,26 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2024-10-23",
-      "downloads": 47
-    },
-    {
-      "category": "Darwin",
-      "date": "2024-10-24",
-      "downloads": 46
-    },
-    {
-      "category": "Darwin",
-      "date": "2024-10-26",
-      "downloads": 14
-    },
-    {
-      "category": "Darwin",
-      "date": "2024-10-27",
-      "downloads": 18
-    },
-    {
-      "category": "Darwin",
       "date": "2024-10-28",
       "downloads": 32
     },
@@ -916,24 +896,9 @@
       "downloads": 114
     },
     {
-      "category": "Linux",
-      "date": "2024-10-23",
-      "downloads": 2264
-    },
-    {
-      "category": "Linux",
-      "date": "2024-10-24",
-      "downloads": 3646
-    },
-    {
-      "category": "Linux",
-      "date": "2024-10-26",
-      "downloads": 754
-    },
-    {
-      "category": "Linux",
-      "date": "2024-10-27",
-      "downloads": 1009
+      "category": "Darwin",
+      "date": "2025-04-26",
+      "downloads": 35
     },
     {
       "category": "Linux",
@@ -1831,24 +1796,9 @@
       "downloads": 9038
     },
     {
-      "category": "null",
-      "date": "2024-10-23",
-      "downloads": 919
-    },
-    {
-      "category": "null",
-      "date": "2024-10-24",
-      "downloads": 1184
-    },
-    {
-      "category": "null",
-      "date": "2024-10-26",
-      "downloads": 4
-    },
-    {
-      "category": "null",
-      "date": "2024-10-27",
-      "downloads": 37
+      "category": "Linux",
+      "date": "2025-04-26",
+      "downloads": 2131
     },
     {
       "category": "null",
@@ -2746,6 +2696,11 @@
       "downloads": 863
     },
     {
+      "category": "null",
+      "date": "2025-04-26",
+      "downloads": 89
+    },
+    {
       "category": "other",
       "date": "2025-02-18",
       "downloads": 3
@@ -2754,26 +2709,6 @@
       "category": "other",
       "date": "2025-04-01",
       "downloads": 1
-    },
-    {
-      "category": "Windows",
-      "date": "2024-10-23",
-      "downloads": 56
-    },
-    {
-      "category": "Windows",
-      "date": "2024-10-24",
-      "downloads": 44
-    },
-    {
-      "category": "Windows",
-      "date": "2024-10-26",
-      "downloads": 14
-    },
-    {
-      "category": "Windows",
-      "date": "2024-10-27",
-      "downloads": 18
     },
     {
       "category": "Windows",
@@ -3669,6 +3604,11 @@
       "category": "Windows",
       "date": "2025-04-25",
       "downloads": 120
+    },
+    {
+      "category": "Windows",
+      "date": "2025-04-26",
+      "downloads": 12
     }
   ],
   "package": "csv-diff",
