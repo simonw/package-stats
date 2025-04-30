@@ -601,6 +601,11 @@
       "downloads": 3
     },
     {
+      "category": "Darwin",
+      "date": "2025-04-29",
+      "downloads": 3
+    },
+    {
       "category": "Linux",
       "date": "2024-10-29",
       "downloads": 12
@@ -1504,6 +1509,11 @@
       "category": "Linux",
       "date": "2025-04-28",
       "downloads": 39
+    },
+    {
+      "category": "Linux",
+      "date": "2025-04-29",
+      "downloads": 9
     },
     {
       "category": "null",
@@ -2754,6 +2764,11 @@
       "category": "Windows",
       "date": "2025-04-27",
       "downloads": 5
+    },
+    {
+      "category": "Windows",
+      "date": "2025-04-29",
+      "downloads": 4
     }
   ],
   "package": "csvs-to-sqlite",
