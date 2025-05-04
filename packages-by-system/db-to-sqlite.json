@@ -2,26 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2024-10-29",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
-      "date": "2024-10-31",
-      "downloads": 6
-    },
-    {
-      "category": "Darwin",
-      "date": "2024-11-02",
-      "downloads": 17
-    },
-    {
-      "category": "Darwin",
-      "date": "2024-11-03",
-      "downloads": 3
-    },
-    {
-      "category": "Darwin",
       "date": "2024-11-07",
       "downloads": 3
     },
@@ -274,36 +254,6 @@
       "category": "Darwin",
       "date": "2025-04-30",
       "downloads": 5
-    },
-    {
-      "category": "Linux",
-      "date": "2024-10-29",
-      "downloads": 498
-    },
-    {
-      "category": "Linux",
-      "date": "2024-10-30",
-      "downloads": 361
-    },
-    {
-      "category": "Linux",
-      "date": "2024-10-31",
-      "downloads": 114
-    },
-    {
-      "category": "Linux",
-      "date": "2024-11-01",
-      "downloads": 99
-    },
-    {
-      "category": "Linux",
-      "date": "2024-11-02",
-      "downloads": 57
-    },
-    {
-      "category": "Linux",
-      "date": "2024-11-03",
-      "downloads": 56
     },
     {
       "category": "Linux",
@@ -1201,29 +1151,9 @@
       "downloads": 97
     },
     {
-      "category": "null",
-      "date": "2024-10-29",
-      "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2024-10-31",
-      "downloads": 19
-    },
-    {
-      "category": "null",
-      "date": "2024-11-01",
-      "downloads": 27
-    },
-    {
-      "category": "null",
-      "date": "2024-11-02",
-      "downloads": 18
-    },
-    {
-      "category": "null",
-      "date": "2024-11-03",
-      "downloads": 1
+      "category": "Linux",
+      "date": "2025-05-03",
+      "downloads": 59
     },
     {
       "category": "null",
@@ -2042,26 +1972,6 @@
     },
     {
       "category": "Windows",
-      "date": "2024-10-29",
-      "downloads": 1
-    },
-    {
-      "category": "Windows",
-      "date": "2024-10-30",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2024-10-31",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2024-11-03",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
       "date": "2024-11-04",
       "downloads": 2
     },
@@ -2379,6 +2289,11 @@
       "category": "Windows",
       "date": "2025-05-02",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-05-03",
+      "downloads": 4
     }
   ],
   "package": "db-to-sqlite",
