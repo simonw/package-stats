@@ -121,6 +121,11 @@
       "downloads": 2
     },
     {
+      "category": "Darwin",
+      "date": "2025-05-08",
+      "downloads": 2
+    },
+    {
       "category": "Linux",
       "date": "2024-11-06",
       "downloads": 3
@@ -1394,6 +1399,11 @@
       "category": "Windows",
       "date": "2025-05-07",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2025-05-08",
+      "downloads": 2
     }
   ],
   "package": "dbf-to-sqlite",
