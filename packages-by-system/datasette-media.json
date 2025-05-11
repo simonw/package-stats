@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2024-11-09",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
       "date": "2024-11-13",
       "downloads": 2
     },
@@ -64,36 +59,6 @@
       "category": "Darwin",
       "date": "2025-04-08",
       "downloads": 4
-    },
-    {
-      "category": "Linux",
-      "date": "2024-11-05",
-      "downloads": 7
-    },
-    {
-      "category": "Linux",
-      "date": "2024-11-06",
-      "downloads": 9
-    },
-    {
-      "category": "Linux",
-      "date": "2024-11-07",
-      "downloads": 7
-    },
-    {
-      "category": "Linux",
-      "date": "2024-11-08",
-      "downloads": 29
-    },
-    {
-      "category": "Linux",
-      "date": "2024-11-09",
-      "downloads": 9
-    },
-    {
-      "category": "Linux",
-      "date": "2024-11-10",
-      "downloads": 11
     },
     {
       "category": "Linux",
@@ -862,31 +827,6 @@
     },
     {
       "category": "null",
-      "date": "2024-11-05",
-      "downloads": 16
-    },
-    {
-      "category": "null",
-      "date": "2024-11-06",
-      "downloads": 8
-    },
-    {
-      "category": "null",
-      "date": "2024-11-07",
-      "downloads": 8
-    },
-    {
-      "category": "null",
-      "date": "2024-11-08",
-      "downloads": 8
-    },
-    {
-      "category": "null",
-      "date": "2024-11-09",
-      "downloads": 12
-    },
-    {
-      "category": "null",
       "date": "2024-11-11",
       "downloads": 17
     },
@@ -1611,13 +1551,18 @@
       "downloads": 10
     },
     {
-      "category": "other",
-      "date": "2025-02-10",
+      "category": "null",
+      "date": "2025-05-09",
+      "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-05-10",
       "downloads": 2
     },
     {
-      "category": "Windows",
-      "date": "2024-11-08",
+      "category": "other",
+      "date": "2025-02-10",
       "downloads": 2
     },
     {
@@ -1673,6 +1618,11 @@
     {
       "category": "Windows",
       "date": "2025-04-13",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-05-09",
       "downloads": 2
     }
   ],

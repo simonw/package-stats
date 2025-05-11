@@ -112,36 +112,6 @@
     },
     {
       "category": "Linux",
-      "date": "2024-11-05",
-      "downloads": 96
-    },
-    {
-      "category": "Linux",
-      "date": "2024-11-06",
-      "downloads": 98
-    },
-    {
-      "category": "Linux",
-      "date": "2024-11-07",
-      "downloads": 99
-    },
-    {
-      "category": "Linux",
-      "date": "2024-11-08",
-      "downloads": 115
-    },
-    {
-      "category": "Linux",
-      "date": "2024-11-09",
-      "downloads": 101
-    },
-    {
-      "category": "Linux",
-      "date": "2024-11-10",
-      "downloads": 103
-    },
-    {
-      "category": "Linux",
       "date": "2024-11-11",
       "downloads": 107
     },
@@ -1031,34 +1001,14 @@
       "downloads": 144
     },
     {
-      "category": "null",
-      "date": "2024-11-05",
-      "downloads": 167
+      "category": "Linux",
+      "date": "2025-05-09",
+      "downloads": 158
     },
     {
-      "category": "null",
-      "date": "2024-11-06",
-      "downloads": 138
-    },
-    {
-      "category": "null",
-      "date": "2024-11-07",
-      "downloads": 78
-    },
-    {
-      "category": "null",
-      "date": "2024-11-08",
-      "downloads": 83
-    },
-    {
-      "category": "null",
-      "date": "2024-11-09",
-      "downloads": 99
-    },
-    {
-      "category": "null",
-      "date": "2024-11-10",
-      "downloads": 2
+      "category": "Linux",
+      "date": "2025-05-10",
+      "downloads": 152
     },
     {
       "category": "null",
@@ -1896,19 +1846,14 @@
       "downloads": 74
     },
     {
-      "category": "Windows",
-      "date": "2024-11-05",
-      "downloads": 2
+      "category": "null",
+      "date": "2025-05-09",
+      "downloads": 5
     },
     {
-      "category": "Windows",
-      "date": "2024-11-06",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2024-11-07",
-      "downloads": 1
+      "category": "null",
+      "date": "2025-05-10",
+      "downloads": 4
     },
     {
       "category": "Windows",
@@ -2304,6 +2249,11 @@
       "category": "Windows",
       "date": "2025-05-08",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2025-05-10",
+      "downloads": 2
     }
   ],
   "package": "datasette-graphql",
