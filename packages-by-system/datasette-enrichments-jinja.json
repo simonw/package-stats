@@ -671,6 +671,11 @@
       "downloads": 6
     },
     {
+      "category": "Linux",
+      "date": "2025-05-14",
+      "downloads": 4
+    },
+    {
       "category": "null",
       "date": "2024-11-12",
       "downloads": 7
@@ -1401,6 +1406,11 @@
       "downloads": 1
     },
     {
+      "category": "null",
+      "date": "2025-05-14",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2024-11-26",
       "downloads": 1
@@ -1439,6 +1449,11 @@
       "category": "Windows",
       "date": "2025-04-18",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2025-05-14",
+      "downloads": 2
     }
   ],
   "package": "datasette-enrichments-jinja",
