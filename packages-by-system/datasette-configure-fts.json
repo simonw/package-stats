@@ -816,6 +816,16 @@
       "downloads": 1
     },
     {
+      "category": "Darwin",
+      "date": "2025-05-14",
+      "downloads": 3
+    },
+    {
+      "category": "Darwin",
+      "date": "2025-05-15",
+      "downloads": 4
+    },
+    {
       "category": "Linux",
       "date": "2024-11-12",
       "downloads": 16
@@ -1641,6 +1651,16 @@
       "downloads": 8
     },
     {
+      "category": "Linux",
+      "date": "2025-05-14",
+      "downloads": 8
+    },
+    {
+      "category": "Linux",
+      "date": "2025-05-15",
+      "downloads": 4
+    },
+    {
       "category": "null",
       "date": "2024-11-12",
       "downloads": 21
@@ -2441,6 +2461,11 @@
       "downloads": 4
     },
     {
+      "category": "null",
+      "date": "2025-05-15",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2024-11-26",
       "downloads": 1
@@ -2494,6 +2519,11 @@
       "category": "Windows",
       "date": "2025-04-18",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2025-05-14",
+      "downloads": 2
     }
   ],
   "package": "datasette-configure-fts",

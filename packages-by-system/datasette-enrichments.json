@@ -251,6 +251,11 @@
       "downloads": 2
     },
     {
+      "category": "Darwin",
+      "date": "2025-05-15",
+      "downloads": 2
+    },
+    {
       "category": "Linux",
       "date": "2024-11-12",
       "downloads": 8
@@ -1049,6 +1054,11 @@
       "category": "Linux",
       "date": "2025-05-14",
       "downloads": 238
+    },
+    {
+      "category": "Linux",
+      "date": "2025-05-15",
+      "downloads": 248
     },
     {
       "category": "null",
@@ -1876,6 +1886,11 @@
       "downloads": 8
     },
     {
+      "category": "null",
+      "date": "2025-05-15",
+      "downloads": 1
+    },
+    {
       "category": "other",
       "date": "2025-01-11",
       "downloads": 1
@@ -1994,6 +2009,11 @@
       "category": "Windows",
       "date": "2025-05-14",
       "downloads": 6
+    },
+    {
+      "category": "Windows",
+      "date": "2025-05-15",
+      "downloads": 2
     }
   ],
   "package": "datasette-enrichments",
