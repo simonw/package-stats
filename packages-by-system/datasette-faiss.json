@@ -941,6 +941,11 @@
       "downloads": 12
     },
     {
+      "category": "Linux",
+      "date": "2025-05-16",
+      "downloads": 12
+    },
+    {
       "category": "null",
       "date": "2024-11-12",
       "downloads": 3
@@ -1709,6 +1714,11 @@
       "category": "Windows",
       "date": "2025-04-28",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2025-05-16",
+      "downloads": 2
     }
   ],
   "package": "datasette-faiss",
