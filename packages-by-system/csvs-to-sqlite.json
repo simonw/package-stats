@@ -1571,6 +1571,11 @@
       "downloads": 24
     },
     {
+      "category": "Linux",
+      "date": "2025-05-23",
+      "downloads": 20
+    },
+    {
       "category": "null",
       "date": "2024-11-19",
       "downloads": 25
@@ -2391,6 +2396,11 @@
       "downloads": 1
     },
     {
+      "category": "null",
+      "date": "2025-05-23",
+      "downloads": 3
+    },
+    {
       "category": "Windows",
       "date": "2024-11-20",
       "downloads": 1
@@ -2854,6 +2864,11 @@
       "category": "Windows",
       "date": "2025-05-22",
       "downloads": 3
+    },
+    {
+      "category": "Windows",
+      "date": "2025-05-23",
+      "downloads": 2
     }
   ],
   "package": "csvs-to-sqlite",

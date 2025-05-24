@@ -966,6 +966,11 @@
       "downloads": 8
     },
     {
+      "category": "Linux",
+      "date": "2025-05-23",
+      "downloads": 5
+    },
+    {
       "category": "null",
       "date": "2024-11-19",
       "downloads": 73
@@ -1784,6 +1789,11 @@
       "category": "null",
       "date": "2025-05-22",
       "downloads": 3
+    },
+    {
+      "category": "null",
+      "date": "2025-05-23",
+      "downloads": 2
     }
   ],
   "package": "datasette-auth-github",
