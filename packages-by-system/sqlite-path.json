@@ -7,16 +7,6 @@
     },
     {
       "category": "Linux",
-      "date": "2024-11-20",
-      "downloads": 2
-    },
-    {
-      "category": "Linux",
-      "date": "2024-11-21",
-      "downloads": 2
-    },
-    {
-      "category": "Linux",
       "date": "2024-11-25",
       "downloads": 6
     },
@@ -717,36 +707,6 @@
     },
     {
       "category": "null",
-      "date": "2024-11-19",
-      "downloads": 32
-    },
-    {
-      "category": "null",
-      "date": "2024-11-20",
-      "downloads": 12
-    },
-    {
-      "category": "null",
-      "date": "2024-11-21",
-      "downloads": 1
-    },
-    {
-      "category": "null",
-      "date": "2024-11-22",
-      "downloads": 31
-    },
-    {
-      "category": "null",
-      "date": "2024-11-23",
-      "downloads": 1
-    },
-    {
-      "category": "null",
-      "date": "2024-11-24",
-      "downloads": 3
-    },
-    {
-      "category": "null",
       "date": "2024-11-27",
       "downloads": 1
     },
@@ -1426,6 +1386,11 @@
       "downloads": 1
     },
     {
+      "category": "null",
+      "date": "2025-05-24",
+      "downloads": 10
+    },
+    {
       "category": "Windows",
       "date": "2024-12-24",
       "downloads": 4
@@ -1634,6 +1599,11 @@
       "category": "Windows",
       "date": "2025-05-23",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-05-24",
+      "downloads": 4
     }
   ],
   "package": "sqlite-path",
