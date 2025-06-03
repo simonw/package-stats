@@ -21,6 +21,11 @@
       "downloads": 4
     },
     {
+      "category": "Darwin",
+      "date": "2025-06-02",
+      "downloads": 2
+    },
+    {
       "category": "Linux",
       "date": "2024-12-03",
       "downloads": 47
@@ -921,6 +926,11 @@
       "downloads": 12
     },
     {
+      "category": "Linux",
+      "date": "2025-06-02",
+      "downloads": 10
+    },
+    {
       "category": "null",
       "date": "2024-12-04",
       "downloads": 1
@@ -1489,6 +1499,16 @@
       "category": "null",
       "date": "2025-05-31",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-06-02",
+      "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2025-06-02",
+      "downloads": 2
     }
   ],
   "package": "datasette-chatgpt-plugin",
