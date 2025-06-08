@@ -111,7 +111,7 @@
   "disable_replacement_cask": null,
   "post_install_defined": false,
   "service": null,
-  "tap_git_head": "704e87e4ae75f042e272536a08193c7c44725950",
+  "tap_git_head": "ab37bf8b266893a7efcc8d527ce1b5cb1cfb035d",
   "ruby_source_path": "Formula/d/datasette.rb",
   "ruby_source_checksum": {
     "sha256": "588c95533783338876ee3c2b8d55aaecc09517507f0db3072839e5c574ed1284"
@@ -123,7 +123,7 @@
         "datasette": 208
       },
       "90d": {
-        "datasette": 799
+        "datasette": 795
       },
       "365d": {
         "datasette": 3298,
@@ -135,7 +135,7 @@
         "datasette": 208
       },
       "90d": {
-        "datasette": 799
+        "datasette": 795
       },
       "365d": {
         "datasette": 3298,
@@ -148,5 +148,5 @@
       }
     }
   },
-  "generated_date": "2025-06-07"
+  "generated_date": "2025-06-08"
 }
