@@ -2,21 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2024-12-04",
-      "downloads": 10
-    },
-    {
-      "category": "Darwin",
-      "date": "2024-12-06",
-      "downloads": 10
-    },
-    {
-      "category": "Darwin",
-      "date": "2024-12-07",
-      "downloads": 4
-    },
-    {
-      "category": "Darwin",
       "date": "2024-12-09",
       "downloads": 4
     },
@@ -654,36 +639,6 @@
       "category": "Darwin",
       "date": "2025-06-06",
       "downloads": 2
-    },
-    {
-      "category": "Linux",
-      "date": "2024-12-03",
-      "downloads": 15
-    },
-    {
-      "category": "Linux",
-      "date": "2024-12-04",
-      "downloads": 20
-    },
-    {
-      "category": "Linux",
-      "date": "2024-12-05",
-      "downloads": 33
-    },
-    {
-      "category": "Linux",
-      "date": "2024-12-06",
-      "downloads": 28
-    },
-    {
-      "category": "Linux",
-      "date": "2024-12-07",
-      "downloads": 22
-    },
-    {
-      "category": "Linux",
-      "date": "2024-12-08",
-      "downloads": 21
     },
     {
       "category": "Linux",
@@ -1581,24 +1536,9 @@
       "downloads": 37
     },
     {
-      "category": "null",
-      "date": "2024-12-03",
-      "downloads": 1
-    },
-    {
-      "category": "null",
-      "date": "2024-12-04",
-      "downloads": 3
-    },
-    {
-      "category": "null",
-      "date": "2024-12-07",
-      "downloads": 24
-    },
-    {
-      "category": "null",
-      "date": "2024-12-08",
-      "downloads": 4
+      "category": "Linux",
+      "date": "2025-06-07",
+      "downloads": 16
     },
     {
       "category": "null",
@@ -2421,14 +2361,9 @@
       "downloads": 2
     },
     {
-      "category": "Windows",
-      "date": "2024-12-04",
-      "downloads": 4
-    },
-    {
-      "category": "Windows",
-      "date": "2024-12-06",
-      "downloads": 2
+      "category": "null",
+      "date": "2025-06-07",
+      "downloads": 6
     },
     {
       "category": "Windows",
@@ -2929,6 +2864,11 @@
       "category": "Windows",
       "date": "2025-06-06",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2025-06-07",
+      "downloads": 17
     }
   ],
   "package": "csvs-to-sqlite",

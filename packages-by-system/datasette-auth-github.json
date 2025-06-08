@@ -47,36 +47,6 @@
     },
     {
       "category": "Linux",
-      "date": "2024-12-03",
-      "downloads": 13
-    },
-    {
-      "category": "Linux",
-      "date": "2024-12-04",
-      "downloads": 36
-    },
-    {
-      "category": "Linux",
-      "date": "2024-12-05",
-      "downloads": 21
-    },
-    {
-      "category": "Linux",
-      "date": "2024-12-06",
-      "downloads": 21
-    },
-    {
-      "category": "Linux",
-      "date": "2024-12-07",
-      "downloads": 17
-    },
-    {
-      "category": "Linux",
-      "date": "2024-12-08",
-      "downloads": 16
-    },
-    {
-      "category": "Linux",
       "date": "2024-12-09",
       "downloads": 14
     },
@@ -971,24 +941,9 @@
       "downloads": 11
     },
     {
-      "category": "null",
-      "date": "2024-12-04",
-      "downloads": 3
-    },
-    {
-      "category": "null",
-      "date": "2024-12-05",
-      "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2024-12-07",
-      "downloads": 30
-    },
-    {
-      "category": "null",
-      "date": "2024-12-08",
-      "downloads": 26
+      "category": "Linux",
+      "date": "2025-06-07",
+      "downloads": 11
     },
     {
       "category": "null",
@@ -1804,6 +1759,11 @@
       "category": "null",
       "date": "2025-06-06",
       "downloads": 3
+    },
+    {
+      "category": "null",
+      "date": "2025-06-07",
+      "downloads": 8
     }
   ],
   "package": "datasette-auth-github",
