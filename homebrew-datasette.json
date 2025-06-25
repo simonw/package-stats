@@ -111,7 +111,7 @@
   "disable_replacement_cask": null,
   "post_install_defined": false,
   "service": null,
-  "tap_git_head": "013d65dcb0190f21e85a5ddb041f0ac669da3327",
+  "tap_git_head": "3c7d74aee6e578b8c02cd8be38aa2cede0f4ac65",
   "ruby_source_path": "Formula/d/datasette.rb",
   "ruby_source_checksum": {
     "sha256": "588c95533783338876ee3c2b8d55aaecc09517507f0db3072839e5c574ed1284"
@@ -126,7 +126,7 @@
         "datasette": 694
       },
       "365d": {
-        "datasette": 3025,
+        "datasette": 3018,
         "datasette --HEAD": 5
       }
     },
@@ -138,7 +138,7 @@
         "datasette": 694
       },
       "365d": {
-        "datasette": 3025,
+        "datasette": 3018,
         "datasette --HEAD": 5
       }
     },
