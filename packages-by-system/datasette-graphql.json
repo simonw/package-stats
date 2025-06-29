@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2024-12-26",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
       "date": "2024-12-30",
       "downloads": 2
     },
@@ -109,36 +104,6 @@
       "category": "Darwin",
       "date": "2025-06-04",
       "downloads": 2
-    },
-    {
-      "category": "Linux",
-      "date": "2024-12-24",
-      "downloads": 129
-    },
-    {
-      "category": "Linux",
-      "date": "2024-12-25",
-      "downloads": 96
-    },
-    {
-      "category": "Linux",
-      "date": "2024-12-26",
-      "downloads": 98
-    },
-    {
-      "category": "Linux",
-      "date": "2024-12-27",
-      "downloads": 103
-    },
-    {
-      "category": "Linux",
-      "date": "2024-12-28",
-      "downloads": 103
-    },
-    {
-      "category": "Linux",
-      "date": "2024-12-29",
-      "downloads": 103
     },
     {
       "category": "Linux",
@@ -1036,34 +1001,9 @@
       "downloads": 170
     },
     {
-      "category": "null",
-      "date": "2024-12-24",
-      "downloads": 1
-    },
-    {
-      "category": "null",
-      "date": "2024-12-25",
-      "downloads": 5
-    },
-    {
-      "category": "null",
-      "date": "2024-12-26",
-      "downloads": 105
-    },
-    {
-      "category": "null",
-      "date": "2024-12-27",
-      "downloads": 156
-    },
-    {
-      "category": "null",
-      "date": "2024-12-28",
-      "downloads": 33
-    },
-    {
-      "category": "null",
-      "date": "2024-12-29",
-      "downloads": 79
+      "category": "Linux",
+      "date": "2025-06-28",
+      "downloads": 143
     },
     {
       "category": "null",
@@ -1936,6 +1876,11 @@
       "downloads": 2
     },
     {
+      "category": "null",
+      "date": "2025-06-28",
+      "downloads": 5
+    },
+    {
       "category": "Windows",
       "date": "2024-12-30",
       "downloads": 2
@@ -2394,6 +2339,11 @@
       "category": "Windows",
       "date": "2025-06-26",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2025-06-28",
+      "downloads": 2
     }
   ],
   "package": "datasette-graphql",
