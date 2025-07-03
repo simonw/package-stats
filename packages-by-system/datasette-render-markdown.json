@@ -1316,6 +1316,11 @@
       "downloads": 136
     },
     {
+      "category": "Linux",
+      "date": "2025-07-02",
+      "downloads": 85
+    },
+    {
       "category": "null",
       "date": "2024-12-31",
       "downloads": 54
@@ -2186,6 +2191,11 @@
       "downloads": 4
     },
     {
+      "category": "null",
+      "date": "2025-07-02",
+      "downloads": 3
+    },
+    {
       "category": "Windows",
       "date": "2025-01-02",
       "downloads": 2
@@ -2399,6 +2409,11 @@
       "category": "Windows",
       "date": "2025-07-01",
       "downloads": 3
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-02",
+      "downloads": 1
     }
   ],
   "package": "datasette-render-markdown",

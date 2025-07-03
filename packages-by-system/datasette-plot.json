@@ -1171,6 +1171,11 @@
       "downloads": 5
     },
     {
+      "category": "Linux",
+      "date": "2025-07-02",
+      "downloads": 6
+    },
+    {
       "category": "null",
       "date": "2024-12-31",
       "downloads": 24
@@ -1856,6 +1861,11 @@
       "downloads": 3
     },
     {
+      "category": "null",
+      "date": "2025-07-02",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2025-02-18",
       "downloads": 2
@@ -1914,6 +1924,11 @@
       "category": "Windows",
       "date": "2025-07-01",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-02",
+      "downloads": 1
     }
   ],
   "package": "datasette-plot",
