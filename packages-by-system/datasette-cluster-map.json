@@ -1771,6 +1771,11 @@
       "downloads": 206
     },
     {
+      "category": "Linux",
+      "date": "2025-07-05",
+      "downloads": 203
+    },
+    {
       "category": "null",
       "date": "2024-12-31",
       "downloads": 96
@@ -2656,6 +2661,11 @@
       "downloads": 16
     },
     {
+      "category": "null",
+      "date": "2025-07-05",
+      "downloads": 8
+    },
+    {
       "category": "other",
       "date": "2025-02-06",
       "downloads": 4
@@ -2824,6 +2834,11 @@
       "category": "Windows",
       "date": "2025-07-02",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-05",
+      "downloads": 2
     }
   ],
   "package": "datasette-cluster-map",

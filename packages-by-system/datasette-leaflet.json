@@ -1776,6 +1776,11 @@
       "downloads": 227
     },
     {
+      "category": "Linux",
+      "date": "2025-07-05",
+      "downloads": 190
+    },
+    {
       "category": "null",
       "date": "2024-12-31",
       "downloads": 30
@@ -2884,6 +2889,11 @@
       "category": "Windows",
       "date": "2025-07-02",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-05",
+      "downloads": 2
     }
   ],
   "package": "datasette-leaflet",
