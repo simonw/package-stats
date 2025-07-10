@@ -406,6 +406,11 @@
       "downloads": 2
     },
     {
+      "category": "Linux",
+      "date": "2025-07-09",
+      "downloads": 13
+    },
+    {
       "category": "null",
       "date": "2024-12-31",
       "downloads": 8
@@ -1054,6 +1059,11 @@
       "category": "null",
       "date": "2025-07-08",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-07-09",
+      "downloads": 2
     }
   ],
   "package": "datasette-events-forward",
