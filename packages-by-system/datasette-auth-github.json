@@ -37,71 +37,6 @@
     },
     {
       "category": "Linux",
-      "date": "2024-12-31",
-      "downloads": 12
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-01",
-      "downloads": 17
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-02",
-      "downloads": 11
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-03",
-      "downloads": 13
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-04",
-      "downloads": 22
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-05",
-      "downloads": 12
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-06",
-      "downloads": 9
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-07",
-      "downloads": 11
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-08",
-      "downloads": 12
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-09",
-      "downloads": 11
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-10",
-      "downloads": 12
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-11",
-      "downloads": 18
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-12",
-      "downloads": 12
-    },
-    {
-      "category": "Linux",
       "date": "2025-01-13",
       "downloads": 13
     },
@@ -996,64 +931,9 @@
       "downloads": 12
     },
     {
-      "category": "null",
-      "date": "2024-12-31",
-      "downloads": 59
-    },
-    {
-      "category": "null",
-      "date": "2025-01-01",
-      "downloads": 3
-    },
-    {
-      "category": "null",
-      "date": "2025-01-03",
-      "downloads": 9
-    },
-    {
-      "category": "null",
-      "date": "2025-01-04",
-      "downloads": 8
-    },
-    {
-      "category": "null",
-      "date": "2025-01-05",
-      "downloads": 6
-    },
-    {
-      "category": "null",
-      "date": "2025-01-06",
-      "downloads": 27
-    },
-    {
-      "category": "null",
-      "date": "2025-01-07",
-      "downloads": 56
-    },
-    {
-      "category": "null",
-      "date": "2025-01-08",
-      "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-01-09",
-      "downloads": 59
-    },
-    {
-      "category": "null",
-      "date": "2025-01-10",
-      "downloads": 45
-    },
-    {
-      "category": "null",
-      "date": "2025-01-11",
-      "downloads": 75
-    },
-    {
-      "category": "null",
-      "date": "2025-01-12",
-      "downloads": 61
+      "category": "Linux",
+      "date": "2025-07-12",
+      "downloads": 7
     },
     {
       "category": "null",
@@ -1899,6 +1779,16 @@
       "category": "null",
       "date": "2025-07-11",
       "downloads": 29
+    },
+    {
+      "category": "null",
+      "date": "2025-07-12",
+      "downloads": 4
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-12",
+      "downloads": 2
     }
   ],
   "package": "datasette-auth-github",

@@ -2,31 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-01-04",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
-      "date": "2025-01-05",
-      "downloads": 1
-    },
-    {
-      "category": "Darwin",
-      "date": "2025-01-08",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
-      "date": "2025-01-09",
-      "downloads": 1
-    },
-    {
-      "category": "Darwin",
-      "date": "2025-01-11",
-      "downloads": 4
-    },
-    {
-      "category": "Darwin",
       "date": "2025-01-13",
       "downloads": 6
     },
@@ -419,71 +394,6 @@
       "category": "Darwin",
       "date": "2025-07-10",
       "downloads": 2
-    },
-    {
-      "category": "Linux",
-      "date": "2024-12-31",
-      "downloads": 44
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-01",
-      "downloads": 53
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-02",
-      "downloads": 68
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-03",
-      "downloads": 83
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-04",
-      "downloads": 43
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-05",
-      "downloads": 35
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-06",
-      "downloads": 55
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-07",
-      "downloads": 34
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-08",
-      "downloads": 53
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-09",
-      "downloads": 40
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-10",
-      "downloads": 114
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-11",
-      "downloads": 44
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-12",
-      "downloads": 38
     },
     {
       "category": "Linux",
@@ -1381,69 +1291,9 @@
       "downloads": 89
     },
     {
-      "category": "null",
-      "date": "2024-12-31",
-      "downloads": 54
-    },
-    {
-      "category": "null",
-      "date": "2025-01-01",
-      "downloads": 15
-    },
-    {
-      "category": "null",
-      "date": "2025-01-02",
-      "downloads": 17
-    },
-    {
-      "category": "null",
-      "date": "2025-01-03",
-      "downloads": 43
-    },
-    {
-      "category": "null",
-      "date": "2025-01-04",
-      "downloads": 17
-    },
-    {
-      "category": "null",
-      "date": "2025-01-05",
-      "downloads": 21
-    },
-    {
-      "category": "null",
-      "date": "2025-01-06",
-      "downloads": 23
-    },
-    {
-      "category": "null",
-      "date": "2025-01-07",
-      "downloads": 55
-    },
-    {
-      "category": "null",
-      "date": "2025-01-08",
-      "downloads": 31
-    },
-    {
-      "category": "null",
-      "date": "2025-01-09",
-      "downloads": 72
-    },
-    {
-      "category": "null",
-      "date": "2025-01-10",
-      "downloads": 55
-    },
-    {
-      "category": "null",
-      "date": "2025-01-11",
-      "downloads": 59
-    },
-    {
-      "category": "null",
-      "date": "2025-01-12",
-      "downloads": 54
+      "category": "Linux",
+      "date": "2025-07-12",
+      "downloads": 82
     },
     {
       "category": "null",
@@ -2296,14 +2146,9 @@
       "downloads": 2
     },
     {
-      "category": "Windows",
-      "date": "2025-01-02",
+      "category": "null",
+      "date": "2025-07-12",
       "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-01-06",
-      "downloads": 4
     },
     {
       "category": "Windows",
@@ -2514,6 +2359,11 @@
       "category": "Windows",
       "date": "2025-07-02",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-12",
+      "downloads": 2
     }
   ],
   "package": "datasette-render-markdown",

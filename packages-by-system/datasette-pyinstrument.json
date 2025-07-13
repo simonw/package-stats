@@ -2,71 +2,6 @@
   "data": [
     {
       "category": "Linux",
-      "date": "2024-12-31",
-      "downloads": 7
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-01",
-      "downloads": 7
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-02",
-      "downloads": 7
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-03",
-      "downloads": 7
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-04",
-      "downloads": 7
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-05",
-      "downloads": 7
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-06",
-      "downloads": 7
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-07",
-      "downloads": 7
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-08",
-      "downloads": 7
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-09",
-      "downloads": 7
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-10",
-      "downloads": 7
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-11",
-      "downloads": 7
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-12",
-      "downloads": 7
-    },
-    {
-      "category": "Linux",
       "date": "2025-01-13",
       "downloads": 7
     },
@@ -374,56 +309,6 @@
       "category": "Linux",
       "date": "2025-07-09",
       "downloads": 1
-    },
-    {
-      "category": "null",
-      "date": "2024-12-31",
-      "downloads": 5
-    },
-    {
-      "category": "null",
-      "date": "2025-01-03",
-      "downloads": 4
-    },
-    {
-      "category": "null",
-      "date": "2025-01-04",
-      "downloads": 1
-    },
-    {
-      "category": "null",
-      "date": "2025-01-05",
-      "downloads": 3
-    },
-    {
-      "category": "null",
-      "date": "2025-01-06",
-      "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-01-07",
-      "downloads": 3
-    },
-    {
-      "category": "null",
-      "date": "2025-01-09",
-      "downloads": 4
-    },
-    {
-      "category": "null",
-      "date": "2025-01-10",
-      "downloads": 4
-    },
-    {
-      "category": "null",
-      "date": "2025-01-11",
-      "downloads": 5
-    },
-    {
-      "category": "null",
-      "date": "2025-01-12",
-      "downloads": 4
     },
     {
       "category": "null",
@@ -854,6 +739,11 @@
       "category": "null",
       "date": "2025-07-11",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-12",
+      "downloads": 2
     }
   ],
   "package": "datasette-pyinstrument",

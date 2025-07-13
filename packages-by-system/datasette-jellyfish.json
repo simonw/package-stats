@@ -17,71 +17,6 @@
     },
     {
       "category": "Linux",
-      "date": "2024-12-31",
-      "downloads": 7
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-01",
-      "downloads": 7
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-02",
-      "downloads": 7
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-03",
-      "downloads": 9
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-04",
-      "downloads": 7
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-05",
-      "downloads": 7
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-06",
-      "downloads": 9
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-07",
-      "downloads": 7
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-08",
-      "downloads": 7
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-09",
-      "downloads": 7
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-10",
-      "downloads": 7
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-11",
-      "downloads": 7
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-12",
-      "downloads": 7
-    },
-    {
-      "category": "Linux",
       "date": "2025-01-13",
       "downloads": 7
     },
@@ -414,61 +349,6 @@
       "category": "Linux",
       "date": "2025-07-10",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2024-12-31",
-      "downloads": 21
-    },
-    {
-      "category": "null",
-      "date": "2025-01-03",
-      "downloads": 15
-    },
-    {
-      "category": "null",
-      "date": "2025-01-04",
-      "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-01-05",
-      "downloads": 5
-    },
-    {
-      "category": "null",
-      "date": "2025-01-06",
-      "downloads": 15
-    },
-    {
-      "category": "null",
-      "date": "2025-01-07",
-      "downloads": 16
-    },
-    {
-      "category": "null",
-      "date": "2025-01-08",
-      "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-01-09",
-      "downloads": 21
-    },
-    {
-      "category": "null",
-      "date": "2025-01-10",
-      "downloads": 19
-    },
-    {
-      "category": "null",
-      "date": "2025-01-11",
-      "downloads": 23
-    },
-    {
-      "category": "null",
-      "date": "2025-01-12",
-      "downloads": 19
     },
     {
       "category": "null",
@@ -1169,6 +1049,11 @@
       "category": "Windows",
       "date": "2025-01-19",
       "downloads": 4
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-12",
+      "downloads": 2
     }
   ],
   "package": "datasette-jellyfish",

@@ -2,16 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-01-07",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
-      "date": "2025-01-08",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
       "date": "2025-01-17",
       "downloads": 2
     },
@@ -104,71 +94,6 @@
       "category": "Darwin",
       "date": "2025-06-30",
       "downloads": 3
-    },
-    {
-      "category": "Linux",
-      "date": "2024-12-31",
-      "downloads": 92
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-01",
-      "downloads": 108
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-02",
-      "downloads": 100
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-03",
-      "downloads": 101
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-04",
-      "downloads": 98
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-05",
-      "downloads": 102
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-06",
-      "downloads": 98
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-07",
-      "downloads": 102
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-08",
-      "downloads": 107
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-09",
-      "downloads": 104
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-10",
-      "downloads": 105
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-11",
-      "downloads": 100
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-12",
-      "downloads": 128
     },
     {
       "category": "Linux",
@@ -1066,64 +991,9 @@
       "downloads": 100
     },
     {
-      "category": "null",
-      "date": "2024-12-31",
-      "downloads": 153
-    },
-    {
-      "category": "null",
-      "date": "2025-01-01",
-      "downloads": 6
-    },
-    {
-      "category": "null",
-      "date": "2025-01-03",
-      "downloads": 103
-    },
-    {
-      "category": "null",
-      "date": "2025-01-04",
-      "downloads": 6
-    },
-    {
-      "category": "null",
-      "date": "2025-01-05",
-      "downloads": 62
-    },
-    {
-      "category": "null",
-      "date": "2025-01-06",
-      "downloads": 74
-    },
-    {
-      "category": "null",
-      "date": "2025-01-07",
-      "downloads": 115
-    },
-    {
-      "category": "null",
-      "date": "2025-01-08",
-      "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-01-09",
-      "downloads": 153
-    },
-    {
-      "category": "null",
-      "date": "2025-01-10",
-      "downloads": 106
-    },
-    {
-      "category": "null",
-      "date": "2025-01-11",
-      "downloads": 162
-    },
-    {
-      "category": "null",
-      "date": "2025-01-12",
-      "downloads": 156
+      "category": "Linux",
+      "date": "2025-07-12",
+      "downloads": 208
     },
     {
       "category": "null",
@@ -2001,24 +1871,9 @@
       "downloads": 48
     },
     {
-      "category": "Windows",
-      "date": "2025-01-05",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-01-07",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-01-09",
-      "downloads": 3
-    },
-    {
-      "category": "Windows",
-      "date": "2025-01-12",
-      "downloads": 4
+      "category": "null",
+      "date": "2025-07-12",
+      "downloads": 1
     },
     {
       "category": "Windows",
@@ -2494,6 +2349,11 @@
       "category": "Windows",
       "date": "2025-07-09",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-12",
+      "downloads": 2
     }
   ],
   "package": "datasette-graphql",
