@@ -1001,6 +1001,16 @@
       "downloads": 10
     },
     {
+      "category": "Linux",
+      "date": "2025-07-15",
+      "downloads": 18
+    },
+    {
+      "category": "Linux",
+      "date": "2025-07-16",
+      "downloads": 16
+    },
+    {
       "category": "null",
       "date": "2025-01-14",
       "downloads": 25
@@ -1716,6 +1726,11 @@
       "downloads": 1
     },
     {
+      "category": "null",
+      "date": "2025-07-16",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2025-01-19",
       "downloads": 1
@@ -1764,6 +1779,11 @@
       "category": "Windows",
       "date": "2025-07-12",
       "downloads": 4
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-15",
+      "downloads": 2
     }
   ],
   "package": "datasette-copyable",

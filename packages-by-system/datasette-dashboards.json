@@ -1236,6 +1236,16 @@
       "downloads": 83
     },
     {
+      "category": "Linux",
+      "date": "2025-07-15",
+      "downloads": 103
+    },
+    {
+      "category": "Linux",
+      "date": "2025-07-16",
+      "downloads": 97
+    },
+    {
       "category": "null",
       "date": "2025-01-14",
       "downloads": 114
@@ -2111,6 +2121,16 @@
       "downloads": 1
     },
     {
+      "category": "null",
+      "date": "2025-07-15",
+      "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-07-16",
+      "downloads": 8
+    },
+    {
       "category": "Windows",
       "date": "2025-01-16",
       "downloads": 2
@@ -2249,6 +2269,11 @@
       "category": "Windows",
       "date": "2025-07-12",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-16",
+      "downloads": 1
     }
   ],
   "package": "datasette-dashboards",
