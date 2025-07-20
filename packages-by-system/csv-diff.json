@@ -2,36 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-01-14",
-      "downloads": 56
-    },
-    {
-      "category": "Darwin",
-      "date": "2025-01-15",
-      "downloads": 124
-    },
-    {
-      "category": "Darwin",
-      "date": "2025-01-16",
-      "downloads": 95
-    },
-    {
-      "category": "Darwin",
-      "date": "2025-01-17",
-      "downloads": 63
-    },
-    {
-      "category": "Darwin",
-      "date": "2025-01-18",
-      "downloads": 29
-    },
-    {
-      "category": "Darwin",
-      "date": "2025-01-19",
-      "downloads": 27
-    },
-    {
-      "category": "Darwin",
       "date": "2025-01-20",
       "downloads": 34
     },
@@ -926,34 +896,9 @@
       "downloads": 102
     },
     {
-      "category": "Linux",
-      "date": "2025-01-14",
-      "downloads": 3712
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-15",
-      "downloads": 2704
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-16",
-      "downloads": 2549
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-17",
-      "downloads": 4144
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-18",
-      "downloads": 1961
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-19",
-      "downloads": 1822
+      "category": "Darwin",
+      "date": "2025-07-19",
+      "downloads": 46
     },
     {
       "category": "Linux",
@@ -1851,34 +1796,9 @@
       "downloads": 18996
     },
     {
-      "category": "null",
-      "date": "2025-01-14",
-      "downloads": 1442
-    },
-    {
-      "category": "null",
-      "date": "2025-01-15",
-      "downloads": 1609
-    },
-    {
-      "category": "null",
-      "date": "2025-01-16",
-      "downloads": 1969
-    },
-    {
-      "category": "null",
-      "date": "2025-01-17",
-      "downloads": 1506
-    },
-    {
-      "category": "null",
-      "date": "2025-01-18",
-      "downloads": 354
-    },
-    {
-      "category": "null",
-      "date": "2025-01-19",
-      "downloads": 3
+      "category": "Linux",
+      "date": "2025-07-19",
+      "downloads": 4434
     },
     {
       "category": "null",
@@ -2776,6 +2696,11 @@
       "downloads": 1579
     },
     {
+      "category": "null",
+      "date": "2025-07-19",
+      "downloads": 6
+    },
+    {
       "category": "other",
       "date": "2025-02-18",
       "downloads": 3
@@ -2809,36 +2734,6 @@
       "category": "other",
       "date": "2025-07-05",
       "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-01-14",
-      "downloads": 59
-    },
-    {
-      "category": "Windows",
-      "date": "2025-01-15",
-      "downloads": 145
-    },
-    {
-      "category": "Windows",
-      "date": "2025-01-16",
-      "downloads": 94
-    },
-    {
-      "category": "Windows",
-      "date": "2025-01-17",
-      "downloads": 33
-    },
-    {
-      "category": "Windows",
-      "date": "2025-01-18",
-      "downloads": 28
-    },
-    {
-      "category": "Windows",
-      "date": "2025-01-19",
-      "downloads": 28
     },
     {
       "category": "Windows",
@@ -3734,6 +3629,11 @@
       "category": "Windows",
       "date": "2025-07-18",
       "downloads": 136
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-19",
+      "downloads": 42
     }
   ],
   "package": "csv-diff",

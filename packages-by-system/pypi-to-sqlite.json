@@ -22,11 +22,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-01-19",
-      "downloads": 2
-    },
-    {
-      "category": "Linux",
       "date": "2025-01-20",
       "downloads": 56
     },
@@ -319,21 +314,6 @@
       "category": "Linux",
       "date": "2025-07-17",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-01-14",
-      "downloads": 30
-    },
-    {
-      "category": "null",
-      "date": "2025-01-15",
-      "downloads": 9
-    },
-    {
-      "category": "null",
-      "date": "2025-01-16",
-      "downloads": 3
     },
     {
       "category": "null",
@@ -979,11 +959,6 @@
       "category": "null",
       "date": "2025-07-18",
       "downloads": 3
-    },
-    {
-      "category": "Windows",
-      "date": "2025-01-16",
-      "downloads": 2
     }
   ],
   "package": "pypi-to-sqlite",

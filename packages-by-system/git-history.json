@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-01-17",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
       "date": "2025-02-03",
       "downloads": 2
     },
@@ -109,36 +104,6 @@
       "category": "Darwin",
       "date": "2025-07-18",
       "downloads": 4
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-14",
-      "downloads": 28
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-15",
-      "downloads": 29
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-16",
-      "downloads": 20
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-17",
-      "downloads": 26
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-18",
-      "downloads": 22
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-19",
-      "downloads": 20
     },
     {
       "category": "Linux",
@@ -1036,34 +1001,9 @@
       "downloads": 19
     },
     {
-      "category": "null",
-      "date": "2025-01-14",
-      "downloads": 42
-    },
-    {
-      "category": "null",
-      "date": "2025-01-15",
-      "downloads": 23
-    },
-    {
-      "category": "null",
-      "date": "2025-01-16",
-      "downloads": 26
-    },
-    {
-      "category": "null",
-      "date": "2025-01-17",
-      "downloads": 1
-    },
-    {
-      "category": "null",
-      "date": "2025-01-18",
-      "downloads": 3
-    },
-    {
-      "category": "null",
-      "date": "2025-01-19",
-      "downloads": 1
+      "category": "Linux",
+      "date": "2025-07-19",
+      "downloads": 30
     },
     {
       "category": "null",
@@ -1931,6 +1871,11 @@
       "downloads": 2
     },
     {
+      "category": "null",
+      "date": "2025-07-19",
+      "downloads": 3
+    },
+    {
       "category": "Windows",
       "date": "2025-01-28",
       "downloads": 2
@@ -1949,6 +1894,11 @@
       "category": "Windows",
       "date": "2025-05-09",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-19",
+      "downloads": 2
     }
   ],
   "package": "git-history",

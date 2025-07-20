@@ -2,36 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-01-14",
-      "downloads": 4
-    },
-    {
-      "category": "Darwin",
-      "date": "2025-01-15",
-      "downloads": 7
-    },
-    {
-      "category": "Darwin",
-      "date": "2025-01-16",
-      "downloads": 3
-    },
-    {
-      "category": "Darwin",
-      "date": "2025-01-17",
-      "downloads": 8
-    },
-    {
-      "category": "Darwin",
-      "date": "2025-01-18",
-      "downloads": 7
-    },
-    {
-      "category": "Darwin",
-      "date": "2025-01-19",
-      "downloads": 5
-    },
-    {
-      "category": "Darwin",
       "date": "2025-01-20",
       "downloads": 3
     },
@@ -831,34 +801,9 @@
       "downloads": 4
     },
     {
-      "category": "Linux",
-      "date": "2025-01-14",
-      "downloads": 197
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-15",
-      "downloads": 255
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-16",
-      "downloads": 191
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-17",
-      "downloads": 181
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-18",
-      "downloads": 169
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-19",
-      "downloads": 168
+      "category": "Darwin",
+      "date": "2025-07-19",
+      "downloads": 1
     },
     {
       "category": "Linux",
@@ -1756,29 +1701,9 @@
       "downloads": 127
     },
     {
-      "category": "null",
-      "date": "2025-01-14",
-      "downloads": 117
-    },
-    {
-      "category": "null",
-      "date": "2025-01-15",
-      "downloads": 48
-    },
-    {
-      "category": "null",
-      "date": "2025-01-16",
-      "downloads": 51
-    },
-    {
-      "category": "null",
-      "date": "2025-01-18",
-      "downloads": 1
-    },
-    {
-      "category": "null",
-      "date": "2025-01-19",
-      "downloads": 2
+      "category": "Linux",
+      "date": "2025-07-19",
+      "downloads": 156
     },
     {
       "category": "null",
@@ -2646,6 +2571,11 @@
       "downloads": 8
     },
     {
+      "category": "null",
+      "date": "2025-07-19",
+      "downloads": 3
+    },
+    {
       "category": "other",
       "date": "2025-02-06",
       "downloads": 4
@@ -2654,26 +2584,6 @@
       "category": "other",
       "date": "2025-06-03",
       "downloads": 4
-    },
-    {
-      "category": "Windows",
-      "date": "2025-01-15",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-01-16",
-      "downloads": 5
-    },
-    {
-      "category": "Windows",
-      "date": "2025-01-18",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-01-19",
-      "downloads": 2
     },
     {
       "category": "Windows",
@@ -2834,6 +2744,11 @@
       "category": "Windows",
       "date": "2025-07-17",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-19",
+      "downloads": 2
     }
   ],
   "package": "datasette-cluster-map",
