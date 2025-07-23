@@ -86,6 +86,11 @@
       "downloads": 2
     },
     {
+      "category": "Darwin",
+      "date": "2025-07-22",
+      "downloads": 2
+    },
+    {
       "category": "Linux",
       "date": "2025-01-21",
       "downloads": 4
@@ -951,6 +956,11 @@
       "downloads": 42
     },
     {
+      "category": "Linux",
+      "date": "2025-07-22",
+      "downloads": 59
+    },
+    {
       "category": "null",
       "date": "2025-01-23",
       "downloads": 10
@@ -1571,6 +1581,11 @@
       "downloads": 9
     },
     {
+      "category": "null",
+      "date": "2025-07-22",
+      "downloads": 2
+    },
+    {
       "category": "Windows",
       "date": "2025-02-19",
       "downloads": 2
@@ -1589,6 +1604,11 @@
       "category": "Windows",
       "date": "2025-07-12",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-22",
+      "downloads": 6
     }
   ],
   "package": "datasette-query-assistant",
