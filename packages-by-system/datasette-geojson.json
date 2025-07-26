@@ -121,6 +121,11 @@
       "downloads": 4
     },
     {
+      "category": "Darwin",
+      "date": "2025-07-25",
+      "downloads": 2
+    },
+    {
       "category": "Linux",
       "date": "2025-01-21",
       "downloads": 2
@@ -1021,6 +1026,11 @@
       "downloads": 21
     },
     {
+      "category": "Linux",
+      "date": "2025-07-25",
+      "downloads": 10
+    },
+    {
       "category": "null",
       "date": "2025-01-22",
       "downloads": 4
@@ -1699,6 +1709,11 @@
       "category": "Windows",
       "date": "2025-07-12",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-25",
+      "downloads": 1
     }
   ],
   "package": "datasette-geojson",
