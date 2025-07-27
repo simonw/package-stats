@@ -2,36 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-01-21",
-      "downloads": 8
-    },
-    {
-      "category": "Darwin",
-      "date": "2025-01-22",
-      "downloads": 11
-    },
-    {
-      "category": "Darwin",
-      "date": "2025-01-23",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
-      "date": "2025-01-24",
-      "downloads": 3
-    },
-    {
-      "category": "Darwin",
-      "date": "2025-01-25",
-      "downloads": 4
-    },
-    {
-      "category": "Darwin",
-      "date": "2025-01-26",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
       "date": "2025-01-27",
       "downloads": 4
     },
@@ -834,36 +804,6 @@
       "category": "Darwin",
       "date": "2025-07-25",
       "downloads": 5
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-21",
-      "downloads": 207
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-22",
-      "downloads": 255
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-23",
-      "downloads": 234
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-24",
-      "downloads": 208
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-25",
-      "downloads": 200
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-26",
-      "downloads": 198
     },
     {
       "category": "Linux",
@@ -1761,34 +1701,9 @@
       "downloads": 240
     },
     {
-      "category": "null",
-      "date": "2025-01-21",
-      "downloads": 19
-    },
-    {
-      "category": "null",
-      "date": "2025-01-22",
-      "downloads": 19
-    },
-    {
-      "category": "null",
-      "date": "2025-01-23",
-      "downloads": 25
-    },
-    {
-      "category": "null",
-      "date": "2025-01-24",
-      "downloads": 24
-    },
-    {
-      "category": "null",
-      "date": "2025-01-25",
-      "downloads": 16
-    },
-    {
-      "category": "null",
-      "date": "2025-01-26",
-      "downloads": 27
+      "category": "Linux",
+      "date": "2025-07-26",
+      "downloads": 198
     },
     {
       "category": "null",
@@ -2526,6 +2441,11 @@
       "downloads": 2
     },
     {
+      "category": "null",
+      "date": "2025-07-26",
+      "downloads": 3
+    },
+    {
       "category": "other",
       "date": "2025-02-06",
       "downloads": 4
@@ -2534,11 +2454,6 @@
       "category": "other",
       "date": "2025-06-03",
       "downloads": 4
-    },
-    {
-      "category": "Windows",
-      "date": "2025-01-22",
-      "downloads": 2
     },
     {
       "category": "Windows",
@@ -2834,6 +2749,11 @@
       "category": "Windows",
       "date": "2025-07-25",
       "downloads": 3
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-26",
+      "downloads": 4
     }
   ],
   "package": "datasette-leaflet",

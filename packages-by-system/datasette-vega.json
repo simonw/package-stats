@@ -2,36 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-01-21",
-      "downloads": 6
-    },
-    {
-      "category": "Darwin",
-      "date": "2025-01-22",
-      "downloads": 5
-    },
-    {
-      "category": "Darwin",
-      "date": "2025-01-23",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
-      "date": "2025-01-24",
-      "downloads": 6
-    },
-    {
-      "category": "Darwin",
-      "date": "2025-01-25",
-      "downloads": 8
-    },
-    {
-      "category": "Darwin",
-      "date": "2025-01-26",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
       "date": "2025-01-27",
       "downloads": 8
     },
@@ -854,36 +824,6 @@
       "category": "Darwin",
       "date": "2025-07-25",
       "downloads": 3
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-21",
-      "downloads": 112
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-22",
-      "downloads": 156
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-23",
-      "downloads": 147
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-24",
-      "downloads": 111
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-25",
-      "downloads": 119
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-26",
-      "downloads": 133
     },
     {
       "category": "Linux",
@@ -1781,34 +1721,9 @@
       "downloads": 132
     },
     {
-      "category": "null",
-      "date": "2025-01-21",
-      "downloads": 29
-    },
-    {
-      "category": "null",
-      "date": "2025-01-22",
-      "downloads": 24
-    },
-    {
-      "category": "null",
-      "date": "2025-01-23",
-      "downloads": 23
-    },
-    {
-      "category": "null",
-      "date": "2025-01-24",
-      "downloads": 15
-    },
-    {
-      "category": "null",
-      "date": "2025-01-25",
-      "downloads": 17
-    },
-    {
-      "category": "null",
-      "date": "2025-01-26",
-      "downloads": 22
+      "category": "Linux",
+      "date": "2025-07-26",
+      "downloads": 112
     },
     {
       "category": "null",
@@ -2666,14 +2581,14 @@
       "downloads": 2
     },
     {
+      "category": "null",
+      "date": "2025-07-26",
+      "downloads": 2
+    },
+    {
       "category": "other",
       "date": "2025-04-05",
       "downloads": 7
-    },
-    {
-      "category": "Windows",
-      "date": "2025-01-23",
-      "downloads": 3
     },
     {
       "category": "Windows",
@@ -2869,6 +2784,11 @@
       "category": "Windows",
       "date": "2025-07-16",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-26",
+      "downloads": 4
     }
   ],
   "package": "datasette-vega",

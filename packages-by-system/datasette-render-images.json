@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-01-22",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
       "date": "2025-02-06",
       "downloads": 8
     },
@@ -66,34 +61,9 @@
       "downloads": 1
     },
     {
-      "category": "Linux",
-      "date": "2025-01-21",
-      "downloads": 7
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-22",
-      "downloads": 7
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-23",
-      "downloads": 7
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-24",
-      "downloads": 9
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-25",
-      "downloads": 8
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-26",
-      "downloads": 7
+      "category": "Darwin",
+      "date": "2025-07-26",
+      "downloads": 2
     },
     {
       "category": "Linux",
@@ -806,29 +776,9 @@
       "downloads": 1
     },
     {
-      "category": "null",
-      "date": "2025-01-22",
-      "downloads": 13
-    },
-    {
-      "category": "null",
-      "date": "2025-01-23",
-      "downloads": 13
-    },
-    {
-      "category": "null",
-      "date": "2025-01-24",
-      "downloads": 9
-    },
-    {
-      "category": "null",
-      "date": "2025-01-25",
-      "downloads": 4
-    },
-    {
-      "category": "null",
-      "date": "2025-01-26",
-      "downloads": 5
+      "category": "Linux",
+      "date": "2025-07-26",
+      "downloads": 1
     },
     {
       "category": "null",
@@ -1526,6 +1476,11 @@
       "downloads": 2
     },
     {
+      "category": "null",
+      "date": "2025-07-26",
+      "downloads": 3
+    },
+    {
       "category": "Windows",
       "date": "2025-01-30",
       "downloads": 2
@@ -1569,6 +1524,11 @@
       "category": "Windows",
       "date": "2025-07-12",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-26",
+      "downloads": 3
     }
   ],
   "package": "datasette-render-images",

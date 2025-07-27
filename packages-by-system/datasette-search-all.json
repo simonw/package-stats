@@ -2,21 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-01-22",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
-      "date": "2025-01-25",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
-      "date": "2025-01-26",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
       "date": "2025-01-29",
       "downloads": 4
     },
@@ -201,34 +186,9 @@
       "downloads": 2
     },
     {
-      "category": "Linux",
-      "date": "2025-01-21",
-      "downloads": 24
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-22",
-      "downloads": 26
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-23",
-      "downloads": 27
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-24",
-      "downloads": 23
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-25",
-      "downloads": 31
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-26",
-      "downloads": 25
+      "category": "Darwin",
+      "date": "2025-07-26",
+      "downloads": 2
     },
     {
       "category": "Linux",
@@ -1126,34 +1086,9 @@
       "downloads": 18
     },
     {
-      "category": "null",
-      "date": "2025-01-21",
-      "downloads": 1
-    },
-    {
-      "category": "null",
-      "date": "2025-01-22",
-      "downloads": 16
-    },
-    {
-      "category": "null",
-      "date": "2025-01-23",
-      "downloads": 22
-    },
-    {
-      "category": "null",
-      "date": "2025-01-24",
-      "downloads": 4
-    },
-    {
-      "category": "null",
-      "date": "2025-01-25",
-      "downloads": 1
-    },
-    {
-      "category": "null",
-      "date": "2025-01-26",
-      "downloads": 21
+      "category": "Linux",
+      "date": "2025-07-26",
+      "downloads": 14
     },
     {
       "category": "null",
@@ -1897,16 +1832,6 @@
     },
     {
       "category": "Windows",
-      "date": "2025-01-23",
-      "downloads": 1
-    },
-    {
-      "category": "Windows",
-      "date": "2025-01-24",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
       "date": "2025-01-27",
       "downloads": 1
     },
@@ -1984,6 +1909,11 @@
       "category": "Windows",
       "date": "2025-07-19",
       "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-26",
+      "downloads": 3
     }
   ],
   "package": "datasette-search-all",
