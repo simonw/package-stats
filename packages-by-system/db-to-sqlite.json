@@ -2,31 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-02-06",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
-      "date": "2025-02-07",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
-      "date": "2025-02-10",
-      "downloads": 4
-    },
-    {
-      "category": "Darwin",
-      "date": "2025-02-18",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
-      "date": "2025-02-21",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
       "date": "2025-02-22",
       "downloads": 2
     },
@@ -336,124 +311,49 @@
       "downloads": 1
     },
     {
-      "category": "Linux",
-      "date": "2025-01-28",
-      "downloads": 119
+      "category": "Darwin",
+      "date": "2025-08-01",
+      "downloads": 2
     },
     {
-      "category": "Linux",
-      "date": "2025-01-29",
-      "downloads": 189
+      "category": "Darwin",
+      "date": "2025-08-07",
+      "downloads": 2
     },
     {
-      "category": "Linux",
-      "date": "2025-01-30",
-      "downloads": 130
+      "category": "Darwin",
+      "date": "2025-08-10",
+      "downloads": 2
     },
     {
-      "category": "Linux",
-      "date": "2025-01-31",
-      "downloads": 155
+      "category": "Darwin",
+      "date": "2025-08-13",
+      "downloads": 4
     },
     {
-      "category": "Linux",
-      "date": "2025-02-01",
-      "downloads": 84
+      "category": "Darwin",
+      "date": "2025-08-16",
+      "downloads": 2
     },
     {
-      "category": "Linux",
-      "date": "2025-02-02",
-      "downloads": 94
+      "category": "Darwin",
+      "date": "2025-08-17",
+      "downloads": 2
     },
     {
-      "category": "Linux",
-      "date": "2025-02-03",
-      "downloads": 247
+      "category": "Darwin",
+      "date": "2025-08-18",
+      "downloads": 5
     },
     {
-      "category": "Linux",
-      "date": "2025-02-04",
-      "downloads": 185
+      "category": "Darwin",
+      "date": "2025-08-20",
+      "downloads": 2
     },
     {
-      "category": "Linux",
-      "date": "2025-02-05",
-      "downloads": 158
-    },
-    {
-      "category": "Linux",
-      "date": "2025-02-06",
-      "downloads": 140
-    },
-    {
-      "category": "Linux",
-      "date": "2025-02-07",
-      "downloads": 139
-    },
-    {
-      "category": "Linux",
-      "date": "2025-02-08",
-      "downloads": 78
-    },
-    {
-      "category": "Linux",
-      "date": "2025-02-09",
-      "downloads": 81
-    },
-    {
-      "category": "Linux",
-      "date": "2025-02-10",
-      "downloads": 150
-    },
-    {
-      "category": "Linux",
-      "date": "2025-02-12",
-      "downloads": 137
-    },
-    {
-      "category": "Linux",
-      "date": "2025-02-13",
-      "downloads": 134
-    },
-    {
-      "category": "Linux",
-      "date": "2025-02-14",
-      "downloads": 105
-    },
-    {
-      "category": "Linux",
-      "date": "2025-02-15",
-      "downloads": 82
-    },
-    {
-      "category": "Linux",
-      "date": "2025-02-16",
-      "downloads": 76
-    },
-    {
-      "category": "Linux",
-      "date": "2025-02-17",
-      "downloads": 125
-    },
-    {
-      "category": "Linux",
-      "date": "2025-02-18",
-      "downloads": 161
-    },
-    {
-      "category": "Linux",
-      "date": "2025-02-19",
-      "downloads": 100
-    },
-    {
-      "category": "Linux",
-      "date": "2025-02-20",
-      "downloads": 102
-    },
-    {
-      "category": "Linux",
-      "date": "2025-02-21",
-      "downloads": 101
+      "category": "Darwin",
+      "date": "2025-08-21",
+      "downloads": 2
     },
     {
       "category": "Linux",
@@ -1251,119 +1151,514 @@
       "downloads": 106
     },
     {
-      "category": "null",
-      "date": "2025-01-28",
-      "downloads": 24
+      "category": "Linux",
+      "date": "2025-07-31",
+      "downloads": 175
     },
     {
-      "category": "null",
-      "date": "2025-01-29",
+      "category": "Linux",
+      "date": "2025-08-01",
+      "downloads": 315
+    },
+    {
+      "category": "Linux",
+      "date": "2025-08-02",
+      "downloads": 262
+    },
+    {
+      "category": "Linux",
+      "date": "2025-08-03",
+      "downloads": 229
+    },
+    {
+      "category": "Linux",
+      "date": "2025-08-04",
+      "downloads": 112
+    },
+    {
+      "category": "Linux",
+      "date": "2025-08-05",
+      "downloads": 122
+    },
+    {
+      "category": "Linux",
+      "date": "2025-08-06",
+      "downloads": 149
+    },
+    {
+      "category": "Linux",
+      "date": "2025-08-07",
+      "downloads": 149
+    },
+    {
+      "category": "Linux",
+      "date": "2025-08-08",
+      "downloads": 82
+    },
+    {
+      "category": "Linux",
+      "date": "2025-08-09",
+      "downloads": 21
+    },
+    {
+      "category": "Linux",
+      "date": "2025-08-10",
+      "downloads": 26
+    },
+    {
+      "category": "Linux",
+      "date": "2025-08-11",
+      "downloads": 66
+    },
+    {
+      "category": "Linux",
+      "date": "2025-08-12",
+      "downloads": 125
+    },
+    {
+      "category": "Linux",
+      "date": "2025-08-13",
+      "downloads": 104
+    },
+    {
+      "category": "Linux",
+      "date": "2025-08-14",
+      "downloads": 108
+    },
+    {
+      "category": "Linux",
+      "date": "2025-08-15",
+      "downloads": 67
+    },
+    {
+      "category": "Linux",
+      "date": "2025-08-16",
+      "downloads": 15
+    },
+    {
+      "category": "Linux",
+      "date": "2025-08-17",
+      "downloads": 38
+    },
+    {
+      "category": "Linux",
+      "date": "2025-08-18",
+      "downloads": 113
+    },
+    {
+      "category": "Linux",
+      "date": "2025-08-19",
+      "downloads": 146
+    },
+    {
+      "category": "Linux",
+      "date": "2025-08-20",
+      "downloads": 140
+    },
+    {
+      "category": "Linux",
+      "date": "2025-08-21",
+      "downloads": 159
+    },
+    {
+      "category": "Windows",
+      "date": "2025-02-24",
       "downloads": 2
     },
     {
-      "category": "null",
-      "date": "2025-01-30",
-      "downloads": 3
-    },
-    {
-      "category": "null",
-      "date": "2025-01-31",
-      "downloads": 6
-    },
-    {
-      "category": "null",
-      "date": "2025-02-02",
-      "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-02-03",
-      "downloads": 13
-    },
-    {
-      "category": "null",
-      "date": "2025-02-04",
-      "downloads": 9
-    },
-    {
-      "category": "null",
-      "date": "2025-02-05",
-      "downloads": 22
-    },
-    {
-      "category": "null",
-      "date": "2025-02-06",
-      "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-02-07",
-      "downloads": 9
-    },
-    {
-      "category": "null",
-      "date": "2025-02-08",
-      "downloads": 35
-    },
-    {
-      "category": "null",
-      "date": "2025-02-09",
-      "downloads": 10
-    },
-    {
-      "category": "null",
-      "date": "2025-02-10",
-      "downloads": 12
-    },
-    {
-      "category": "null",
-      "date": "2025-02-12",
-      "downloads": 7
-    },
-    {
-      "category": "null",
-      "date": "2025-02-13",
-      "downloads": 30
-    },
-    {
-      "category": "null",
-      "date": "2025-02-14",
-      "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-02-15",
-      "downloads": 6
-    },
-    {
-      "category": "null",
-      "date": "2025-02-16",
-      "downloads": 3
-    },
-    {
-      "category": "null",
-      "date": "2025-02-17",
+      "category": "Windows",
+      "date": "2025-02-25",
       "downloads": 4
     },
     {
-      "category": "null",
-      "date": "2025-02-18",
+      "category": "Windows",
+      "date": "2025-03-01",
+      "downloads": 3
+    },
+    {
+      "category": "Windows",
+      "date": "2025-03-02",
+      "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2025-03-11",
+      "downloads": 4
+    },
+    {
+      "category": "Windows",
+      "date": "2025-03-14",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-03-18",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-03-22",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-03-27",
       "downloads": 6
     },
     {
-      "category": "null",
-      "date": "2025-02-19",
+      "category": "Windows",
+      "date": "2025-03-28",
+      "downloads": 6
+    },
+    {
+      "category": "Windows",
+      "date": "2025-03-30",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-04-02",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-04-05",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-04-08",
+      "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2025-04-14",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-04-16",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-04-19",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-04-21",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-04-24",
+      "downloads": 4
+    },
+    {
+      "category": "Windows",
+      "date": "2025-04-26",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-04-28",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-04-30",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-05-02",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-05-03",
+      "downloads": 4
+    },
+    {
+      "category": "Windows",
+      "date": "2025-05-07",
+      "downloads": 3
+    },
+    {
+      "category": "Windows",
+      "date": "2025-05-09",
       "downloads": 8
     },
     {
-      "category": "null",
-      "date": "2025-02-20",
-      "downloads": 16
+      "category": "Windows",
+      "date": "2025-05-12",
+      "downloads": 4
     },
     {
-      "category": "null",
-      "date": "2025-02-21",
+      "category": "Windows",
+      "date": "2025-05-13",
+      "downloads": 3
+    },
+    {
+      "category": "Windows",
+      "date": "2025-05-16",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-05-17",
+      "downloads": 3
+    },
+    {
+      "category": "Windows",
+      "date": "2025-05-19",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-05-20",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-05-21",
+      "downloads": 4
+    },
+    {
+      "category": "Windows",
+      "date": "2025-05-28",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-05-29",
+      "downloads": 8
+    },
+    {
+      "category": "Windows",
+      "date": "2025-05-30",
+      "downloads": 4
+    },
+    {
+      "category": "Windows",
+      "date": "2025-06-02",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-06-06",
+      "downloads": 4
+    },
+    {
+      "category": "Windows",
+      "date": "2025-06-07",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-06-08",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-06-12",
+      "downloads": 6
+    },
+    {
+      "category": "Windows",
+      "date": "2025-06-14",
+      "downloads": 4
+    },
+    {
+      "category": "Windows",
+      "date": "2025-06-16",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-06-17",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-06-18",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-06-20",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-06-24",
+      "downloads": 6
+    },
+    {
+      "category": "Windows",
+      "date": "2025-06-25",
+      "downloads": 6
+    },
+    {
+      "category": "Windows",
+      "date": "2025-06-29",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-06-30",
+      "downloads": 4
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-01",
+      "downloads": 3
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-02",
+      "downloads": 3
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-03",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-04",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-06",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-08",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-09",
+      "downloads": 3
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-10",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-13",
+      "downloads": 4
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-14",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-16",
+      "downloads": 3
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-17",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-19",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-22",
+      "downloads": 4
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-23",
+      "downloads": 11
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-24",
+      "downloads": 6
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-25",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-26",
+      "downloads": 3
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-27",
+      "downloads": 4
+    },
+    {
+      "category": "Windows",
+      "date": "2025-07-30",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-08-02",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-08-05",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-08-06",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-08-10",
+      "downloads": 4
+    },
+    {
+      "category": "Windows",
+      "date": "2025-08-14",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-08-15",
+      "downloads": 2
+    },
+    {
+      "category": "Windows",
+      "date": "2025-08-17",
+      "downloads": 4
+    },
+    {
+      "category": "Windows",
+      "date": "2025-08-19",
+      "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2025-08-20",
       "downloads": 7
+    },
+    {
+      "category": "Windows",
+      "date": "2025-08-21",
+      "downloads": 2
     },
     {
       "category": "null",
@@ -2101,6 +2396,106 @@
       "downloads": 4
     },
     {
+      "category": "null",
+      "date": "2025-07-31",
+      "downloads": 3
+    },
+    {
+      "category": "null",
+      "date": "2025-08-01",
+      "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2025-08-02",
+      "downloads": 3
+    },
+    {
+      "category": "null",
+      "date": "2025-08-03",
+      "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2025-08-04",
+      "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-08-05",
+      "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2025-08-06",
+      "downloads": 10
+    },
+    {
+      "category": "null",
+      "date": "2025-08-08",
+      "downloads": 4
+    },
+    {
+      "category": "null",
+      "date": "2025-08-09",
+      "downloads": 3
+    },
+    {
+      "category": "null",
+      "date": "2025-08-10",
+      "downloads": 6
+    },
+    {
+      "category": "null",
+      "date": "2025-08-11",
+      "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2025-08-12",
+      "downloads": 3
+    },
+    {
+      "category": "null",
+      "date": "2025-08-13",
+      "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-08-15",
+      "downloads": 6
+    },
+    {
+      "category": "null",
+      "date": "2025-08-16",
+      "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-08-17",
+      "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-08-18",
+      "downloads": 8
+    },
+    {
+      "category": "null",
+      "date": "2025-08-19",
+      "downloads": 18
+    },
+    {
+      "category": "null",
+      "date": "2025-08-20",
+      "downloads": 5
+    },
+    {
+      "category": "null",
+      "date": "2025-08-21",
+      "downloads": 2
+    },
+    {
       "category": "other",
       "date": "2025-04-30",
       "downloads": 2
@@ -2108,386 +2503,6 @@
     {
       "category": "other",
       "date": "2025-06-26",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-01-28",
-      "downloads": 1
-    },
-    {
-      "category": "Windows",
-      "date": "2025-01-29",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-02-03",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-02-10",
-      "downloads": 5
-    },
-    {
-      "category": "Windows",
-      "date": "2025-02-14",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-02-16",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-02-24",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-02-25",
-      "downloads": 4
-    },
-    {
-      "category": "Windows",
-      "date": "2025-03-01",
-      "downloads": 3
-    },
-    {
-      "category": "Windows",
-      "date": "2025-03-02",
-      "downloads": 1
-    },
-    {
-      "category": "Windows",
-      "date": "2025-03-11",
-      "downloads": 4
-    },
-    {
-      "category": "Windows",
-      "date": "2025-03-14",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-03-18",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-03-22",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-03-27",
-      "downloads": 6
-    },
-    {
-      "category": "Windows",
-      "date": "2025-03-28",
-      "downloads": 6
-    },
-    {
-      "category": "Windows",
-      "date": "2025-03-30",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-04-02",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-04-05",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-04-08",
-      "downloads": 1
-    },
-    {
-      "category": "Windows",
-      "date": "2025-04-14",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-04-16",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-04-19",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-04-21",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-04-24",
-      "downloads": 4
-    },
-    {
-      "category": "Windows",
-      "date": "2025-04-26",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-04-28",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-04-30",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-05-02",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-05-03",
-      "downloads": 4
-    },
-    {
-      "category": "Windows",
-      "date": "2025-05-07",
-      "downloads": 3
-    },
-    {
-      "category": "Windows",
-      "date": "2025-05-09",
-      "downloads": 8
-    },
-    {
-      "category": "Windows",
-      "date": "2025-05-12",
-      "downloads": 4
-    },
-    {
-      "category": "Windows",
-      "date": "2025-05-13",
-      "downloads": 3
-    },
-    {
-      "category": "Windows",
-      "date": "2025-05-16",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-05-17",
-      "downloads": 3
-    },
-    {
-      "category": "Windows",
-      "date": "2025-05-19",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-05-20",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-05-21",
-      "downloads": 4
-    },
-    {
-      "category": "Windows",
-      "date": "2025-05-28",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-05-29",
-      "downloads": 8
-    },
-    {
-      "category": "Windows",
-      "date": "2025-05-30",
-      "downloads": 4
-    },
-    {
-      "category": "Windows",
-      "date": "2025-06-02",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-06-06",
-      "downloads": 4
-    },
-    {
-      "category": "Windows",
-      "date": "2025-06-07",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-06-08",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-06-12",
-      "downloads": 6
-    },
-    {
-      "category": "Windows",
-      "date": "2025-06-14",
-      "downloads": 4
-    },
-    {
-      "category": "Windows",
-      "date": "2025-06-16",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-06-17",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-06-18",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-06-20",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-06-24",
-      "downloads": 6
-    },
-    {
-      "category": "Windows",
-      "date": "2025-06-25",
-      "downloads": 6
-    },
-    {
-      "category": "Windows",
-      "date": "2025-06-29",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-06-30",
-      "downloads": 4
-    },
-    {
-      "category": "Windows",
-      "date": "2025-07-01",
-      "downloads": 3
-    },
-    {
-      "category": "Windows",
-      "date": "2025-07-02",
-      "downloads": 3
-    },
-    {
-      "category": "Windows",
-      "date": "2025-07-03",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-07-04",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-07-06",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-07-08",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-07-09",
-      "downloads": 3
-    },
-    {
-      "category": "Windows",
-      "date": "2025-07-10",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-07-13",
-      "downloads": 4
-    },
-    {
-      "category": "Windows",
-      "date": "2025-07-14",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-07-16",
-      "downloads": 3
-    },
-    {
-      "category": "Windows",
-      "date": "2025-07-17",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-07-19",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-07-22",
-      "downloads": 4
-    },
-    {
-      "category": "Windows",
-      "date": "2025-07-23",
-      "downloads": 11
-    },
-    {
-      "category": "Windows",
-      "date": "2025-07-24",
-      "downloads": 6
-    },
-    {
-      "category": "Windows",
-      "date": "2025-07-25",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
-      "date": "2025-07-26",
-      "downloads": 3
-    },
-    {
-      "category": "Windows",
-      "date": "2025-07-27",
-      "downloads": 4
-    },
-    {
-      "category": "Windows",
-      "date": "2025-07-30",
       "downloads": 2
     }
   ],

@@ -16,34 +16,9 @@
       "downloads": 2
     },
     {
-      "category": "Linux",
-      "date": "2025-02-05",
-      "downloads": 1
-    },
-    {
-      "category": "Linux",
-      "date": "2025-02-12",
-      "downloads": 1
-    },
-    {
-      "category": "Linux",
-      "date": "2025-02-13",
-      "downloads": 1
-    },
-    {
-      "category": "Linux",
-      "date": "2025-02-16",
+      "category": "Darwin",
+      "date": "2025-08-21",
       "downloads": 2
-    },
-    {
-      "category": "Linux",
-      "date": "2025-02-18",
-      "downloads": 3
-    },
-    {
-      "category": "Linux",
-      "date": "2025-02-19",
-      "downloads": 1
     },
     {
       "category": "Linux",
@@ -241,109 +216,19 @@
       "downloads": 1
     },
     {
-      "category": "null",
-      "date": "2025-01-28",
-      "downloads": 6
-    },
-    {
-      "category": "null",
-      "date": "2025-01-30",
+      "category": "Linux",
+      "date": "2025-08-01",
       "downloads": 1
     },
     {
-      "category": "null",
-      "date": "2025-01-31",
-      "downloads": 5
-    },
-    {
-      "category": "null",
-      "date": "2025-02-01",
-      "downloads": 4
-    },
-    {
-      "category": "null",
-      "date": "2025-02-02",
-      "downloads": 1
-    },
-    {
-      "category": "null",
-      "date": "2025-02-03",
-      "downloads": 6
-    },
-    {
-      "category": "null",
-      "date": "2025-02-04",
+      "category": "Windows",
+      "date": "2025-05-20",
       "downloads": 2
     },
     {
-      "category": "null",
-      "date": "2025-02-05",
+      "category": "Windows",
+      "date": "2025-07-12",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-02-06",
-      "downloads": 1
-    },
-    {
-      "category": "null",
-      "date": "2025-02-07",
-      "downloads": 5
-    },
-    {
-      "category": "null",
-      "date": "2025-02-08",
-      "downloads": 7
-    },
-    {
-      "category": "null",
-      "date": "2025-02-09",
-      "downloads": 8
-    },
-    {
-      "category": "null",
-      "date": "2025-02-10",
-      "downloads": 9
-    },
-    {
-      "category": "null",
-      "date": "2025-02-12",
-      "downloads": 1
-    },
-    {
-      "category": "null",
-      "date": "2025-02-13",
-      "downloads": 9
-    },
-    {
-      "category": "null",
-      "date": "2025-02-14",
-      "downloads": 4
-    },
-    {
-      "category": "null",
-      "date": "2025-02-15",
-      "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-02-16",
-      "downloads": 8
-    },
-    {
-      "category": "null",
-      "date": "2025-02-19",
-      "downloads": 9
-    },
-    {
-      "category": "null",
-      "date": "2025-02-20",
-      "downloads": 5
-    },
-    {
-      "category": "null",
-      "date": "2025-02-21",
-      "downloads": 9
     },
     {
       "category": "null",
@@ -886,14 +771,59 @@
       "downloads": 2
     },
     {
-      "category": "Windows",
-      "date": "2025-05-20",
+      "category": "null",
+      "date": "2025-08-04",
+      "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-08-05",
       "downloads": 2
     },
     {
-      "category": "Windows",
-      "date": "2025-07-12",
+      "category": "null",
+      "date": "2025-08-08",
       "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2025-08-09",
+      "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2025-08-10",
+      "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2025-08-11",
+      "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-08-13",
+      "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2025-08-15",
+      "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-08-18",
+      "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-08-19",
+      "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-08-21",
+      "downloads": 1
     }
   ],
   "package": "datasette-homepage-table",

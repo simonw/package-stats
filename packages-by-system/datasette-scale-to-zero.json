@@ -12,76 +12,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-01-28",
-      "downloads": 4
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-29",
-      "downloads": 2
-    },
-    {
-      "category": "Linux",
-      "date": "2025-01-30",
-      "downloads": 10
-    },
-    {
-      "category": "Linux",
-      "date": "2025-02-03",
-      "downloads": 8
-    },
-    {
-      "category": "Linux",
-      "date": "2025-02-04",
-      "downloads": 2
-    },
-    {
-      "category": "Linux",
-      "date": "2025-02-05",
-      "downloads": 6
-    },
-    {
-      "category": "Linux",
-      "date": "2025-02-06",
-      "downloads": 8
-    },
-    {
-      "category": "Linux",
-      "date": "2025-02-12",
-      "downloads": 1
-    },
-    {
-      "category": "Linux",
-      "date": "2025-02-14",
-      "downloads": 7
-    },
-    {
-      "category": "Linux",
-      "date": "2025-02-17",
-      "downloads": 2
-    },
-    {
-      "category": "Linux",
-      "date": "2025-02-18",
-      "downloads": 2
-    },
-    {
-      "category": "Linux",
-      "date": "2025-02-19",
-      "downloads": 2
-    },
-    {
-      "category": "Linux",
-      "date": "2025-02-20",
-      "downloads": 9
-    },
-    {
-      "category": "Linux",
-      "date": "2025-02-21",
-      "downloads": 9
-    },
-    {
-      "category": "Linux",
       "date": "2025-02-22",
       "downloads": 6
     },
@@ -446,119 +376,19 @@
       "downloads": 158
     },
     {
-      "category": "null",
-      "date": "2025-01-28",
-      "downloads": 12
+      "category": "Linux",
+      "date": "2025-08-13",
+      "downloads": 56
     },
     {
-      "category": "null",
-      "date": "2025-01-29",
-      "downloads": 1
+      "category": "Linux",
+      "date": "2025-08-14",
+      "downloads": 78
     },
     {
-      "category": "null",
-      "date": "2025-01-30",
-      "downloads": 1
-    },
-    {
-      "category": "null",
-      "date": "2025-01-31",
-      "downloads": 13
-    },
-    {
-      "category": "null",
-      "date": "2025-02-01",
-      "downloads": 8
-    },
-    {
-      "category": "null",
-      "date": "2025-02-02",
-      "downloads": 3
-    },
-    {
-      "category": "null",
-      "date": "2025-02-03",
-      "downloads": 3
-    },
-    {
-      "category": "null",
-      "date": "2025-02-04",
-      "downloads": 1
-    },
-    {
-      "category": "null",
-      "date": "2025-02-05",
-      "downloads": 1
-    },
-    {
-      "category": "null",
-      "date": "2025-02-06",
-      "downloads": 1
-    },
-    {
-      "category": "null",
-      "date": "2025-02-07",
-      "downloads": 12
-    },
-    {
-      "category": "null",
-      "date": "2025-02-08",
-      "downloads": 16
-    },
-    {
-      "category": "null",
-      "date": "2025-02-09",
-      "downloads": 18
-    },
-    {
-      "category": "null",
-      "date": "2025-02-10",
-      "downloads": 16
-    },
-    {
-      "category": "null",
-      "date": "2025-02-12",
+      "category": "Windows",
+      "date": "2025-07-12",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-02-13",
-      "downloads": 14
-    },
-    {
-      "category": "null",
-      "date": "2025-02-14",
-      "downloads": 3
-    },
-    {
-      "category": "null",
-      "date": "2025-02-15",
-      "downloads": 4
-    },
-    {
-      "category": "null",
-      "date": "2025-02-16",
-      "downloads": 13
-    },
-    {
-      "category": "null",
-      "date": "2025-02-17",
-      "downloads": 1
-    },
-    {
-      "category": "null",
-      "date": "2025-02-19",
-      "downloads": 13
-    },
-    {
-      "category": "null",
-      "date": "2025-02-20",
-      "downloads": 14
-    },
-    {
-      "category": "null",
-      "date": "2025-02-21",
-      "downloads": 17
     },
     {
       "category": "null",
@@ -1151,9 +981,44 @@
       "downloads": 4
     },
     {
-      "category": "Windows",
-      "date": "2025-07-12",
+      "category": "null",
+      "date": "2025-08-03",
+      "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-08-04",
       "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2025-08-05",
+      "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2025-08-08",
+      "downloads": 3
+    },
+    {
+      "category": "null",
+      "date": "2025-08-09",
+      "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2025-08-10",
+      "downloads": 3
+    },
+    {
+      "category": "null",
+      "date": "2025-08-11",
+      "downloads": 3
+    },
+    {
+      "category": "null",
+      "date": "2025-08-18",
+      "downloads": 5
     }
   ],
   "package": "datasette-scale-to-zero",
