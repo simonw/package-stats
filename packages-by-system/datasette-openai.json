@@ -7,11 +7,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-02-27",
-      "downloads": 12
-    },
-    {
-      "category": "Linux",
       "date": "2025-02-28",
       "downloads": 13
     },
@@ -896,6 +891,11 @@
       "downloads": 10
     },
     {
+      "category": "Linux",
+      "date": "2025-08-27",
+      "downloads": 11
+    },
+    {
       "category": "Windows",
       "date": "2025-05-20",
       "downloads": 2
@@ -924,11 +924,6 @@
       "category": "Windows",
       "date": "2025-08-19",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-02-27",
-      "downloads": 14
     },
     {
       "category": "null",
@@ -1519,6 +1514,11 @@
       "category": "null",
       "date": "2025-08-22",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-08-27",
+      "downloads": 2
     }
   ],
   "package": "datasette-openai",
