@@ -67,11 +67,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-02-28",
-      "downloads": 37
-    },
-    {
-      "category": "Linux",
       "date": "2025-03-01",
       "downloads": 27
     },
@@ -971,6 +966,11 @@
       "downloads": 17
     },
     {
+      "category": "Linux",
+      "date": "2025-08-28",
+      "downloads": 23
+    },
+    {
       "category": "Windows",
       "date": "2025-06-30",
       "downloads": 1
@@ -989,11 +989,6 @@
       "category": "Windows",
       "date": "2025-08-19",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-02-28",
-      "downloads": 23
     },
     {
       "category": "null",
@@ -1774,6 +1769,11 @@
       "category": "null",
       "date": "2025-08-25",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-08-28",
+      "downloads": 4
     }
   ],
   "package": "datasette-auth-tokens",

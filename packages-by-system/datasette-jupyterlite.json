@@ -107,11 +107,6 @@
     },
     {
       "category": "null",
-      "date": "2025-02-28",
-      "downloads": 1
-    },
-    {
-      "category": "null",
       "date": "2025-03-01",
       "downloads": 5
     },
@@ -574,6 +569,11 @@
       "category": "null",
       "date": "2025-08-19",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-08-28",
+      "downloads": 2
     }
   ],
   "package": "datasette-jupyterlite",

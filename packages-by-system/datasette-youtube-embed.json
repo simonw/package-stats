@@ -32,11 +32,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-02-28",
-      "downloads": 1
-    },
-    {
-      "category": "Linux",
       "date": "2025-03-02",
       "downloads": 1
     },
@@ -491,6 +486,11 @@
       "downloads": 2
     },
     {
+      "category": "Linux",
+      "date": "2025-08-28",
+      "downloads": 2
+    },
+    {
       "category": "Windows",
       "date": "2025-06-21",
       "downloads": 3
@@ -501,8 +501,8 @@
       "downloads": 2
     },
     {
-      "category": "null",
-      "date": "2025-02-28",
+      "category": "Windows",
+      "date": "2025-08-28",
       "downloads": 2
     },
     {
@@ -894,6 +894,11 @@
       "category": "null",
       "date": "2025-08-21",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-08-28",
+      "downloads": 2
     }
   ],
   "package": "datasette-youtube-embed",
