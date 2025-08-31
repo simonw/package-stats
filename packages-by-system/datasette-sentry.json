@@ -402,11 +402,6 @@
     },
     {
       "category": "null",
-      "date": "2025-03-02",
-      "downloads": 8
-    },
-    {
-      "category": "null",
       "date": "2025-03-03",
       "downloads": 4
     },
@@ -1059,6 +1054,11 @@
       "category": "null",
       "date": "2025-08-28",
       "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2025-08-30",
+      "downloads": 3
     }
   ],
   "package": "datasette-sentry",
