@@ -56,14 +56,14 @@
       "downloads": 2
     },
     {
+      "category": "Linux",
+      "date": "2025-08-31",
+      "downloads": 18
+    },
+    {
       "category": "Windows",
       "date": "2025-07-12",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-03-03",
-      "downloads": 8
     },
     {
       "category": "null",
@@ -554,6 +554,11 @@
       "category": "null",
       "date": "2025-08-28",
       "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2025-08-31",
+      "downloads": 4
     }
   ],
   "package": "datasette-glitch",
