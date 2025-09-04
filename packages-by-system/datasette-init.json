@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Linux",
-      "date": "2025-03-06",
-      "downloads": 2
-    },
-    {
-      "category": "Linux",
       "date": "2025-03-08",
       "downloads": 12
     },
@@ -164,11 +159,6 @@
       "category": "Windows",
       "date": "2025-07-12",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-03-06",
-      "downloads": 3
     },
     {
       "category": "null",
@@ -714,6 +704,11 @@
       "category": "null",
       "date": "2025-08-31",
       "downloads": 4
+    },
+    {
+      "category": "null",
+      "date": "2025-09-03",
+      "downloads": 1
     }
   ],
   "package": "datasette-init",
