@@ -237,11 +237,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-03-07",
-      "downloads": 45
-    },
-    {
-      "category": "Linux",
       "date": "2025-03-08",
       "downloads": 15
     },
@@ -1141,6 +1136,11 @@
       "downloads": 3
     },
     {
+      "category": "Linux",
+      "date": "2025-09-04",
+      "downloads": 3
+    },
+    {
       "category": "Windows",
       "date": "2025-03-31",
       "downloads": 1
@@ -1223,11 +1223,6 @@
     {
       "category": "Windows",
       "date": "2025-08-26",
-      "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-03-07",
       "downloads": 2
     },
     {
@@ -1839,6 +1834,11 @@
       "category": "null",
       "date": "2025-09-03",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-09-04",
+      "downloads": 2
     }
   ],
   "package": "datasette-plot",
