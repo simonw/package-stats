@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-03-18",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
       "date": "2025-03-31",
       "downloads": 2
     },
@@ -74,16 +69,6 @@
       "category": "Darwin",
       "date": "2025-09-04",
       "downloads": 2
-    },
-    {
-      "category": "Linux",
-      "date": "2025-03-17",
-      "downloads": 24
-    },
-    {
-      "category": "Linux",
-      "date": "2025-03-18",
-      "downloads": 14
     },
     {
       "category": "Linux",
@@ -726,6 +711,16 @@
       "downloads": 55
     },
     {
+      "category": "Linux",
+      "date": "2025-09-14",
+      "downloads": 57
+    },
+    {
+      "category": "Linux",
+      "date": "2025-09-15",
+      "downloads": 49
+    },
+    {
       "category": "Windows",
       "date": "2025-03-25",
       "downloads": 2
@@ -769,16 +764,6 @@
       "category": "Windows",
       "date": "2025-09-08",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-03-17",
-      "downloads": 13
-    },
-    {
-      "category": "null",
-      "date": "2025-03-18",
-      "downloads": 13
     },
     {
       "category": "null",
@@ -1374,6 +1359,11 @@
       "category": "null",
       "date": "2025-09-04",
       "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2025-09-14",
+      "downloads": 1
     }
   ],
   "package": "datasette-geojson-map",
