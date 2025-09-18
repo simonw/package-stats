@@ -6,9 +6,9 @@
       "downloads": 2
     },
     {
-      "category": "Linux",
-      "date": "2025-03-19",
-      "downloads": 4
+      "category": "Darwin",
+      "date": "2025-09-17",
+      "downloads": 2
     },
     {
       "category": "Linux",
@@ -144,16 +144,6 @@
       "category": "Windows",
       "date": "2025-08-28",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-03-19",
-      "downloads": 6
-    },
-    {
-      "category": "null",
-      "date": "2025-03-20",
-      "downloads": 1
     },
     {
       "category": "null",
@@ -619,6 +609,16 @@
       "category": "null",
       "date": "2025-09-06",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-09-16",
+      "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-09-17",
+      "downloads": 2
     }
   ],
   "package": "datasette-haversine",

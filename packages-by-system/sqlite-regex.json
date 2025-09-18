@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-03-19",
-      "downloads": 1
-    },
-    {
-      "category": "Darwin",
       "date": "2025-03-21",
       "downloads": 2
     },
@@ -84,16 +79,6 @@
       "category": "Darwin",
       "date": "2025-08-13",
       "downloads": 2
-    },
-    {
-      "category": "Linux",
-      "date": "2025-03-19",
-      "downloads": 69
-    },
-    {
-      "category": "Linux",
-      "date": "2025-03-20",
-      "downloads": 65
     },
     {
       "category": "Linux",
@@ -991,6 +976,16 @@
       "downloads": 44
     },
     {
+      "category": "Linux",
+      "date": "2025-09-16",
+      "downloads": 83
+    },
+    {
+      "category": "Linux",
+      "date": "2025-09-17",
+      "downloads": 75
+    },
+    {
       "category": "Windows",
       "date": "2025-03-24",
       "downloads": 2
@@ -1161,14 +1156,9 @@
       "downloads": 2
     },
     {
-      "category": "null",
-      "date": "2025-03-19",
-      "downloads": 61
-    },
-    {
-      "category": "null",
-      "date": "2025-03-20",
-      "downloads": 62
+      "category": "Windows",
+      "date": "2025-09-17",
+      "downloads": 4
     },
     {
       "category": "null",
@@ -1714,6 +1704,16 @@
       "category": "null",
       "date": "2025-09-15",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-09-16",
+      "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-09-17",
+      "downloads": 15
     }
   ],
   "package": "sqlite-regex",
