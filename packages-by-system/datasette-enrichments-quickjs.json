@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-03-21",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
       "date": "2025-03-25",
       "downloads": 2
     },
@@ -44,11 +39,6 @@
       "category": "Darwin",
       "date": "2025-09-17",
       "downloads": 2
-    },
-    {
-      "category": "Linux",
-      "date": "2025-03-21",
-      "downloads": 20
     },
     {
       "category": "Linux",
@@ -651,6 +641,11 @@
       "downloads": 38
     },
     {
+      "category": "Linux",
+      "date": "2025-09-18",
+      "downloads": 50
+    },
+    {
       "category": "Windows",
       "date": "2025-04-18",
       "downloads": 1
@@ -684,11 +679,6 @@
       "category": "Windows",
       "date": "2025-08-03",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-03-21",
-      "downloads": 5
     },
     {
       "category": "null",
@@ -1114,6 +1104,11 @@
       "category": "null",
       "date": "2025-09-17",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-09-18",
+      "downloads": 2
     }
   ],
   "package": "datasette-enrichments-quickjs",

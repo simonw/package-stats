@@ -37,11 +37,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-03-21",
-      "downloads": 15
-    },
-    {
-      "category": "Linux",
       "date": "2025-03-22",
       "downloads": 26
     },
@@ -581,6 +576,11 @@
       "downloads": 38
     },
     {
+      "category": "Linux",
+      "date": "2025-09-18",
+      "downloads": 50
+    },
+    {
       "category": "Windows",
       "date": "2025-04-12",
       "downloads": 2
@@ -599,11 +599,6 @@
       "category": "Windows",
       "date": "2025-07-26",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-03-21",
-      "downloads": 6
     },
     {
       "category": "null",
@@ -1079,6 +1074,11 @@
       "category": "null",
       "date": "2025-09-17",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-09-18",
+      "downloads": 2
     }
   ],
   "package": "datasette-embeddings",
