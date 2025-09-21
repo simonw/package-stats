@@ -107,11 +107,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-03-23",
-      "downloads": 52
-    },
-    {
-      "category": "Linux",
       "date": "2025-03-24",
       "downloads": 54
     },
@@ -1011,9 +1006,9 @@
       "downloads": 176
     },
     {
-      "category": "Windows",
-      "date": "2025-03-23",
-      "downloads": 2
+      "category": "Linux",
+      "date": "2025-09-20",
+      "downloads": 92
     },
     {
       "category": "Windows",
@@ -1531,9 +1526,9 @@
       "downloads": 4
     },
     {
-      "category": "null",
-      "date": "2025-03-23",
-      "downloads": 16
+      "category": "Windows",
+      "date": "2025-09-20",
+      "downloads": 12
     },
     {
       "category": "null",
@@ -2349,6 +2344,11 @@
       "category": "null",
       "date": "2025-09-19",
       "downloads": 3
+    },
+    {
+      "category": "null",
+      "date": "2025-09-20",
+      "downloads": 9
     }
   ],
   "package": "datasette-graphql",
