@@ -72,11 +72,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-03-24",
-      "downloads": 6
-    },
-    {
-      "category": "Linux",
       "date": "2025-03-25",
       "downloads": 11
     },
@@ -976,6 +971,11 @@
       "downloads": 2
     },
     {
+      "category": "Linux",
+      "date": "2025-09-21",
+      "downloads": 2
+    },
+    {
       "category": "Windows",
       "date": "2025-04-18",
       "downloads": 1
@@ -1019,11 +1019,6 @@
       "category": "Windows",
       "date": "2025-08-28",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-03-24",
-      "downloads": 5
     },
     {
       "category": "null",
@@ -1539,6 +1534,11 @@
       "category": "null",
       "date": "2025-09-20",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-09-21",
+      "downloads": 2
     }
   ],
   "package": "datasette-enrichments-gpt",

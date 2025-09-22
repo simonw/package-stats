@@ -112,11 +112,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-03-24",
-      "downloads": 12
-    },
-    {
-      "category": "Linux",
       "date": "2025-03-25",
       "downloads": 17
     },
@@ -1016,9 +1011,9 @@
       "downloads": 12
     },
     {
-      "category": "Windows",
-      "date": "2025-03-24",
-      "downloads": 2
+      "category": "Linux",
+      "date": "2025-09-21",
+      "downloads": 12
     },
     {
       "category": "Windows",
@@ -1069,11 +1064,6 @@
       "category": "Windows",
       "date": "2025-09-08",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-03-24",
-      "downloads": 1
     },
     {
       "category": "null",
@@ -1569,6 +1559,11 @@
       "category": "null",
       "date": "2025-09-20",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-09-21",
+      "downloads": 4
     }
   ],
   "package": "datasette-geojson",
