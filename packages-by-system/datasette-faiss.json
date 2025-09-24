@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-03-26",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
       "date": "2025-05-30",
       "downloads": 2
     },
@@ -49,16 +44,6 @@
       "category": "Darwin",
       "date": "2025-09-17",
       "downloads": 2
-    },
-    {
-      "category": "Linux",
-      "date": "2025-03-25",
-      "downloads": 12
-    },
-    {
-      "category": "Linux",
-      "date": "2025-03-26",
-      "downloads": 12
     },
     {
       "category": "Linux",
@@ -941,6 +926,16 @@
       "downloads": 12
     },
     {
+      "category": "Linux",
+      "date": "2025-09-22",
+      "downloads": 14
+    },
+    {
+      "category": "Linux",
+      "date": "2025-09-23",
+      "downloads": 12
+    },
+    {
       "category": "Windows",
       "date": "2025-04-12",
       "downloads": 2
@@ -989,11 +984,6 @@
       "category": "Windows",
       "date": "2025-08-11",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-03-26",
-      "downloads": 1
     },
     {
       "category": "null",
@@ -1489,6 +1479,16 @@
       "category": "null",
       "date": "2025-09-21",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-09-22",
+      "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-09-23",
+      "downloads": 6
     }
   ],
   "package": "datasette-faiss",

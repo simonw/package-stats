@@ -2,16 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-03-25",
-      "downloads": 253
-    },
-    {
-      "category": "Darwin",
-      "date": "2025-03-26",
-      "downloads": 331
-    },
-    {
-      "category": "Darwin",
       "date": "2025-03-27",
       "downloads": 257
     },
@@ -906,14 +896,14 @@
       "downloads": 315
     },
     {
-      "category": "Linux",
-      "date": "2025-03-25",
-      "downloads": 12842
+      "category": "Darwin",
+      "date": "2025-09-22",
+      "downloads": 488
     },
     {
-      "category": "Linux",
-      "date": "2025-03-26",
-      "downloads": 13061
+      "category": "Darwin",
+      "date": "2025-09-23",
+      "downloads": 477
     },
     {
       "category": "Linux",
@@ -1811,14 +1801,14 @@
       "downloads": 14496
     },
     {
-      "category": "Windows",
-      "date": "2025-03-25",
-      "downloads": 347
+      "category": "Linux",
+      "date": "2025-09-22",
+      "downloads": 19618
     },
     {
-      "category": "Windows",
-      "date": "2025-03-26",
-      "downloads": 391
+      "category": "Linux",
+      "date": "2025-09-23",
+      "downloads": 20392
     },
     {
       "category": "Windows",
@@ -2716,14 +2706,14 @@
       "downloads": 503
     },
     {
-      "category": "null",
-      "date": "2025-03-25",
-      "downloads": 375
+      "category": "Windows",
+      "date": "2025-09-22",
+      "downloads": 845
     },
     {
-      "category": "null",
-      "date": "2025-03-26",
-      "downloads": 195
+      "category": "Windows",
+      "date": "2025-09-23",
+      "downloads": 886
     },
     {
       "category": "null",
@@ -3621,6 +3611,16 @@
       "downloads": 74
     },
     {
+      "category": "null",
+      "date": "2025-09-22",
+      "downloads": 182
+    },
+    {
+      "category": "null",
+      "date": "2025-09-23",
+      "downloads": 385
+    },
+    {
       "category": "other",
       "date": "2025-03-29",
       "downloads": 4
@@ -3924,6 +3924,16 @@
       "category": "other",
       "date": "2025-09-21",
       "downloads": 1
+    },
+    {
+      "category": "other",
+      "date": "2025-09-22",
+      "downloads": 1
+    },
+    {
+      "category": "other",
+      "date": "2025-09-23",
+      "downloads": 2
     }
   ],
   "package": "sqlite-utils",

@@ -42,16 +42,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-03-25",
-      "downloads": 6
-    },
-    {
-      "category": "Linux",
-      "date": "2025-03-26",
-      "downloads": 6
-    },
-    {
-      "category": "Linux",
       "date": "2025-03-27",
       "downloads": 6
     },
@@ -941,14 +931,19 @@
       "downloads": 2
     },
     {
-      "category": "Windows",
-      "date": "2025-06-05",
+      "category": "Linux",
+      "date": "2025-09-22",
+      "downloads": 4
+    },
+    {
+      "category": "Linux",
+      "date": "2025-09-23",
       "downloads": 2
     },
     {
-      "category": "null",
-      "date": "2025-03-25",
-      "downloads": 6
+      "category": "Windows",
+      "date": "2025-06-05",
+      "downloads": 2
     },
     {
       "category": "null",
@@ -1489,6 +1484,16 @@
       "category": "null",
       "date": "2025-09-21",
       "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2025-09-22",
+      "downloads": 4
+    },
+    {
+      "category": "null",
+      "date": "2025-09-23",
+      "downloads": 12
     }
   ],
   "package": "hacker-news-to-sqlite",

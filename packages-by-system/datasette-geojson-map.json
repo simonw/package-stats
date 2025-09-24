@@ -77,16 +77,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-03-25",
-      "downloads": 49
-    },
-    {
-      "category": "Linux",
-      "date": "2025-03-26",
-      "downloads": 34
-    },
-    {
-      "category": "Linux",
       "date": "2025-03-27",
       "downloads": 45
     },
@@ -726,9 +716,14 @@
       "downloads": 55
     },
     {
-      "category": "Windows",
-      "date": "2025-03-25",
-      "downloads": 2
+      "category": "Linux",
+      "date": "2025-09-22",
+      "downloads": 68
+    },
+    {
+      "category": "Linux",
+      "date": "2025-09-23",
+      "downloads": 61
     },
     {
       "category": "Windows",
@@ -769,16 +764,6 @@
       "category": "Windows",
       "date": "2025-09-08",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-03-25",
-      "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-03-26",
-      "downloads": 1
     },
     {
       "category": "null",
@@ -1359,6 +1344,16 @@
       "category": "null",
       "date": "2025-09-21",
       "downloads": 3
+    },
+    {
+      "category": "null",
+      "date": "2025-09-22",
+      "downloads": 6
+    },
+    {
+      "category": "null",
+      "date": "2025-09-23",
+      "downloads": 18
     }
   ],
   "package": "datasette-geojson-map",

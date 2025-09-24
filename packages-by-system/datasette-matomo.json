@@ -116,6 +116,11 @@
       "downloads": 1
     },
     {
+      "category": "Linux",
+      "date": "2025-09-22",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2025-07-12",
       "downloads": 2
@@ -524,6 +529,16 @@
       "category": "null",
       "date": "2025-09-21",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-09-22",
+      "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2025-09-23",
+      "downloads": 7
     }
   ],
   "package": "datasette-matomo",

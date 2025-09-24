@@ -47,11 +47,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-03-26",
-      "downloads": 1
-    },
-    {
-      "category": "Linux",
       "date": "2025-04-20",
       "downloads": 1
     },
@@ -139,16 +134,6 @@
       "category": "Windows",
       "date": "2025-07-12",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-03-25",
-      "downloads": 7
-    },
-    {
-      "category": "null",
-      "date": "2025-03-26",
-      "downloads": 7
     },
     {
       "category": "null",
@@ -729,6 +714,16 @@
       "category": "null",
       "date": "2025-09-21",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-09-22",
+      "downloads": 3
+    },
+    {
+      "category": "null",
+      "date": "2025-09-23",
+      "downloads": 10
     }
   ],
   "package": "pocket-to-sqlite",

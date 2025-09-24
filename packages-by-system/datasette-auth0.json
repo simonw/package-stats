@@ -61,6 +61,11 @@
       "downloads": 1
     },
     {
+      "category": "Linux",
+      "date": "2025-09-22",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2025-06-17",
       "downloads": 2
@@ -68,16 +73,6 @@
     {
       "category": "Windows",
       "date": "2025-07-12",
-      "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-03-25",
-      "downloads": 1
-    },
-    {
-      "category": "null",
-      "date": "2025-03-26",
       "downloads": 2
     },
     {
@@ -484,6 +479,16 @@
       "category": "null",
       "date": "2025-09-20",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-09-22",
+      "downloads": 3
+    },
+    {
+      "category": "null",
+      "date": "2025-09-23",
+      "downloads": 5
     }
   ],
   "package": "datasette-auth0",

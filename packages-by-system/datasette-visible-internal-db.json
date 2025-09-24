@@ -17,16 +17,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-03-25",
-      "downloads": 43
-    },
-    {
-      "category": "Linux",
-      "date": "2025-03-26",
-      "downloads": 37
-    },
-    {
-      "category": "Linux",
       "date": "2025-03-27",
       "downloads": 46
     },
@@ -606,18 +596,18 @@
       "downloads": 45
     },
     {
+      "category": "Linux",
+      "date": "2025-09-22",
+      "downloads": 49
+    },
+    {
+      "category": "Linux",
+      "date": "2025-09-23",
+      "downloads": 43
+    },
+    {
       "category": "Windows",
       "date": "2025-07-12",
-      "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-03-25",
-      "downloads": 1
-    },
-    {
-      "category": "null",
-      "date": "2025-03-26",
       "downloads": 2
     },
     {
@@ -1029,6 +1019,16 @@
       "category": "null",
       "date": "2025-09-19",
       "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2025-09-22",
+      "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2025-09-23",
+      "downloads": 6
     }
   ],
   "package": "datasette-visible-internal-db",

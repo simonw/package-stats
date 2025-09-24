@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-03-26",
-      "downloads": 4
-    },
-    {
-      "category": "Darwin",
       "date": "2025-04-03",
       "downloads": 2
     },
@@ -48,16 +43,6 @@
     {
       "category": "Darwin",
       "date": "2025-09-17",
-      "downloads": 2
-    },
-    {
-      "category": "Linux",
-      "date": "2025-03-25",
-      "downloads": 6
-    },
-    {
-      "category": "Linux",
-      "date": "2025-03-26",
       "downloads": 2
     },
     {
@@ -812,11 +797,6 @@
     },
     {
       "category": "null",
-      "date": "2025-03-26",
-      "downloads": 1
-    },
-    {
-      "category": "null",
       "date": "2025-03-27",
       "downloads": 2
     },
@@ -1149,6 +1129,16 @@
       "category": "null",
       "date": "2025-09-20",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-09-22",
+      "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-09-23",
+      "downloads": 2
     }
   ],
   "package": "datasette-render-image-tags",

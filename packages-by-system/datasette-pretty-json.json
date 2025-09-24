@@ -2,16 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-03-25",
-      "downloads": 3
-    },
-    {
-      "category": "Darwin",
-      "date": "2025-03-26",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
       "date": "2025-03-27",
       "downloads": 1
     },
@@ -751,14 +741,14 @@
       "downloads": 1
     },
     {
-      "category": "Linux",
-      "date": "2025-03-25",
-      "downloads": 38
+      "category": "Darwin",
+      "date": "2025-09-22",
+      "downloads": 1
     },
     {
-      "category": "Linux",
-      "date": "2025-03-26",
-      "downloads": 31
+      "category": "Darwin",
+      "date": "2025-09-23",
+      "downloads": 2
     },
     {
       "category": "Linux",
@@ -1631,6 +1621,16 @@
       "downloads": 16
     },
     {
+      "category": "Linux",
+      "date": "2025-09-22",
+      "downloads": 66
+    },
+    {
+      "category": "Linux",
+      "date": "2025-09-23",
+      "downloads": 40
+    },
+    {
       "category": "Windows",
       "date": "2025-04-01",
       "downloads": 2
@@ -1674,16 +1674,6 @@
       "category": "Windows",
       "date": "2025-08-19",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-03-25",
-      "downloads": 3
-    },
-    {
-      "category": "null",
-      "date": "2025-03-26",
-      "downloads": 1
     },
     {
       "category": "null",
@@ -2259,6 +2249,16 @@
       "category": "null",
       "date": "2025-09-21",
       "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2025-09-22",
+      "downloads": 5
+    },
+    {
+      "category": "null",
+      "date": "2025-09-23",
+      "downloads": 17
     }
   ],
   "package": "datasette-pretty-json",
