@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-04-02",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
       "date": "2025-04-03",
       "downloads": 1
     },
@@ -761,9 +756,9 @@
       "downloads": 1
     },
     {
-      "category": "Linux",
-      "date": "2025-04-02",
-      "downloads": 4
+      "category": "Darwin",
+      "date": "2025-09-30",
+      "downloads": 2
     },
     {
       "category": "Linux",
@@ -1299,11 +1294,6 @@
       "category": "Windows",
       "date": "2025-09-29",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-04-02",
-      "downloads": 38
     },
     {
       "category": "null",
@@ -2029,6 +2019,16 @@
       "category": "null",
       "date": "2025-09-29",
       "downloads": 18
+    },
+    {
+      "category": "null",
+      "date": "2025-09-30",
+      "downloads": 6
+    },
+    {
+      "category": "other",
+      "date": "2025-09-30",
+      "downloads": 2
     }
   ],
   "package": "datasette-edit-schema",
