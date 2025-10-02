@@ -267,11 +267,6 @@
     },
     {
       "category": "null",
-      "date": "2025-04-03",
-      "downloads": 9
-    },
-    {
-      "category": "null",
       "date": "2025-04-04",
       "downloads": 9
     },
@@ -804,6 +799,11 @@
       "category": "null",
       "date": "2025-09-29",
       "downloads": 4
+    },
+    {
+      "category": "null",
+      "date": "2025-10-01",
+      "downloads": 1
     }
   ],
   "package": "datasette-statistics",
