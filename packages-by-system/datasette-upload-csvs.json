@@ -202,11 +202,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-04-08",
-      "downloads": 4
-    },
-    {
-      "category": "Linux",
       "date": "2025-04-09",
       "downloads": 2
     },
@@ -724,11 +719,6 @@
       "category": "Windows",
       "date": "2025-09-24",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-04-08",
-      "downloads": 27
     },
     {
       "category": "null",
@@ -1374,6 +1364,11 @@
       "category": "null",
       "date": "2025-10-05",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-10-06",
+      "downloads": 4
     }
   ],
   "package": "datasette-upload-csvs",
