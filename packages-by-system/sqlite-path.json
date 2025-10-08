@@ -12,11 +12,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-04-09",
-      "downloads": 6
-    },
-    {
-      "category": "Linux",
       "date": "2025-04-10",
       "downloads": 7
     },
@@ -1187,11 +1182,6 @@
     },
     {
       "category": "null",
-      "date": "2025-04-09",
-      "downloads": 34
-    },
-    {
-      "category": "null",
       "date": "2025-04-10",
       "downloads": 16
     },
@@ -1774,6 +1764,11 @@
       "category": "null",
       "date": "2025-10-04",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-10-07",
+      "downloads": 2
     }
   ],
   "package": "sqlite-path",
