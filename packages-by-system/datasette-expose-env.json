@@ -12,11 +12,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-04-11",
-      "downloads": 2
-    },
-    {
-      "category": "Linux",
       "date": "2025-04-14",
       "downloads": 5
     },
@@ -199,11 +194,6 @@
       "category": "Windows",
       "date": "2025-07-12",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-04-11",
-      "downloads": 6
     },
     {
       "category": "null",
@@ -579,6 +569,11 @@
       "category": "null",
       "date": "2025-10-06",
       "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2025-10-09",
+      "downloads": 1
     }
   ],
   "package": "datasette-expose-env",
