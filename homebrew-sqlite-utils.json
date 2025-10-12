@@ -30,48 +30,38 @@
   "skip_livecheck": false,
   "bottle": {
     "stable": {
-      "rebuild": 1,
+      "rebuild": 2,
       "root_url": "https://ghcr.io/v2/homebrew/core",
       "files": {
         "arm64_tahoe": {
           "cellar": ":any_skip_relocation",
-          "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:fe8f29ca11266e75217d4233bc130b2cf0f67ce19742d7a6749065ad1eb9e93d",
-          "sha256": "fe8f29ca11266e75217d4233bc130b2cf0f67ce19742d7a6749065ad1eb9e93d"
+          "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:143905b7ed6a8f14901a426dff00dc50c3595c292bd18308bf09341711749f84",
+          "sha256": "143905b7ed6a8f14901a426dff00dc50c3595c292bd18308bf09341711749f84"
         },
         "arm64_sequoia": {
           "cellar": ":any_skip_relocation",
-          "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:6bae85f5cf6afe2f60ac7c154d7a364a635b65628de948dc9709e23c0af9bbde",
-          "sha256": "6bae85f5cf6afe2f60ac7c154d7a364a635b65628de948dc9709e23c0af9bbde"
+          "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:143905b7ed6a8f14901a426dff00dc50c3595c292bd18308bf09341711749f84",
+          "sha256": "143905b7ed6a8f14901a426dff00dc50c3595c292bd18308bf09341711749f84"
         },
         "arm64_sonoma": {
           "cellar": ":any_skip_relocation",
-          "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:6bae85f5cf6afe2f60ac7c154d7a364a635b65628de948dc9709e23c0af9bbde",
-          "sha256": "6bae85f5cf6afe2f60ac7c154d7a364a635b65628de948dc9709e23c0af9bbde"
-        },
-        "arm64_ventura": {
-          "cellar": ":any_skip_relocation",
-          "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:6bae85f5cf6afe2f60ac7c154d7a364a635b65628de948dc9709e23c0af9bbde",
-          "sha256": "6bae85f5cf6afe2f60ac7c154d7a364a635b65628de948dc9709e23c0af9bbde"
+          "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:143905b7ed6a8f14901a426dff00dc50c3595c292bd18308bf09341711749f84",
+          "sha256": "143905b7ed6a8f14901a426dff00dc50c3595c292bd18308bf09341711749f84"
         },
         "sonoma": {
           "cellar": ":any_skip_relocation",
-          "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:a2b1742ba548f5fe04a5781292cb27ab85f520f5bb6046ce0996b0ab31609e41",
-          "sha256": "a2b1742ba548f5fe04a5781292cb27ab85f520f5bb6046ce0996b0ab31609e41"
-        },
-        "ventura": {
-          "cellar": ":any_skip_relocation",
-          "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:a2b1742ba548f5fe04a5781292cb27ab85f520f5bb6046ce0996b0ab31609e41",
-          "sha256": "a2b1742ba548f5fe04a5781292cb27ab85f520f5bb6046ce0996b0ab31609e41"
+          "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:19ab058d0e946b1c89d13dc42825879c7b711ff74f32acb332f27f8525248c5b",
+          "sha256": "19ab058d0e946b1c89d13dc42825879c7b711ff74f32acb332f27f8525248c5b"
         },
         "arm64_linux": {
           "cellar": ":any_skip_relocation",
-          "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:80976f079353627f3923086d276cf5707b4e482e148531a34adf0f8d141fb8fe",
-          "sha256": "80976f079353627f3923086d276cf5707b4e482e148531a34adf0f8d141fb8fe"
+          "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:19ab058d0e946b1c89d13dc42825879c7b711ff74f32acb332f27f8525248c5b",
+          "sha256": "19ab058d0e946b1c89d13dc42825879c7b711ff74f32acb332f27f8525248c5b"
         },
         "x86_64_linux": {
           "cellar": ":any_skip_relocation",
-          "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:80976f079353627f3923086d276cf5707b4e482e148531a34adf0f8d141fb8fe",
-          "sha256": "80976f079353627f3923086d276cf5707b4e482e148531a34adf0f8d141fb8fe"
+          "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:19ab058d0e946b1c89d13dc42825879c7b711ff74f32acb332f27f8525248c5b",
+          "sha256": "19ab058d0e946b1c89d13dc42825879c7b711ff74f32acb332f27f8525248c5b"
         }
       }
     }
@@ -82,7 +72,7 @@
   "options": [],
   "build_dependencies": [],
   "dependencies": [
-    "python@3.13"
+    "python@3.14"
   ],
   "test_dependencies": [],
   "recommended_dependencies": [],
@@ -110,34 +100,34 @@
   "disable_replacement_cask": null,
   "post_install_defined": false,
   "service": null,
-  "tap_git_head": "f2a01932463ab6c41089b821a3672b1ad8d8900d",
+  "tap_git_head": "a9a54cc467fbf79693303d2409c90ade964ab889",
   "ruby_source_path": "Formula/s/sqlite-utils.rb",
   "ruby_source_checksum": {
-    "sha256": "3287d49fbfab78044bfcd0fd449bfaa5aa54c34b98765c18195b97fbdf0bc1fc"
+    "sha256": "60da6d4b9e00131658996830ee5642486660281b3bc78aeb5038685a3f3c523e"
   },
   "variations": {},
   "analytics": {
     "install": {
       "30d": {
-        "sqlite-utils": 73
+        "sqlite-utils": 81
       },
       "90d": {
-        "sqlite-utils": 227
+        "sqlite-utils": 235
       },
       "365d": {
-        "sqlite-utils": 1719,
+        "sqlite-utils": 1725,
         "sqlite-utils --HEAD": 6
       }
     },
     "install_on_request": {
       "30d": {
-        "sqlite-utils": 73
+        "sqlite-utils": 81
       },
       "90d": {
-        "sqlite-utils": 225
+        "sqlite-utils": 233
       },
       "365d": {
-        "sqlite-utils": 1676,
+        "sqlite-utils": 1682,
         "sqlite-utils --HEAD": 6
       }
     },
