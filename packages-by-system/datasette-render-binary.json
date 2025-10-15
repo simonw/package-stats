@@ -72,11 +72,6 @@
     },
     {
       "category": "null",
-      "date": "2025-04-16",
-      "downloads": 12
-    },
-    {
-      "category": "null",
       "date": "2025-04-17",
       "downloads": 5
     },
@@ -464,6 +459,11 @@
       "category": "null",
       "date": "2025-10-13",
       "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2025-10-14",
+      "downloads": 3
     }
   ],
   "package": "datasette-render-binary",

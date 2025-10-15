@@ -37,11 +37,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-04-16",
-      "downloads": 46
-    },
-    {
-      "category": "Linux",
       "date": "2025-04-17",
       "downloads": 49
     },
@@ -641,6 +636,11 @@
       "downloads": 130
     },
     {
+      "category": "Linux",
+      "date": "2025-10-14",
+      "downloads": 132
+    },
+    {
       "category": "Windows",
       "date": "2025-04-18",
       "downloads": 1
@@ -679,11 +679,6 @@
       "category": "Windows",
       "date": "2025-10-10",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-04-16",
-      "downloads": 11
     },
     {
       "category": "null",
@@ -1049,6 +1044,11 @@
       "category": "null",
       "date": "2025-10-13",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-10-14",
+      "downloads": 3
     }
   ],
   "package": "datasette-enrichments-quickjs",
