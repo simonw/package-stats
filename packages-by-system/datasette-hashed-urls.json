@@ -62,11 +62,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-04-17",
-      "downloads": 121
-    },
-    {
-      "category": "Linux",
       "date": "2025-04-18",
       "downloads": 124
     },
@@ -966,14 +961,14 @@
       "downloads": 49
     },
     {
+      "category": "Linux",
+      "date": "2025-10-15",
+      "downloads": 57
+    },
+    {
       "category": "Windows",
       "date": "2025-07-12",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-04-17",
-      "downloads": 1
     },
     {
       "category": "null",
@@ -1514,6 +1509,11 @@
       "category": "null",
       "date": "2025-10-14",
       "downloads": 11
+    },
+    {
+      "category": "null",
+      "date": "2025-10-15",
+      "downloads": 4
     }
   ],
   "package": "datasette-hashed-urls",
