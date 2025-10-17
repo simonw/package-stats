@@ -721,6 +721,11 @@
       "downloads": 1
     },
     {
+      "category": "Linux",
+      "date": "2025-10-16",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2025-06-14",
       "downloads": 2
@@ -744,11 +749,6 @@
       "category": "Windows",
       "date": "2025-09-25",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-04-18",
-      "downloads": 12
     },
     {
       "category": "null",
@@ -1289,6 +1289,11 @@
       "category": "null",
       "date": "2025-10-15",
       "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2025-10-16",
+      "downloads": 1
     }
   ],
   "package": "healthkit-to-sqlite",
