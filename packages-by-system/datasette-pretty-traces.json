@@ -26,14 +26,9 @@
       "downloads": 6
     },
     {
-      "category": "Linux",
-      "date": "2025-04-25",
+      "category": "Darwin",
+      "date": "2025-10-24",
       "downloads": 4
-    },
-    {
-      "category": "Linux",
-      "date": "2025-04-26",
-      "downloads": 2
     },
     {
       "category": "Linux",
@@ -931,6 +926,16 @@
       "downloads": 2
     },
     {
+      "category": "Linux",
+      "date": "2025-10-23",
+      "downloads": 2
+    },
+    {
+      "category": "Linux",
+      "date": "2025-10-24",
+      "downloads": 9
+    },
+    {
       "category": "Windows",
       "date": "2025-07-12",
       "downloads": 2
@@ -939,16 +944,6 @@
       "category": "Windows",
       "date": "2025-08-28",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-04-25",
-      "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-04-26",
-      "downloads": 13
     },
     {
       "category": "null",
@@ -1469,6 +1464,16 @@
       "category": "null",
       "date": "2025-10-20",
       "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2025-10-23",
+      "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-10-24",
+      "downloads": 62
     }
   ],
   "package": "datasette-pretty-traces",

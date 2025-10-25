@@ -32,16 +32,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-04-25",
-      "downloads": 2
-    },
-    {
-      "category": "Linux",
-      "date": "2025-04-26",
-      "downloads": 2
-    },
-    {
-      "category": "Linux",
       "date": "2025-04-28",
       "downloads": 3
     },
@@ -324,16 +314,6 @@
       "category": "Linux",
       "date": "2025-10-21",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-04-25",
-      "downloads": 35
-    },
-    {
-      "category": "null",
-      "date": "2025-04-26",
-      "downloads": 46
     },
     {
       "category": "null",
@@ -1064,6 +1044,16 @@
       "category": "null",
       "date": "2025-10-22",
       "downloads": 8
+    },
+    {
+      "category": "null",
+      "date": "2025-10-23",
+      "downloads": 8
+    },
+    {
+      "category": "null",
+      "date": "2025-10-24",
+      "downloads": 5
     }
   ],
   "package": "twitter-to-sqlite",
