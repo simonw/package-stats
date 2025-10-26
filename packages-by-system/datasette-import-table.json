@@ -77,11 +77,6 @@
     },
     {
       "category": "null",
-      "date": "2025-04-27",
-      "downloads": 10
-    },
-    {
-      "category": "null",
       "date": "2025-04-28",
       "downloads": 12
     },
@@ -594,6 +589,11 @@
       "category": "null",
       "date": "2025-10-22",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-10-25",
+      "downloads": 12
     }
   ],
   "package": "datasette-import-table",
