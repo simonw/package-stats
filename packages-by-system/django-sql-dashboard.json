@@ -2,16 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-04-29",
-      "downloads": 3
-    },
-    {
-      "category": "Darwin",
-      "date": "2025-04-30",
-      "downloads": 3
-    },
-    {
-      "category": "Darwin",
       "date": "2025-05-03",
       "downloads": 1
     },
@@ -416,14 +406,14 @@
       "downloads": 2
     },
     {
-      "category": "Linux",
-      "date": "2025-04-29",
-      "downloads": 528
+      "category": "Darwin",
+      "date": "2025-10-27",
+      "downloads": 5
     },
     {
-      "category": "Linux",
-      "date": "2025-04-30",
-      "downloads": 326
+      "category": "Darwin",
+      "date": "2025-10-28",
+      "downloads": 2
     },
     {
       "category": "Linux",
@@ -1321,6 +1311,16 @@
       "downloads": 51
     },
     {
+      "category": "Linux",
+      "date": "2025-10-27",
+      "downloads": 465
+    },
+    {
+      "category": "Linux",
+      "date": "2025-10-28",
+      "downloads": 445
+    },
+    {
       "category": "Windows",
       "date": "2025-05-02",
       "downloads": 1
@@ -1451,14 +1451,9 @@
       "downloads": 1
     },
     {
-      "category": "null",
-      "date": "2025-04-29",
-      "downloads": 17
-    },
-    {
-      "category": "null",
-      "date": "2025-04-30",
-      "downloads": 22
+      "category": "Windows",
+      "date": "2025-10-28",
+      "downloads": 2
     },
     {
       "category": "null",
@@ -2299,6 +2294,16 @@
       "category": "null",
       "date": "2025-10-26",
       "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2025-10-27",
+      "downloads": 73
+    },
+    {
+      "category": "null",
+      "date": "2025-10-28",
+      "downloads": 6
     }
   ],
   "package": "django-sql-dashboard",

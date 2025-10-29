@@ -52,16 +52,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-04-29",
-      "downloads": 17
-    },
-    {
-      "category": "Linux",
-      "date": "2025-04-30",
-      "downloads": 15
-    },
-    {
-      "category": "Linux",
       "date": "2025-05-01",
       "downloads": 31
     },
@@ -956,6 +946,16 @@
       "downloads": 27
     },
     {
+      "category": "Linux",
+      "date": "2025-10-27",
+      "downloads": 46
+    },
+    {
+      "category": "Linux",
+      "date": "2025-10-28",
+      "downloads": 45
+    },
+    {
       "category": "Windows",
       "date": "2025-06-07",
       "downloads": 2
@@ -979,16 +979,6 @@
       "category": "Windows",
       "date": "2025-10-14",
       "downloads": 4
-    },
-    {
-      "category": "null",
-      "date": "2025-04-29",
-      "downloads": 16
-    },
-    {
-      "category": "null",
-      "date": "2025-04-30",
-      "downloads": 19
     },
     {
       "category": "null",
@@ -1539,6 +1529,11 @@
       "category": "null",
       "date": "2025-10-25",
       "downloads": 7
+    },
+    {
+      "category": "null",
+      "date": "2025-10-28",
+      "downloads": 6
     }
   ],
   "package": "datasette-cors",

@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-04-30",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
       "date": "2025-05-25",
       "downloads": 2
     },
@@ -604,6 +599,16 @@
       "category": "null",
       "date": "2025-10-20",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-10-27",
+      "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-10-28",
+      "downloads": 4
     }
   ],
   "package": "google-drive-to-sqlite",
