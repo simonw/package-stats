@@ -9,17 +9,17 @@
   "license": "Apache-2.0",
   "homepage": "https://docs.datasette.io/en/stable/",
   "versions": {
-    "stable": "0.65.1",
+    "stable": "0.65.2",
     "head": "HEAD",
     "bottle": true
   },
   "urls": {
     "stable": {
-      "url": "https://files.pythonhosted.org/packages/db/94/e6408997861e9de3ec61fb8107efe9eaf70f765ad2cd4e20b552dd340899/datasette-0.65.1.tar.gz",
+      "url": "https://files.pythonhosted.org/packages/80/26/80b5480921d71891b8ff880fed6d44150b9164903d683efe2eb7405b61d8/datasette-0.65.2.tar.gz",
       "tag": null,
       "revision": null,
       "using": null,
-      "checksum": "d8be37ae6dafbfd8e510d49c0dc0fc6696081614d048a507eed86dd2ae433223"
+      "checksum": "be956fb2633b8380d7f818b5ddab40d5c7346d5e9d4d24e81c43b1fb60267432"
     },
     "head": {
       "url": "https://github.com/simonw/datasette.git",
@@ -27,7 +27,7 @@
       "using": null
     }
   },
-  "revision": 3,
+  "revision": 0,
   "version_scheme": 0,
   "compatibility_version": null,
   "autobump": true,
@@ -35,38 +35,38 @@
   "skip_livecheck": false,
   "bottle": {
     "stable": {
-      "rebuild": 2,
+      "rebuild": 0,
       "root_url": "https://ghcr.io/v2/homebrew/core",
       "files": {
         "arm64_tahoe": {
           "cellar": ":any",
-          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:349932b16385c2189a3df1789afda893f3e59da5e98d2868bf7986e359e8da9b",
-          "sha256": "349932b16385c2189a3df1789afda893f3e59da5e98d2868bf7986e359e8da9b"
+          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:8430c4f7f66108ef622d6ddca46b8bc2bbede07f69a6907032971f0629baaf04",
+          "sha256": "8430c4f7f66108ef622d6ddca46b8bc2bbede07f69a6907032971f0629baaf04"
         },
         "arm64_sequoia": {
           "cellar": ":any",
-          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:3fce6466ed62ccbc392a11889c1542b56d8038b5047d08d8e66d092c307fca33",
-          "sha256": "3fce6466ed62ccbc392a11889c1542b56d8038b5047d08d8e66d092c307fca33"
+          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:028cbcb45d773f627404c813798b3c4b5a9a9e7c09effd9a0cfcc436ed101ad7",
+          "sha256": "028cbcb45d773f627404c813798b3c4b5a9a9e7c09effd9a0cfcc436ed101ad7"
         },
         "arm64_sonoma": {
           "cellar": ":any",
-          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:b684528b70648d7c731ef6c1c77bcb46a0da7766a5d574da83861909ecb78b86",
-          "sha256": "b684528b70648d7c731ef6c1c77bcb46a0da7766a5d574da83861909ecb78b86"
+          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:e878e6325079ddb9946a46654299a38b40b85b8e0b94333eb2177e9dac53370f",
+          "sha256": "e878e6325079ddb9946a46654299a38b40b85b8e0b94333eb2177e9dac53370f"
         },
         "sonoma": {
           "cellar": ":any",
-          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:4da3a5da516a61d8c822a96e5da938cb23df434b32e8e26321cd4ebdefd2fdf8",
-          "sha256": "4da3a5da516a61d8c822a96e5da938cb23df434b32e8e26321cd4ebdefd2fdf8"
+          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:6862054f88c164cd17c011e210d955b2028db5c93111e2698e38fd80073ae959",
+          "sha256": "6862054f88c164cd17c011e210d955b2028db5c93111e2698e38fd80073ae959"
         },
         "arm64_linux": {
           "cellar": ":any_skip_relocation",
-          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:e5ad89d6be6428a2657051951724985bfbb337fa343f406aeb00d11f6d153c99",
-          "sha256": "e5ad89d6be6428a2657051951724985bfbb337fa343f406aeb00d11f6d153c99"
+          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:537df001ba5bc8ed99b584f6010772432fe5c506b1fe45d1edb1f8aa8fc5f135",
+          "sha256": "537df001ba5bc8ed99b584f6010772432fe5c506b1fe45d1edb1f8aa8fc5f135"
         },
         "x86_64_linux": {
           "cellar": ":any_skip_relocation",
-          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:2a1f66a4b4decc0ff4cd005f18bfec0ee0cfcb90f209c0664fc0c15f679b4606",
-          "sha256": "2a1f66a4b4decc0ff4cd005f18bfec0ee0cfcb90f209c0664fc0c15f679b4606"
+          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:3086e5c23f4e1095ba2ce529a33876334736d625a6b3e2715b70522a58fdbd85",
+          "sha256": "3086e5c23f4e1095ba2ce529a33876334736d625a6b3e2715b70522a58fdbd85"
         }
       }
     }
@@ -107,36 +107,36 @@
   "disable_replacement_cask": null,
   "post_install_defined": false,
   "service": null,
-  "tap_git_head": "eccc55a37bf1a4066d46e9fbb3642dda101f5710",
+  "tap_git_head": "e816ff31059caa54d77fd9aa4a604284e052e5f4",
   "ruby_source_path": "Formula/d/datasette.rb",
   "ruby_source_checksum": {
-    "sha256": "83590d35256aad5fbaceb76423d3a4ec5ffdd71ca280f94b7b2deea57d6320f1"
+    "sha256": "b56cd73dc17c771e3da59fc293f625ff33f7ce5ecdb706034324513ceddef43a"
   },
   "variations": {},
   "analytics": {
     "install": {
       "30d": {
-        "datasette": 78
+        "datasette": 82
       },
       "90d": {
-        "datasette": 273,
+        "datasette": 277,
         "datasette --HEAD": 1
       },
       "365d": {
-        "datasette": 2480,
+        "datasette": 2483,
         "datasette --HEAD": 5
       }
     },
     "install_on_request": {
       "30d": {
-        "datasette": 78
+        "datasette": 82
       },
       "90d": {
-        "datasette": 273,
+        "datasette": 277,
         "datasette --HEAD": 1
       },
       "365d": {
-        "datasette": 2480,
+        "datasette": 2483,
         "datasette --HEAD": 5
       }
     },
@@ -146,5 +146,5 @@
       }
     }
   },
-  "generated_date": "2025-11-05"
+  "generated_date": "2025-11-06"
 }
