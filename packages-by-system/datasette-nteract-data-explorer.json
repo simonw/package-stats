@@ -186,6 +186,11 @@
       "downloads": 10
     },
     {
+      "category": "Linux",
+      "date": "2025-11-06",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2025-06-17",
       "downloads": 2
@@ -199,11 +204,6 @@
       "category": "Windows",
       "date": "2025-10-20",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-05-09",
-      "downloads": 3
     },
     {
       "category": "null",
@@ -639,6 +639,11 @@
       "category": "null",
       "date": "2025-11-05",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-11-06",
+      "downloads": 2
     }
   ],
   "package": "datasette-nteract-data-explorer",
