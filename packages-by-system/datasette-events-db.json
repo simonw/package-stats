@@ -16,6 +16,11 @@
       "downloads": 2
     },
     {
+      "category": "Darwin",
+      "date": "2025-11-08",
+      "downloads": 8
+    },
+    {
       "category": "Linux",
       "date": "2025-05-15",
       "downloads": 2
@@ -71,6 +76,11 @@
       "downloads": 1
     },
     {
+      "category": "Linux",
+      "date": "2025-11-08",
+      "downloads": 3
+    },
+    {
       "category": "Windows",
       "date": "2025-07-12",
       "downloads": 2
@@ -84,11 +94,6 @@
       "category": "Windows",
       "date": "2025-08-28",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-05-11",
-      "downloads": 1
     },
     {
       "category": "null",
@@ -374,6 +379,11 @@
       "category": "null",
       "date": "2025-11-06",
       "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2025-11-08",
+      "downloads": 65
     }
   ],
   "package": "datasette-events-db",
