@@ -211,9 +211,9 @@
       "downloads": 2
     },
     {
-      "category": "Linux",
-      "date": "2025-05-13",
-      "downloads": 140
+      "category": "Darwin",
+      "date": "2025-11-10",
+      "downloads": 2
     },
     {
       "category": "Linux",
@@ -1116,6 +1116,11 @@
       "downloads": 837
     },
     {
+      "category": "Linux",
+      "date": "2025-11-10",
+      "downloads": 177
+    },
+    {
       "category": "Windows",
       "date": "2025-05-21",
       "downloads": 2
@@ -1264,11 +1269,6 @@
       "category": "Windows",
       "date": "2025-11-06",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-05-13",
-      "downloads": 1
     },
     {
       "category": "null",
@@ -1764,6 +1764,11 @@
       "category": "null",
       "date": "2025-11-07",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-11-10",
+      "downloads": 5
     }
   ],
   "package": "datasette-template-sql",

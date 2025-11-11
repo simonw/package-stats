@@ -87,11 +87,6 @@
     },
     {
       "category": "null",
-      "date": "2025-05-13",
-      "downloads": 2
-    },
-    {
-      "category": "null",
       "date": "2025-05-16",
       "downloads": 2
     },
@@ -574,6 +569,11 @@
       "category": "null",
       "date": "2025-11-09",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-11-10",
+      "downloads": 3
     }
   ],
   "package": "google-drive-to-sqlite",
