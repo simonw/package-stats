@@ -36,9 +36,9 @@
       "downloads": 1
     },
     {
-      "category": "Linux",
-      "date": "2025-05-14",
-      "downloads": 4
+      "category": "Darwin",
+      "date": "2025-11-11",
+      "downloads": 10
     },
     {
       "category": "Linux",
@@ -236,9 +236,9 @@
       "downloads": 9
     },
     {
-      "category": "Windows",
-      "date": "2025-05-14",
-      "downloads": 2
+      "category": "Linux",
+      "date": "2025-11-11",
+      "downloads": 76
     },
     {
       "category": "Windows",
@@ -589,6 +589,11 @@
       "category": "null",
       "date": "2025-11-10",
       "downloads": 3
+    },
+    {
+      "category": "null",
+      "date": "2025-11-11",
+      "downloads": 87
     }
   ],
   "package": "datasette-export-database",

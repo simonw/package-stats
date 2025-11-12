@@ -196,6 +196,11 @@
       "downloads": 1
     },
     {
+      "category": "Linux",
+      "date": "2025-11-11",
+      "downloads": 2
+    },
+    {
       "category": "Windows",
       "date": "2025-05-28",
       "downloads": 2
@@ -229,11 +234,6 @@
       "category": "Windows",
       "date": "2025-11-07",
       "downloads": 4
-    },
-    {
-      "category": "null",
-      "date": "2025-05-14",
-      "downloads": 12
     },
     {
       "category": "null",
@@ -589,6 +589,11 @@
       "category": "null",
       "date": "2025-11-10",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-11-11",
+      "downloads": 2
     }
   ],
   "package": "sqlite-fastrand",
