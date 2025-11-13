@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-05-15",
-      "downloads": 1
-    },
-    {
-      "category": "Darwin",
       "date": "2025-05-16",
       "downloads": 2
     },
@@ -409,11 +404,6 @@
       "category": "Darwin",
       "date": "2025-11-10",
       "downloads": 1
-    },
-    {
-      "category": "Linux",
-      "date": "2025-05-15",
-      "downloads": 346
     },
     {
       "category": "Linux",
@@ -1316,6 +1306,11 @@
       "downloads": 499
     },
     {
+      "category": "Linux",
+      "date": "2025-11-12",
+      "downloads": 438
+    },
+    {
       "category": "Windows",
       "date": "2025-05-21",
       "downloads": 1
@@ -1444,11 +1439,6 @@
       "category": "Windows",
       "date": "2025-11-11",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-05-15",
-      "downloads": 11
     },
     {
       "category": "null",
@@ -2284,6 +2274,11 @@
       "category": "null",
       "date": "2025-11-11",
       "downloads": 3
+    },
+    {
+      "category": "null",
+      "date": "2025-11-12",
+      "downloads": 7
     }
   ],
   "package": "django-sql-dashboard",
