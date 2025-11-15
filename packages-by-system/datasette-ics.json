@@ -32,11 +32,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-05-17",
-      "downloads": 4
-    },
-    {
-      "category": "Linux",
       "date": "2025-05-18",
       "downloads": 1
     },
@@ -936,14 +931,14 @@
       "downloads": 8
     },
     {
+      "category": "Linux",
+      "date": "2025-11-14",
+      "downloads": 10
+    },
+    {
       "category": "Windows",
       "date": "2025-07-12",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-05-17",
-      "downloads": 1
     },
     {
       "category": "null",
@@ -1404,6 +1399,11 @@
       "category": "null",
       "date": "2025-11-11",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-11-14",
+      "downloads": 2
     }
   ],
   "package": "datasette-ics",
