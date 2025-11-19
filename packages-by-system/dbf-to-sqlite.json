@@ -147,11 +147,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-05-21",
-      "downloads": 1
-    },
-    {
-      "category": "Linux",
       "date": "2025-05-22",
       "downloads": 1
     },
@@ -411,9 +406,9 @@
       "downloads": 4
     },
     {
-      "category": "Windows",
-      "date": "2025-05-21",
-      "downloads": 4
+      "category": "Linux",
+      "date": "2025-11-18",
+      "downloads": 2
     },
     {
       "category": "Windows",
@@ -964,6 +959,11 @@
       "category": "null",
       "date": "2025-11-16",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-11-18",
+      "downloads": 2
     }
   ],
   "package": "dbf-to-sqlite",

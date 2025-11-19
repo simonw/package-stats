@@ -192,11 +192,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-05-21",
-      "downloads": 230
-    },
-    {
-      "category": "Linux",
       "date": "2025-05-22",
       "downloads": 228
     },
@@ -1096,6 +1091,11 @@
       "downloads": 8
     },
     {
+      "category": "Linux",
+      "date": "2025-11-18",
+      "downloads": 30
+    },
+    {
       "category": "Windows",
       "date": "2025-05-29",
       "downloads": 2
@@ -1193,11 +1193,6 @@
     {
       "category": "Windows",
       "date": "2025-11-15",
-      "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-05-21",
       "downloads": 2
     },
     {
@@ -1794,6 +1789,11 @@
       "category": "null",
       "date": "2025-11-17",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-11-18",
+      "downloads": 6
     }
   ],
   "package": "datasette-enrichments",
