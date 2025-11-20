@@ -26,6 +26,11 @@
       "downloads": 8
     },
     {
+      "category": "Darwin",
+      "date": "2025-11-19",
+      "downloads": 2
+    },
+    {
       "category": "Linux",
       "date": "2025-05-23",
       "downloads": 4
@@ -129,6 +134,11 @@
       "category": "Linux",
       "date": "2025-11-18",
       "downloads": 22
+    },
+    {
+      "category": "Linux",
+      "date": "2025-11-19",
+      "downloads": 11
     },
     {
       "category": "Windows",
@@ -459,6 +469,11 @@
       "category": "null",
       "date": "2025-11-18",
       "downloads": 4
+    },
+    {
+      "category": "null",
+      "date": "2025-11-19",
+      "downloads": 2
     }
   ],
   "package": "datasette-enrichments-opencage",

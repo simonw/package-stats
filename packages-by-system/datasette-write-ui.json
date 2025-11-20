@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-05-22",
-      "downloads": 4
-    },
-    {
-      "category": "Darwin",
       "date": "2025-05-23",
       "downloads": 3
     },
@@ -266,9 +261,9 @@
       "downloads": 2
     },
     {
-      "category": "Linux",
-      "date": "2025-05-22",
-      "downloads": 14
+      "category": "Darwin",
+      "date": "2025-11-19",
+      "downloads": 4
     },
     {
       "category": "Linux",
@@ -1171,6 +1166,11 @@
       "downloads": 42
     },
     {
+      "category": "Linux",
+      "date": "2025-11-19",
+      "downloads": 43
+    },
+    {
       "category": "Windows",
       "date": "2025-06-07",
       "downloads": 2
@@ -1834,6 +1834,11 @@
       "category": "null",
       "date": "2025-11-18",
       "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2025-11-19",
+      "downloads": 6
     }
   ],
   "package": "datasette-write-ui",
