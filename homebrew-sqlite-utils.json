@@ -100,7 +100,7 @@
   "disable_replacement_cask": null,
   "post_install_defined": false,
   "service": null,
-  "tap_git_head": "dd04b5a7a3e53af2513d528afdbfa8e2e1a301a6",
+  "tap_git_head": "263e2423a16a6bf2e899e3dbb1a8841064aadfb6",
   "ruby_source_path": "Formula/s/sqlite-utils.rb",
   "ruby_source_checksum": {
     "sha256": "60da6d4b9e00131658996830ee5642486660281b3bc78aeb5038685a3f3c523e"
@@ -137,5 +137,5 @@
       }
     }
   },
-  "generated_date": "2025-11-22"
+  "generated_date": "2025-11-23"
 }
