@@ -341,14 +341,14 @@
       "downloads": 1
     },
     {
+      "category": "Linux",
+      "date": "2025-11-25",
+      "downloads": 4
+    },
+    {
       "category": "Windows",
       "date": "2025-09-12",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-05-28",
-      "downloads": 3
     },
     {
       "category": "null",
@@ -769,6 +769,11 @@
       "category": "null",
       "date": "2025-11-24",
       "downloads": 8
+    },
+    {
+      "category": "null",
+      "date": "2025-11-25",
+      "downloads": 1
     }
   ],
   "package": "tableau-to-sqlite",

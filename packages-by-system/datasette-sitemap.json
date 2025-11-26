@@ -17,11 +17,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-05-28",
-      "downloads": 198
-    },
-    {
-      "category": "Linux",
       "date": "2025-05-29",
       "downloads": 101
     },
@@ -911,6 +906,11 @@
       "downloads": 46
     },
     {
+      "category": "Linux",
+      "date": "2025-11-25",
+      "downloads": 50
+    },
+    {
       "category": "Windows",
       "date": "2025-06-22",
       "downloads": 4
@@ -919,11 +919,6 @@
       "category": "Windows",
       "date": "2025-07-12",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-05-28",
-      "downloads": 1
     },
     {
       "category": "null",
@@ -1294,6 +1289,11 @@
       "category": "null",
       "date": "2025-11-18",
       "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2025-11-25",
+      "downloads": 1
     }
   ],
   "package": "datasette-sitemap",
