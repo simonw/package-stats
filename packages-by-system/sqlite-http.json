@@ -21,9 +21,9 @@
       "downloads": 2
     },
     {
-      "category": "Linux",
-      "date": "2025-06-02",
-      "downloads": 117
+      "category": "Darwin",
+      "date": "2025-11-30",
+      "downloads": 4
     },
     {
       "category": "Linux",
@@ -869,6 +869,11 @@
       "category": "null",
       "date": "2025-11-29",
       "downloads": 20
+    },
+    {
+      "category": "null",
+      "date": "2025-11-30",
+      "downloads": 1
     }
   ],
   "package": "sqlite-http",
