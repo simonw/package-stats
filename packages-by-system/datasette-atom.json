@@ -37,11 +37,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-06-05",
-      "downloads": 103
-    },
-    {
-      "category": "Linux",
       "date": "2025-06-06",
       "downloads": 143
     },
@@ -941,6 +936,11 @@
       "downloads": 87
     },
     {
+      "category": "Linux",
+      "date": "2025-12-03",
+      "downloads": 115
+    },
+    {
       "category": "Windows",
       "date": "2025-06-22",
       "downloads": 4
@@ -968,11 +968,6 @@
     {
       "category": "Windows",
       "date": "2025-12-02",
-      "downloads": 3
-    },
-    {
-      "category": "null",
-      "date": "2025-06-05",
       "downloads": 3
     },
     {
@@ -1544,6 +1539,11 @@
       "category": "null",
       "date": "2025-11-29",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-12-03",
+      "downloads": 3
     }
   ],
   "package": "datasette-atom",

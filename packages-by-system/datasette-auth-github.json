@@ -52,11 +52,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-06-05",
-      "downloads": 7
-    },
-    {
-      "category": "Linux",
       "date": "2025-06-06",
       "downloads": 11
     },
@@ -956,6 +951,11 @@
       "downloads": 5
     },
     {
+      "category": "Linux",
+      "date": "2025-12-03",
+      "downloads": 3
+    },
+    {
       "category": "Windows",
       "date": "2025-07-12",
       "downloads": 2
@@ -964,11 +964,6 @@
       "category": "Windows",
       "date": "2025-08-19",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-06-05",
-      "downloads": 4
     },
     {
       "category": "null",
@@ -1699,6 +1694,11 @@
       "category": "null",
       "date": "2025-12-02",
       "downloads": 21
+    },
+    {
+      "category": "null",
+      "date": "2025-12-03",
+      "downloads": 58
     }
   ],
   "package": "datasette-auth-github",
