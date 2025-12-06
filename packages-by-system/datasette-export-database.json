@@ -266,6 +266,11 @@
       "downloads": 58
     },
     {
+      "category": "Linux",
+      "date": "2025-12-05",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2025-06-12",
       "downloads": 2
@@ -289,11 +294,6 @@
       "category": "Windows",
       "date": "2025-10-10",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-06-07",
-      "downloads": 6
     },
     {
       "category": "null",
@@ -639,6 +639,11 @@
       "category": "null",
       "date": "2025-12-03",
       "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2025-12-05",
+      "downloads": 1
     }
   ],
   "package": "datasette-export-database",
