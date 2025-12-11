@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-06-12",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
       "date": "2025-06-13",
       "downloads": 2
     },
@@ -724,6 +719,11 @@
       "category": "Darwin",
       "date": "2025-12-09",
       "downloads": 2
+    },
+    {
+      "category": "Darwin",
+      "date": "2025-12-10",
+      "downloads": 1
     },
     {
       "category": "Linux",
@@ -1864,6 +1864,11 @@
       "category": "null",
       "date": "2025-12-09",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-12-10",
+      "downloads": 5
     }
   ],
   "package": "datasette-configure-fts",
