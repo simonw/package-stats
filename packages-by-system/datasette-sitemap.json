@@ -22,11 +22,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-06-15",
-      "downloads": 102
-    },
-    {
-      "category": "Linux",
       "date": "2025-06-16",
       "downloads": 98
     },
@@ -916,6 +911,11 @@
       "downloads": 48
     },
     {
+      "category": "Linux",
+      "date": "2025-12-13",
+      "downloads": 53
+    },
+    {
       "category": "Windows",
       "date": "2025-06-22",
       "downloads": 4
@@ -1279,6 +1279,11 @@
       "category": "null",
       "date": "2025-12-07",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-12-13",
+      "downloads": 2
     }
   ],
   "package": "datasette-sitemap",
