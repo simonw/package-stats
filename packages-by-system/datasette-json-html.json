@@ -187,16 +187,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-06-16",
-      "downloads": 30
-    },
-    {
-      "category": "Linux",
-      "date": "2025-06-17",
-      "downloads": 21
-    },
-    {
-      "category": "Linux",
       "date": "2025-06-18",
       "downloads": 19
     },
@@ -1091,9 +1081,14 @@
       "downloads": 61
     },
     {
-      "category": "Windows",
-      "date": "2025-06-17",
-      "downloads": 2
+      "category": "Linux",
+      "date": "2025-12-14",
+      "downloads": 14
+    },
+    {
+      "category": "Linux",
+      "date": "2025-12-15",
+      "downloads": 37
     },
     {
       "category": "Windows",
@@ -1169,16 +1164,6 @@
       "category": "Windows",
       "date": "2025-12-06",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-06-16",
-      "downloads": 4
-    },
-    {
-      "category": "null",
-      "date": "2025-06-17",
-      "downloads": 6
     },
     {
       "category": "null",
@@ -2014,6 +1999,16 @@
       "category": "null",
       "date": "2025-12-13",
       "downloads": 4
+    },
+    {
+      "category": "null",
+      "date": "2025-12-14",
+      "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2025-12-15",
+      "downloads": 3
     }
   ],
   "package": "datasette-json-html",
