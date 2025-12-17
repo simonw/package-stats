@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-06-18",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
       "date": "2025-06-19",
       "downloads": 7
     },
@@ -789,11 +784,6 @@
       "category": "Darwin",
       "date": "2025-12-14",
       "downloads": 1
-    },
-    {
-      "category": "Linux",
-      "date": "2025-06-18",
-      "downloads": 145
     },
     {
       "category": "Linux",
@@ -1696,9 +1686,9 @@
       "downloads": 101
     },
     {
-      "category": "Windows",
-      "date": "2025-06-18",
-      "downloads": 4
+      "category": "Linux",
+      "date": "2025-12-16",
+      "downloads": 90
     },
     {
       "category": "Windows",
@@ -1979,11 +1969,6 @@
       "category": "Windows",
       "date": "2025-12-09",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-06-18",
-      "downloads": 1
     },
     {
       "category": "null",
@@ -2474,6 +2459,11 @@
       "category": "other",
       "date": "2025-10-06",
       "downloads": 2
+    },
+    {
+      "category": "other",
+      "date": "2025-12-16",
+      "downloads": 6
     }
   ],
   "package": "datasette-vega",

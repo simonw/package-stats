@@ -282,11 +282,6 @@
     },
     {
       "category": "null",
-      "date": "2025-06-18",
-      "downloads": 1
-    },
-    {
-      "category": "null",
       "date": "2025-06-20",
       "downloads": 7
     },
@@ -909,6 +904,11 @@
       "category": "null",
       "date": "2025-12-15",
       "downloads": 13
+    },
+    {
+      "category": "null",
+      "date": "2025-12-16",
+      "downloads": 24
     }
   ],
   "package": "datasette-auth-existing-cookies",
