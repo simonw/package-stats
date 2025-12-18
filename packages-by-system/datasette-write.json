@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-06-19",
-      "downloads": 1
-    },
-    {
-      "category": "Darwin",
       "date": "2025-06-22",
       "downloads": 2
     },
@@ -84,11 +79,6 @@
       "category": "Darwin",
       "date": "2025-12-11",
       "downloads": 2
-    },
-    {
-      "category": "Linux",
-      "date": "2025-06-19",
-      "downloads": 41
     },
     {
       "category": "Linux",
@@ -1064,6 +1054,11 @@
       "category": "null",
       "date": "2025-12-14",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-12-17",
+      "downloads": 9
     }
   ],
   "package": "datasette-write",
