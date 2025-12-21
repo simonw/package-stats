@@ -2,16 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-06-21",
-      "downloads": 189
-    },
-    {
-      "category": "Darwin",
-      "date": "2025-06-22",
-      "downloads": 176
-    },
-    {
-      "category": "Darwin",
       "date": "2025-06-23",
       "downloads": 287
     },
@@ -906,14 +896,14 @@
       "downloads": 657
     },
     {
-      "category": "Linux",
-      "date": "2025-06-21",
-      "downloads": 12465
+      "category": "Darwin",
+      "date": "2025-12-19",
+      "downloads": 540
     },
     {
-      "category": "Linux",
-      "date": "2025-06-22",
-      "downloads": 11413
+      "category": "Darwin",
+      "date": "2025-12-20",
+      "downloads": 300
     },
     {
       "category": "Linux",
@@ -1811,14 +1801,14 @@
       "downloads": 19332
     },
     {
-      "category": "Windows",
-      "date": "2025-06-21",
-      "downloads": 294
+      "category": "Linux",
+      "date": "2025-12-19",
+      "downloads": 19140
     },
     {
-      "category": "Windows",
-      "date": "2025-06-22",
-      "downloads": 224
+      "category": "Linux",
+      "date": "2025-12-20",
+      "downloads": 12102
     },
     {
       "category": "Windows",
@@ -2716,14 +2706,14 @@
       "downloads": 682
     },
     {
-      "category": "null",
-      "date": "2025-06-21",
-      "downloads": 158
+      "category": "Windows",
+      "date": "2025-12-19",
+      "downloads": 598
     },
     {
-      "category": "null",
-      "date": "2025-06-22",
-      "downloads": 123
+      "category": "Windows",
+      "date": "2025-12-20",
+      "downloads": 431
     },
     {
       "category": "null",
@@ -3621,6 +3611,16 @@
       "downloads": 295
     },
     {
+      "category": "null",
+      "date": "2025-12-19",
+      "downloads": 67
+    },
+    {
+      "category": "null",
+      "date": "2025-12-20",
+      "downloads": 102
+    },
+    {
       "category": "other",
       "date": "2025-06-26",
       "downloads": 2
@@ -3958,6 +3958,16 @@
     {
       "category": "other",
       "date": "2025-12-18",
+      "downloads": 2
+    },
+    {
+      "category": "other",
+      "date": "2025-12-19",
+      "downloads": 2
+    },
+    {
+      "category": "other",
+      "date": "2025-12-20",
       "downloads": 2
     }
   ],

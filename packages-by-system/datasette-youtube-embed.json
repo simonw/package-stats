@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-06-21",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
       "date": "2025-07-01",
       "downloads": 1
     },
@@ -29,16 +24,6 @@
       "category": "Darwin",
       "date": "2025-10-06",
       "downloads": 1
-    },
-    {
-      "category": "Linux",
-      "date": "2025-06-21",
-      "downloads": 15
-    },
-    {
-      "category": "Linux",
-      "date": "2025-06-22",
-      "downloads": 2
     },
     {
       "category": "Linux",
@@ -521,9 +506,9 @@
       "downloads": 2
     },
     {
-      "category": "Windows",
-      "date": "2025-06-21",
-      "downloads": 3
+      "category": "Linux",
+      "date": "2025-12-20",
+      "downloads": 1
     },
     {
       "category": "Windows",
@@ -789,6 +774,11 @@
       "category": "null",
       "date": "2025-12-13",
       "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2025-12-20",
+      "downloads": 1
     }
   ],
   "package": "datasette-youtube-embed",

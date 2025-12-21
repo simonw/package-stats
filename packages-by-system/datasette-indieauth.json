@@ -131,18 +131,13 @@
       "downloads": 1
     },
     {
+      "category": "Linux",
+      "date": "2025-12-19",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2025-07-12",
-      "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-06-21",
-      "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-06-22",
       "downloads": 2
     },
     {
@@ -659,6 +654,16 @@
       "category": "null",
       "date": "2025-12-17",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-12-19",
+      "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-12-20",
+      "downloads": 2
     }
   ],
   "package": "datasette-indieauth",

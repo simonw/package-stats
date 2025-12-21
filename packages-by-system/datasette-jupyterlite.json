@@ -12,11 +12,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-06-21",
-      "downloads": 2
-    },
-    {
-      "category": "Linux",
       "date": "2025-06-24",
       "downloads": 1
     },
@@ -214,6 +209,11 @@
       "category": "Linux",
       "date": "2025-12-17",
       "downloads": 2
+    },
+    {
+      "category": "Linux",
+      "date": "2025-12-19",
+      "downloads": 4
     },
     {
       "category": "Windows",
@@ -539,6 +539,11 @@
       "category": "null",
       "date": "2025-12-13",
       "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2025-12-20",
+      "downloads": 1
     }
   ],
   "package": "datasette-jupyterlite",

@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-06-22",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
       "date": "2025-06-29",
       "downloads": 2
     },
@@ -188,16 +183,6 @@
     {
       "category": "Darwin",
       "date": "2025-12-04",
-      "downloads": 2
-    },
-    {
-      "category": "Linux",
-      "date": "2025-06-21",
-      "downloads": 6
-    },
-    {
-      "category": "Linux",
-      "date": "2025-06-22",
       "downloads": 2
     },
     {
@@ -1096,6 +1081,16 @@
       "downloads": 2
     },
     {
+      "category": "Linux",
+      "date": "2025-12-19",
+      "downloads": 4
+    },
+    {
+      "category": "Linux",
+      "date": "2025-12-20",
+      "downloads": 2
+    },
+    {
       "category": "Windows",
       "date": "2025-07-06",
       "downloads": 2
@@ -1184,16 +1179,6 @@
       "category": "Windows",
       "date": "2025-12-15",
       "downloads": 3
-    },
-    {
-      "category": "null",
-      "date": "2025-06-21",
-      "downloads": 3
-    },
-    {
-      "category": "null",
-      "date": "2025-06-22",
-      "downloads": 2
     },
     {
       "category": "null",
@@ -1784,6 +1769,16 @@
       "category": "null",
       "date": "2025-12-18",
       "downloads": 3
+    },
+    {
+      "category": "null",
+      "date": "2025-12-19",
+      "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2025-12-20",
+      "downloads": 5
     }
   ],
   "package": "datasette-enrichments",
