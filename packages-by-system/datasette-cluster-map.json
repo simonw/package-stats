@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-06-24",
-      "downloads": 11
-    },
-    {
-      "category": "Darwin",
       "date": "2025-06-26",
       "downloads": 5
     },
@@ -806,9 +801,9 @@
       "downloads": 4
     },
     {
-      "category": "Linux",
-      "date": "2025-06-24",
-      "downloads": 200
+      "category": "Darwin",
+      "date": "2025-12-22",
+      "downloads": 2
     },
     {
       "category": "Linux",
@@ -1711,6 +1706,11 @@
       "downloads": 81
     },
     {
+      "category": "Linux",
+      "date": "2025-12-22",
+      "downloads": 79
+    },
+    {
       "category": "Windows",
       "date": "2025-06-30",
       "downloads": 2
@@ -1916,9 +1916,9 @@
       "downloads": 3
     },
     {
-      "category": "null",
-      "date": "2025-06-24",
-      "downloads": 7
+      "category": "Windows",
+      "date": "2025-12-22",
+      "downloads": 2
     },
     {
       "category": "null",
@@ -2664,6 +2664,11 @@
       "category": "null",
       "date": "2025-12-21",
       "downloads": 13
+    },
+    {
+      "category": "null",
+      "date": "2025-12-22",
+      "downloads": 39
     }
   ],
   "package": "datasette-cluster-map",

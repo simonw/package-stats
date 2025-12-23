@@ -42,11 +42,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-06-24",
-      "downloads": 59
-    },
-    {
-      "category": "Linux",
       "date": "2025-06-25",
       "downloads": 8
     },
@@ -644,6 +639,11 @@
       "category": "null",
       "date": "2025-12-20",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-12-22",
+      "downloads": 5
     }
   ],
   "package": "datasette-llm-embed",
