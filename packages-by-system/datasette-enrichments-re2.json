@@ -32,11 +32,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-07-01",
-      "downloads": 2
-    },
-    {
-      "category": "Linux",
       "date": "2025-07-06",
       "downloads": 2
     },
@@ -249,6 +244,11 @@
       "category": "Linux",
       "date": "2025-12-21",
       "downloads": 2
+    },
+    {
+      "category": "Linux",
+      "date": "2025-12-29",
+      "downloads": 11
     },
     {
       "category": "Windows",
@@ -604,6 +604,11 @@
       "category": "null",
       "date": "2025-12-28",
       "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2025-12-29",
+      "downloads": 1
     }
   ],
   "package": "datasette-enrichments-re2",
