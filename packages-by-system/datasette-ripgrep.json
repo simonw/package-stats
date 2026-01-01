@@ -246,6 +246,11 @@
       "downloads": 11
     },
     {
+      "category": "Linux",
+      "date": "2025-12-31",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2025-07-12",
       "downloads": 2
@@ -253,11 +258,6 @@
     {
       "category": "Windows",
       "date": "2025-08-28",
-      "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-07-03",
       "downloads": 2
     },
     {
@@ -879,6 +879,11 @@
       "category": "null",
       "date": "2025-12-30",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2025-12-31",
+      "downloads": 2
     }
   ],
   "package": "datasette-ripgrep",
