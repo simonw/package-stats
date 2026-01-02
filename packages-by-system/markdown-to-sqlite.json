@@ -52,11 +52,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-07-04",
-      "downloads": 40
-    },
-    {
-      "category": "Linux",
       "date": "2025-07-06",
       "downloads": 40
     },
@@ -361,6 +356,11 @@
       "downloads": 5
     },
     {
+      "category": "Linux",
+      "date": "2026-01-01",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2025-07-26",
       "downloads": 3
@@ -384,11 +384,6 @@
       "category": "Windows",
       "date": "2025-12-02",
       "downloads": 3
-    },
-    {
-      "category": "null",
-      "date": "2025-07-04",
-      "downloads": 2
     },
     {
       "category": "null",
@@ -714,6 +709,11 @@
       "category": "null",
       "date": "2025-12-31",
       "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2026-01-01",
+      "downloads": 3
     }
   ],
   "package": "markdown-to-sqlite",
