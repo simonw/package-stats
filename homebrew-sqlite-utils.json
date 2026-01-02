@@ -102,7 +102,7 @@
   "disable_args": null,
   "post_install_defined": false,
   "service": null,
-  "tap_git_head": "e7b92c0ecd62580f75acad66fe3ab3eb07b95fe1",
+  "tap_git_head": "61bbd61783e76324706db1f014e6957eb1deca75",
   "ruby_source_path": "Formula/s/sqlite-utils.rb",
   "ruby_source_checksum": {
     "sha256": "0142ca5cd2f2d190aefb37411d66b60b5dd8c36367b882b544e5938111df1910"
@@ -115,11 +115,11 @@
         "sqlite-utils --HEAD": 1
       },
       "90d": {
-        "sqlite-utils": 592,
+        "sqlite-utils": 593,
         "sqlite-utils --HEAD": 1
       },
       "365d": {
-        "sqlite-utils": 1501,
+        "sqlite-utils": 1502,
         "sqlite-utils --HEAD": 3
       }
     },
@@ -129,11 +129,11 @@
         "sqlite-utils --HEAD": 1
       },
       "90d": {
-        "sqlite-utils": 591,
+        "sqlite-utils": 592,
         "sqlite-utils --HEAD": 1
       },
       "365d": {
-        "sqlite-utils": 1472,
+        "sqlite-utils": 1473,
         "sqlite-utils --HEAD": 3
       }
     },
@@ -143,5 +143,5 @@
       }
     }
   },
-  "generated_date": "2026-01-01"
+  "generated_date": "2026-01-02"
 }
