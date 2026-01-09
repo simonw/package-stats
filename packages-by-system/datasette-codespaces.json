@@ -17,11 +17,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-07-11",
-      "downloads": 2
-    },
-    {
-      "category": "Linux",
       "date": "2025-07-15",
       "downloads": 4
     },
@@ -253,11 +248,6 @@
     {
       "category": "Windows",
       "date": "2025-08-28",
-      "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-07-11",
       "downloads": 2
     },
     {
@@ -599,6 +589,11 @@
       "category": "null",
       "date": "2026-01-07",
       "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2026-01-08",
+      "downloads": 4
     }
   ],
   "package": "datasette-codespaces",
