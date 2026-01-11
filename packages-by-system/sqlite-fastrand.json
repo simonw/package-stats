@@ -217,11 +217,6 @@
     },
     {
       "category": "Windows",
-      "date": "2025-07-13",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
       "date": "2025-09-17",
       "downloads": 2
     },
@@ -234,11 +229,6 @@
       "category": "Windows",
       "date": "2025-11-07",
       "downloads": 4
-    },
-    {
-      "category": "null",
-      "date": "2025-07-13",
-      "downloads": 12
     },
     {
       "category": "null",
@@ -584,6 +574,11 @@
       "category": "null",
       "date": "2026-01-06",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2026-01-10",
+      "downloads": 48
     }
   ],
   "package": "sqlite-fastrand",
