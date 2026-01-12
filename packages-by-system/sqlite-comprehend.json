@@ -7,11 +7,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-07-14",
-      "downloads": 22
-    },
-    {
-      "category": "Linux",
       "date": "2025-07-15",
       "downloads": 22
     },
@@ -119,11 +114,6 @@
       "category": "Linux",
       "date": "2026-01-09",
       "downloads": 10
-    },
-    {
-      "category": "null",
-      "date": "2025-07-14",
-      "downloads": 2
     },
     {
       "category": "null",
@@ -524,6 +514,11 @@
       "category": "null",
       "date": "2026-01-10",
       "downloads": 10
+    },
+    {
+      "category": "null",
+      "date": "2026-01-11",
+      "downloads": 1
     }
   ],
   "package": "sqlite-comprehend",
