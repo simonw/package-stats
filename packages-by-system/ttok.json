@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-07-16",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
       "date": "2025-07-19",
       "downloads": 4
     },
@@ -726,9 +721,9 @@
       "downloads": 2
     },
     {
-      "category": "Linux",
-      "date": "2025-07-16",
-      "downloads": 56
+      "category": "Darwin",
+      "date": "2026-01-13",
+      "downloads": 9
     },
     {
       "category": "Linux",
@@ -1631,9 +1626,9 @@
       "downloads": 104
     },
     {
-      "category": "Windows",
-      "date": "2025-07-16",
-      "downloads": 2
+      "category": "Linux",
+      "date": "2026-01-13",
+      "downloads": 83
     },
     {
       "category": "Windows",
@@ -1839,11 +1834,6 @@
       "category": "Windows",
       "date": "2026-01-11",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-07-16",
-      "downloads": 1
     },
     {
       "category": "null",
@@ -2419,11 +2409,6 @@
       "category": "null",
       "date": "2026-01-11",
       "downloads": 4
-    },
-    {
-      "category": "other",
-      "date": "2025-07-16",
-      "downloads": 2
     }
   ],
   "package": "ttok",

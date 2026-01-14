@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-07-16",
-      "downloads": 5
-    },
-    {
-      "category": "Darwin",
       "date": "2025-07-17",
       "downloads": 5
     },
@@ -881,9 +876,9 @@
       "downloads": 3
     },
     {
-      "category": "Linux",
-      "date": "2025-07-16",
-      "downloads": 27
+      "category": "Darwin",
+      "date": "2026-01-13",
+      "downloads": 10
     },
     {
       "category": "Linux",
@@ -1786,6 +1781,11 @@
       "downloads": 307
     },
     {
+      "category": "Linux",
+      "date": "2026-01-13",
+      "downloads": 471
+    },
+    {
       "category": "Windows",
       "date": "2025-07-21",
       "downloads": 1
@@ -1919,11 +1919,6 @@
       "category": "Windows",
       "date": "2025-12-29",
       "downloads": 1
-    },
-    {
-      "category": "null",
-      "date": "2025-07-16",
-      "downloads": 74
     },
     {
       "category": "null",
@@ -2649,6 +2644,11 @@
       "category": "null",
       "date": "2026-01-12",
       "downloads": 4
+    },
+    {
+      "category": "null",
+      "date": "2026-01-13",
+      "downloads": 5
     }
   ],
   "package": "sqlite-vss",

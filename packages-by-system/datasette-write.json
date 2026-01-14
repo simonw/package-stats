@@ -77,11 +77,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-07-16",
-      "downloads": 6
-    },
-    {
-      "category": "Linux",
       "date": "2025-07-17",
       "downloads": 2
     },
@@ -466,6 +461,11 @@
       "downloads": 90
     },
     {
+      "category": "Linux",
+      "date": "2026-01-13",
+      "downloads": 23
+    },
+    {
       "category": "Windows",
       "date": "2025-07-26",
       "downloads": 2
@@ -548,11 +548,6 @@
     {
       "category": "Windows",
       "date": "2026-01-11",
-      "downloads": 1
-    },
-    {
-      "category": "null",
-      "date": "2025-07-16",
       "downloads": 1
     },
     {
@@ -1039,6 +1034,11 @@
       "category": "null",
       "date": "2026-01-12",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2026-01-13",
+      "downloads": 2
     }
   ],
   "package": "datasette-write",
