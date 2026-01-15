@@ -62,11 +62,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-07-17",
-      "downloads": 2
-    },
-    {
-      "category": "Linux",
       "date": "2025-07-18",
       "downloads": 1
     },
@@ -786,6 +781,11 @@
       "downloads": 3
     },
     {
+      "category": "Linux",
+      "date": "2026-01-14",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2025-07-26",
       "downloads": 3
@@ -808,11 +808,6 @@
     {
       "category": "Windows",
       "date": "2025-11-29",
-      "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-07-17",
       "downloads": 2
     },
     {
@@ -1234,6 +1229,11 @@
       "category": "null",
       "date": "2026-01-13",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2026-01-14",
+      "downloads": 9
     }
   ],
   "package": "datasette-render-images",

@@ -77,11 +77,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-07-17",
-      "downloads": 61
-    },
-    {
-      "category": "Linux",
       "date": "2025-07-18",
       "downloads": 86
     },
@@ -981,9 +976,9 @@
       "downloads": 140
     },
     {
-      "category": "Windows",
-      "date": "2025-07-17",
-      "downloads": 2
+      "category": "Linux",
+      "date": "2026-01-14",
+      "downloads": 147
     },
     {
       "category": "Windows",
@@ -1629,6 +1624,11 @@
       "category": "null",
       "date": "2026-01-11",
       "downloads": 5
+    },
+    {
+      "category": "null",
+      "date": "2026-01-14",
+      "downloads": 2
     }
   ],
   "package": "sqlite-regex",
