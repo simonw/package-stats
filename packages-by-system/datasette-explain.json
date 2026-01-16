@@ -17,11 +17,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-07-18",
-      "downloads": 12
-    },
-    {
-      "category": "Linux",
       "date": "2025-07-19",
       "downloads": 12
     },
@@ -921,13 +916,13 @@
       "downloads": 12
     },
     {
-      "category": "Windows",
-      "date": "2025-08-19",
-      "downloads": 2
+      "category": "Linux",
+      "date": "2026-01-15",
+      "downloads": 16
     },
     {
-      "category": "null",
-      "date": "2025-07-18",
+      "category": "Windows",
+      "date": "2025-08-19",
       "downloads": 2
     },
     {
@@ -1329,6 +1324,11 @@
       "category": "null",
       "date": "2026-01-14",
       "downloads": 10
+    },
+    {
+      "category": "null",
+      "date": "2026-01-15",
+      "downloads": 1
     }
   ],
   "package": "datasette-explain",

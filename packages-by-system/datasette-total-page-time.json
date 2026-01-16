@@ -161,13 +161,13 @@
       "downloads": 2
     },
     {
-      "category": "Windows",
-      "date": "2025-10-31",
-      "downloads": 2
+      "category": "Linux",
+      "date": "2026-01-15",
+      "downloads": 4
     },
     {
-      "category": "null",
-      "date": "2025-07-18",
+      "category": "Windows",
+      "date": "2025-10-31",
       "downloads": 2
     },
     {
@@ -409,6 +409,11 @@
       "category": "null",
       "date": "2026-01-14",
       "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2026-01-15",
+      "downloads": 1
     }
   ],
   "package": "datasette-total-page-time",
