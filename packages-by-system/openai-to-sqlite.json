@@ -32,11 +32,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-07-19",
-      "downloads": 34
-    },
-    {
-      "category": "Linux",
       "date": "2025-07-21",
       "downloads": 28
     },
@@ -911,6 +906,11 @@
       "downloads": 59
     },
     {
+      "category": "Linux",
+      "date": "2026-01-16",
+      "downloads": 52
+    },
+    {
       "category": "Windows",
       "date": "2025-07-30",
       "downloads": 4
@@ -919,11 +919,6 @@
       "category": "Windows",
       "date": "2025-09-10",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-07-19",
-      "downloads": 4
     },
     {
       "category": "null",
@@ -1374,6 +1369,11 @@
       "category": "null",
       "date": "2026-01-14",
       "downloads": 7
+    },
+    {
+      "category": "null",
+      "date": "2026-01-16",
+      "downloads": 12
     }
   ],
   "package": "openai-to-sqlite",
