@@ -52,11 +52,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-07-24",
-      "downloads": 1
-    },
-    {
-      "category": "Linux",
       "date": "2025-07-25",
       "downloads": 2
     },
@@ -317,11 +312,6 @@
     },
     {
       "category": "Windows",
-      "date": "2025-07-24",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
       "date": "2025-07-26",
       "downloads": 2
     },
@@ -349,11 +339,6 @@
       "category": "Windows",
       "date": "2025-11-05",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-07-24",
-      "downloads": 1
     },
     {
       "category": "null",
@@ -874,6 +859,11 @@
       "category": "null",
       "date": "2026-01-20",
       "downloads": 4
+    },
+    {
+      "category": "null",
+      "date": "2026-01-21",
+      "downloads": 5
     }
   ],
   "package": "sqlite-ulid",

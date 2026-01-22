@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-07-24",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
       "date": "2025-07-28",
       "downloads": 2
     },
@@ -134,11 +129,6 @@
       "category": "Darwin",
       "date": "2026-01-11",
       "downloads": 1
-    },
-    {
-      "category": "Linux",
-      "date": "2025-07-24",
-      "downloads": 112
     },
     {
       "category": "Linux",
@@ -1041,6 +1031,11 @@
       "downloads": 55
     },
     {
+      "category": "Linux",
+      "date": "2026-01-21",
+      "downloads": 59
+    },
+    {
       "category": "Windows",
       "date": "2025-08-01",
       "downloads": 2
@@ -1068,11 +1063,6 @@
     {
       "category": "Windows",
       "date": "2025-12-31",
-      "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-07-24",
       "downloads": 2
     },
     {
@@ -1549,6 +1539,11 @@
       "category": "null",
       "date": "2026-01-20",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2026-01-21",
+      "downloads": 20
     }
   ],
   "package": "datasette-publish-fly",
