@@ -37,11 +37,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-08-01",
-      "downloads": 1
-    },
-    {
-      "category": "Linux",
       "date": "2025-10-17",
       "downloads": 2
     },
@@ -164,6 +159,11 @@
       "category": "Linux",
       "date": "2026-01-27",
       "downloads": 2
+    },
+    {
+      "category": "Linux",
+      "date": "2026-01-29",
+      "downloads": 1
     },
     {
       "category": "Windows",
@@ -619,6 +619,11 @@
       "category": "null",
       "date": "2026-01-26",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2026-01-29",
+      "downloads": 2
     }
   ],
   "package": "datasette-homepage-table",
