@@ -122,16 +122,6 @@
     },
     {
       "category": "null",
-      "date": "2025-08-04",
-      "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-08-05",
-      "downloads": 2
-    },
-    {
-      "category": "null",
       "date": "2025-08-06",
       "downloads": 3
     },
@@ -754,6 +744,16 @@
       "category": "null",
       "date": "2026-01-31",
       "downloads": 291
+    },
+    {
+      "category": "null",
+      "date": "2026-02-01",
+      "downloads": 65
+    },
+    {
+      "category": "null",
+      "date": "2026-02-02",
+      "downloads": 9
     }
   ],
   "package": "datasette-leaflet-freedraw",

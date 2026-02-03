@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-08-04",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
       "date": "2025-08-06",
       "downloads": 5
     },
@@ -59,16 +54,6 @@
       "category": "Darwin",
       "date": "2026-01-18",
       "downloads": 2
-    },
-    {
-      "category": "Linux",
-      "date": "2025-08-04",
-      "downloads": 2
-    },
-    {
-      "category": "Linux",
-      "date": "2025-08-05",
-      "downloads": 1
     },
     {
       "category": "Linux",
@@ -812,11 +797,6 @@
     },
     {
       "category": "null",
-      "date": "2025-08-05",
-      "downloads": 1
-    },
-    {
-      "category": "null",
       "date": "2025-08-06",
       "downloads": 1
     },
@@ -1204,6 +1184,16 @@
       "category": "null",
       "date": "2026-01-31",
       "downloads": 132
+    },
+    {
+      "category": "null",
+      "date": "2026-02-01",
+      "downloads": 26
+    },
+    {
+      "category": "null",
+      "date": "2026-02-02",
+      "downloads": 3
     }
   ],
   "package": "datasette-render-images",

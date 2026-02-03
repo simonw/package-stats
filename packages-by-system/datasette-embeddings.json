@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-08-05",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
       "date": "2025-08-12",
       "downloads": 2
     },
@@ -24,16 +19,6 @@
       "category": "Darwin",
       "date": "2025-12-31",
       "downloads": 2
-    },
-    {
-      "category": "Linux",
-      "date": "2025-08-04",
-      "downloads": 62
-    },
-    {
-      "category": "Linux",
-      "date": "2025-08-05",
-      "downloads": 60
     },
     {
       "category": "Linux",
@@ -899,6 +884,16 @@
       "category": "null",
       "date": "2026-01-31",
       "downloads": 123
+    },
+    {
+      "category": "null",
+      "date": "2026-02-01",
+      "downloads": 17
+    },
+    {
+      "category": "null",
+      "date": "2026-02-02",
+      "downloads": 2
     }
   ],
   "package": "datasette-embeddings",
