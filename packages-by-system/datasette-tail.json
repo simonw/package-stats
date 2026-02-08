@@ -122,11 +122,6 @@
     },
     {
       "category": "null",
-      "date": "2025-08-10",
-      "downloads": 2
-    },
-    {
-      "category": "null",
       "date": "2025-08-22",
       "downloads": 1
     },
@@ -504,6 +499,11 @@
       "category": "null",
       "date": "2026-02-03",
       "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2026-02-07",
+      "downloads": 20
     }
   ],
   "package": "datasette-tail",
