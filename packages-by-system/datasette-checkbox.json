@@ -67,11 +67,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-08-12",
-      "downloads": 51
-    },
-    {
-      "category": "Linux",
       "date": "2025-08-13",
       "downloads": 52
     },
@@ -657,11 +652,6 @@
     },
     {
       "category": "null",
-      "date": "2025-08-12",
-      "downloads": 1
-    },
-    {
-      "category": "null",
       "date": "2025-08-17",
       "downloads": 2
     },
@@ -1044,6 +1034,11 @@
       "category": "null",
       "date": "2026-02-08",
       "downloads": 13
+    },
+    {
+      "category": "null",
+      "date": "2026-02-09",
+      "downloads": 16
     }
   ],
   "package": "datasette-checkbox",
