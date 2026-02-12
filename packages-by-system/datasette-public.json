@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-08-14",
-      "downloads": 1
-    },
-    {
-      "category": "Darwin",
       "date": "2025-09-17",
       "downloads": 2
     },
@@ -49,11 +44,6 @@
       "category": "Darwin",
       "date": "2026-02-03",
       "downloads": 1
-    },
-    {
-      "category": "Linux",
-      "date": "2025-08-14",
-      "downloads": 78
     },
     {
       "category": "Linux",
@@ -254,6 +244,11 @@
       "category": "Linux",
       "date": "2026-02-08",
       "downloads": 3
+    },
+    {
+      "category": "Linux",
+      "date": "2026-02-11",
+      "downloads": 1
     },
     {
       "category": "Windows",
@@ -794,6 +789,11 @@
       "category": "null",
       "date": "2026-02-10",
       "downloads": 4
+    },
+    {
+      "category": "null",
+      "date": "2026-02-11",
+      "downloads": 49
     }
   ],
   "package": "datasette-public",
