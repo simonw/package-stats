@@ -621,6 +621,11 @@
       "downloads": 2
     },
     {
+      "category": "Windows",
+      "date": "2026-02-12",
+      "downloads": 1
+    },
+    {
       "category": "null",
       "date": "2025-08-17",
       "downloads": 1
@@ -1099,6 +1104,11 @@
       "category": "null",
       "date": "2026-02-11",
       "downloads": 33
+    },
+    {
+      "category": "null",
+      "date": "2026-02-12",
+      "downloads": 36
     }
   ],
   "package": "datasette-write",
