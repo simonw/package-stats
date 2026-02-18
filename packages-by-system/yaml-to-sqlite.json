@@ -27,11 +27,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-08-20",
-      "downloads": 12
-    },
-    {
-      "category": "Linux",
       "date": "2025-08-21",
       "downloads": 17
     },
@@ -931,6 +926,11 @@
       "downloads": 12
     },
     {
+      "category": "Linux",
+      "date": "2026-02-17",
+      "downloads": 12
+    },
+    {
       "category": "Windows",
       "date": "2025-12-02",
       "downloads": 3
@@ -1299,6 +1299,11 @@
       "category": "null",
       "date": "2026-02-12",
       "downloads": 10
+    },
+    {
+      "category": "null",
+      "date": "2026-02-17",
+      "downloads": 11
     }
   ],
   "package": "yaml-to-sqlite",

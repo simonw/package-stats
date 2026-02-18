@@ -341,6 +341,11 @@
       "downloads": 15
     },
     {
+      "category": "Linux",
+      "date": "2026-02-17",
+      "downloads": 3
+    },
+    {
       "category": "Windows",
       "date": "2025-08-28",
       "downloads": 2
@@ -804,6 +809,11 @@
       "category": "null",
       "date": "2026-02-14",
       "downloads": 81
+    },
+    {
+      "category": "null",
+      "date": "2026-02-17",
+      "downloads": 3
     }
   ],
   "package": "datasette-upload-dbs",
