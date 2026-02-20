@@ -31,8 +31,8 @@
       "downloads": 1
     },
     {
-      "category": "Linux",
-      "date": "2025-08-22",
+      "category": "Darwin",
+      "date": "2026-02-18",
       "downloads": 1
     },
     {
@@ -346,6 +346,11 @@
       "downloads": 3
     },
     {
+      "category": "Linux",
+      "date": "2026-02-18",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2025-08-28",
       "downloads": 2
@@ -354,11 +359,6 @@
       "category": "Windows",
       "date": "2026-01-31",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-08-21",
-      "downloads": 1
     },
     {
       "category": "null",
@@ -814,6 +814,16 @@
       "category": "null",
       "date": "2026-02-17",
       "downloads": 3
+    },
+    {
+      "category": "null",
+      "date": "2026-02-18",
+      "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2026-02-19",
+      "downloads": 1
     }
   ],
   "package": "datasette-upload-dbs",
