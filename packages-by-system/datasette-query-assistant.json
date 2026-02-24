@@ -112,11 +112,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-08-26",
-      "downloads": 52
-    },
-    {
-      "category": "Linux",
       "date": "2025-08-27",
       "downloads": 53
     },
@@ -1016,6 +1011,11 @@
       "downloads": 2
     },
     {
+      "category": "Linux",
+      "date": "2026-02-23",
+      "downloads": 2
+    },
+    {
       "category": "Windows",
       "date": "2025-10-10",
       "downloads": 4
@@ -1479,6 +1479,11 @@
       "category": "null",
       "date": "2026-02-22",
       "downloads": 5
+    },
+    {
+      "category": "null",
+      "date": "2026-02-23",
+      "downloads": 1
     }
   ],
   "package": "datasette-query-assistant",
