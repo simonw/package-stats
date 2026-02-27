@@ -51,6 +51,11 @@
       "downloads": 2
     },
     {
+      "category": "Darwin",
+      "date": "2026-02-26",
+      "downloads": 2
+    },
+    {
       "category": "Linux",
       "date": "2025-09-01",
       "downloads": 1
@@ -257,11 +262,6 @@
     },
     {
       "category": "Windows",
-      "date": "2025-08-28",
-      "downloads": 2
-    },
-    {
-      "category": "Windows",
       "date": "2025-11-27",
       "downloads": 2
     },
@@ -274,16 +274,6 @@
       "category": "Windows",
       "date": "2026-01-31",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-08-28",
-      "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-08-29",
-      "downloads": 1
     },
     {
       "category": "null",
@@ -684,6 +674,16 @@
       "category": "null",
       "date": "2026-02-24",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2026-02-25",
+      "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2026-02-26",
+      "downloads": 2
     }
   ],
   "package": "datasette-statistics",

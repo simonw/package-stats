@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-08-28",
-      "downloads": 2
-    },
-    {
-      "category": "Darwin",
       "date": "2025-09-01",
       "downloads": 2
     },
@@ -361,14 +356,9 @@
       "downloads": 2
     },
     {
-      "category": "Linux",
-      "date": "2025-08-28",
-      "downloads": 27
-    },
-    {
-      "category": "Linux",
-      "date": "2025-08-29",
-      "downloads": 31
+      "category": "Darwin",
+      "date": "2026-02-26",
+      "downloads": 2
     },
     {
       "category": "Linux",
@@ -1266,9 +1256,14 @@
       "downloads": 45
     },
     {
-      "category": "Windows",
-      "date": "2025-08-29",
-      "downloads": 2
+      "category": "Linux",
+      "date": "2026-02-25",
+      "downloads": 46
+    },
+    {
+      "category": "Linux",
+      "date": "2026-02-26",
+      "downloads": 74
     },
     {
       "category": "Windows",
@@ -1308,16 +1303,6 @@
     {
       "category": "Windows",
       "date": "2026-02-15",
-      "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-08-28",
-      "downloads": 3
-    },
-    {
-      "category": "null",
-      "date": "2025-08-29",
       "downloads": 2
     },
     {
@@ -1894,6 +1879,16 @@
       "category": "null",
       "date": "2026-02-23",
       "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2026-02-25",
+      "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2026-02-26",
+      "downloads": 9
     }
   ],
   "package": "datasette-publish-vercel",
