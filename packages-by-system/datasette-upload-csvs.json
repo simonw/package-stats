@@ -606,6 +606,11 @@
       "downloads": 17
     },
     {
+      "category": "Linux",
+      "date": "2026-02-28",
+      "downloads": 2
+    },
+    {
       "category": "Windows",
       "date": "2025-09-24",
       "downloads": 2
@@ -1204,6 +1209,11 @@
       "category": "null",
       "date": "2026-02-27",
       "downloads": 8
+    },
+    {
+      "category": "null",
+      "date": "2026-02-28",
+      "downloads": 18
     }
   ],
   "package": "datasette-upload-csvs",
