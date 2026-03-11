@@ -7,11 +7,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-09-10",
-      "downloads": 37
-    },
-    {
-      "category": "Linux",
       "date": "2025-09-11",
       "downloads": 49
     },
@@ -684,6 +679,11 @@
       "category": "null",
       "date": "2026-03-09",
       "downloads": 3
+    },
+    {
+      "category": "null",
+      "date": "2026-03-10",
+      "downloads": 2
     }
   ],
   "package": "datasette-proxy-url",
