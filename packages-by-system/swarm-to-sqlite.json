@@ -76,6 +76,11 @@
       "downloads": 2
     },
     {
+      "category": "Linux",
+      "date": "2026-03-17",
+      "downloads": 1
+    },
+    {
       "category": "null",
       "date": "2025-09-21",
       "downloads": 5
@@ -379,6 +384,11 @@
       "category": "null",
       "date": "2026-03-13",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2026-03-17",
+      "downloads": 7
     }
   ],
   "package": "swarm-to-sqlite",
