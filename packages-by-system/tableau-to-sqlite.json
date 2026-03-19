@@ -1,9 +1,9 @@
 {
   "data": [
     {
-      "category": "Linux",
-      "date": "2025-09-18",
-      "downloads": 1
+      "category": "Darwin",
+      "date": "2026-03-18",
+      "downloads": 2
     },
     {
       "category": "Linux",
@@ -919,6 +919,11 @@
       "category": "null",
       "date": "2026-03-17",
       "downloads": 1
+    },
+    {
+      "category": "null",
+      "date": "2026-03-18",
+      "downloads": 16
     }
   ],
   "package": "tableau-to-sqlite",
