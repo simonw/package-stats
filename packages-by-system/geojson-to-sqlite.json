@@ -57,11 +57,6 @@
     },
     {
       "category": "Linux",
-      "date": "2025-09-25",
-      "downloads": 4
-    },
-    {
-      "category": "Linux",
       "date": "2025-09-26",
       "downloads": 6
     },
@@ -961,6 +956,11 @@
       "downloads": 6
     },
     {
+      "category": "Linux",
+      "date": "2026-03-25",
+      "downloads": 60
+    },
+    {
       "category": "Windows",
       "date": "2025-11-19",
       "downloads": 2
@@ -1384,6 +1384,11 @@
       "category": "null",
       "date": "2026-03-24",
       "downloads": 6
+    },
+    {
+      "category": "null",
+      "date": "2026-03-25",
+      "downloads": 1
     }
   ],
   "package": "geojson-to-sqlite",

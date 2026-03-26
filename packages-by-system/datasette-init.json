@@ -421,6 +421,11 @@
       "downloads": 4
     },
     {
+      "category": "Linux",
+      "date": "2026-03-25",
+      "downloads": 22
+    },
+    {
       "category": "Windows",
       "date": "2026-01-31",
       "downloads": 2
@@ -429,11 +434,6 @@
       "category": "Windows",
       "date": "2026-03-19",
       "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-09-25",
-      "downloads": 1
     },
     {
       "category": "null",
@@ -769,6 +769,11 @@
       "category": "null",
       "date": "2026-03-22",
       "downloads": 6
+    },
+    {
+      "category": "null",
+      "date": "2026-03-25",
+      "downloads": 1
     }
   ],
   "package": "datasette-init",
