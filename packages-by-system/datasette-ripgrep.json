@@ -312,11 +312,6 @@
     },
     {
       "category": "null",
-      "date": "2025-09-28",
-      "downloads": 1
-    },
-    {
-      "category": "null",
       "date": "2025-09-29",
       "downloads": 15
     },
@@ -819,6 +814,11 @@
       "category": "null",
       "date": "2026-03-27",
       "downloads": 2
+    },
+    {
+      "category": "null",
+      "date": "2026-03-28",
+      "downloads": 15
     }
   ],
   "package": "datasette-ripgrep",
