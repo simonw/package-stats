@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-10-06",
-      "downloads": 1
-    },
-    {
-      "category": "Darwin",
       "date": "2025-10-09",
       "downloads": 2
     },
@@ -279,16 +274,6 @@
       "category": "Darwin",
       "date": "2026-04-04",
       "downloads": 4
-    },
-    {
-      "category": "Linux",
-      "date": "2025-10-06",
-      "downloads": 15
-    },
-    {
-      "category": "Linux",
-      "date": "2025-10-07",
-      "downloads": 9
     },
     {
       "category": "Linux",
@@ -1186,6 +1171,16 @@
       "downloads": 21
     },
     {
+      "category": "Linux",
+      "date": "2026-04-05",
+      "downloads": 9
+    },
+    {
+      "category": "Linux",
+      "date": "2026-04-06",
+      "downloads": 56
+    },
+    {
       "category": "Windows",
       "date": "2025-10-10",
       "downloads": 2
@@ -1318,11 +1313,6 @@
     {
       "category": "Windows",
       "date": "2026-03-25",
-      "downloads": 2
-    },
-    {
-      "category": "null",
-      "date": "2025-10-06",
       "downloads": 2
     },
     {
@@ -1739,6 +1729,11 @@
       "category": "null",
       "date": "2026-04-04",
       "downloads": 9
+    },
+    {
+      "category": "null",
+      "date": "2026-04-05",
+      "downloads": 1
     }
   ],
   "package": "datasette-copyable",

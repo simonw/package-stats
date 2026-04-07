@@ -2,16 +2,6 @@
   "data": [
     {
       "category": "Darwin",
-      "date": "2025-10-06",
-      "downloads": 457
-    },
-    {
-      "category": "Darwin",
-      "date": "2025-10-07",
-      "downloads": 534
-    },
-    {
-      "category": "Darwin",
       "date": "2025-10-08",
       "downloads": 491
     },
@@ -906,14 +896,14 @@
       "downloads": 467
     },
     {
-      "category": "Linux",
-      "date": "2025-10-06",
-      "downloads": 16508
+      "category": "Darwin",
+      "date": "2026-04-05",
+      "downloads": 348
     },
     {
-      "category": "Linux",
-      "date": "2025-10-07",
-      "downloads": 20235
+      "category": "Darwin",
+      "date": "2026-04-06",
+      "downloads": 505
     },
     {
       "category": "Linux",
@@ -1811,14 +1801,14 @@
       "downloads": 13675
     },
     {
-      "category": "Windows",
-      "date": "2025-10-06",
-      "downloads": 731
+      "category": "Linux",
+      "date": "2026-04-05",
+      "downloads": 16076
     },
     {
-      "category": "Windows",
-      "date": "2025-10-07",
-      "downloads": 837
+      "category": "Linux",
+      "date": "2026-04-06",
+      "downloads": 23533
     },
     {
       "category": "Windows",
@@ -2716,14 +2706,14 @@
       "downloads": 508
     },
     {
-      "category": "null",
-      "date": "2025-10-06",
-      "downloads": 164
+      "category": "Windows",
+      "date": "2026-04-05",
+      "downloads": 508
     },
     {
-      "category": "null",
-      "date": "2025-10-07",
-      "downloads": 173
+      "category": "Windows",
+      "date": "2026-04-06",
+      "downloads": 648
     },
     {
       "category": "null",
@@ -3621,14 +3611,14 @@
       "downloads": 262
     },
     {
-      "category": "other",
-      "date": "2025-10-06",
-      "downloads": 2
+      "category": "null",
+      "date": "2026-04-05",
+      "downloads": 112
     },
     {
-      "category": "other",
-      "date": "2025-10-07",
-      "downloads": 1
+      "category": "null",
+      "date": "2026-04-06",
+      "downloads": 138
     },
     {
       "category": "other",
@@ -4164,6 +4154,16 @@
       "category": "other",
       "date": "2026-04-04",
       "downloads": 28
+    },
+    {
+      "category": "other",
+      "date": "2026-04-05",
+      "downloads": 19
+    },
+    {
+      "category": "other",
+      "date": "2026-04-06",
+      "downloads": 21
     }
   ],
   "package": "sqlite-utils",
