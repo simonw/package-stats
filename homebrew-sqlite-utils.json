@@ -9,17 +9,17 @@
   "license": "Apache-2.0",
   "homepage": "https://sqlite-utils.datasette.io/",
   "versions": {
-    "stable": "4.1",
+    "stable": "4.1.1",
     "head": "HEAD",
     "bottle": true
   },
   "urls": {
     "stable": {
-      "url": "https://files.pythonhosted.org/packages/aa/97/101ae34f13ba2878ed9bb53848b248f8d34473bc821cc809858929e9ba68/sqlite_utils-4.1.tar.gz",
+      "url": "https://files.pythonhosted.org/packages/83/c1/fa8563039ec30b5cc6a532271e8cf90da37e4c649a3ad80b49fb6a39023e/sqlite_utils-4.1.1.tar.gz",
       "tag": null,
       "revision": null,
       "using": null,
-      "checksum": "70893f5bba2330bf83d6a84bdf9cd6164a566ece377d0447f162e76e4b9ae74b"
+      "checksum": "cf97e620b3940cd541cae9117cc24af961a6da426189fdb662f20f1950ba1f49"
     },
     "head": {
       "url": "https://github.com/simonw/sqlite-utils.git",
@@ -41,8 +41,8 @@
       "files": {
         "all": {
           "cellar": ":any_skip_relocation",
-          "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:1060497d1509b3fd864583a821170d21d58b94a2ad6c460d3514737cc82a18f8",
-          "sha256": "1060497d1509b3fd864583a821170d21d58b94a2ad6c460d3514737cc82a18f8"
+          "url": "https://ghcr.io/v2/homebrew/core/sqlite-utils/blobs/sha256:0588c46da4e3c57b3cf21f6a67f440d00eb5fb5d995f2b43e346c3919c057fdf",
+          "sha256": "0588c46da4e3c57b3cf21f6a67f440d00eb5fb5d995f2b43e346c3919c057fdf"
         }
       }
     }
@@ -84,10 +84,10 @@
   "post_install_steps": [],
   "post_install_defined": false,
   "service": null,
-  "tap_git_head": "7777a34439b22630233caa93268c175864ee66ec",
+  "tap_git_head": "fd4c4f02b81ee1134c87feb706433a8899175419",
   "ruby_source_path": "Formula/s/sqlite-utils.rb",
   "ruby_source_checksum": {
-    "sha256": "1c4acca2599ce69c0cd14b1c3ec9a10cbc868061adc08e4cceb10f2aa7185947"
+    "sha256": "cd00424db194c2ccd326e9bf2de17949ea07840f384ec4a3d475b61e3a77e4e4"
   },
   "variations": {},
   "executables": [
@@ -96,29 +96,29 @@
   "analytics": {
     "install": {
       "30d": {
-        "sqlite-utils": 300,
+        "sqlite-utils": 328,
         "sqlite-utils --HEAD": 1
       },
       "90d": {
-        "sqlite-utils": 445,
+        "sqlite-utils": 472,
         "sqlite-utils --HEAD": 1
       },
       "365d": {
-        "sqlite-utils": 1642,
+        "sqlite-utils": 1669,
         "sqlite-utils --HEAD": 2
       }
     },
     "install_on_request": {
       "30d": {
-        "sqlite-utils": 300,
+        "sqlite-utils": 329,
         "sqlite-utils --HEAD": 1
       },
       "90d": {
-        "sqlite-utils": 444,
+        "sqlite-utils": 472,
         "sqlite-utils --HEAD": 1
       },
       "365d": {
-        "sqlite-utils": 1637,
+        "sqlite-utils": 1665,
         "sqlite-utils --HEAD": 2
       }
     },
@@ -128,5 +128,5 @@
       }
     }
   },
-  "generated_date": "2026-07-13"
+  "generated_date": "2026-07-14"
 }
