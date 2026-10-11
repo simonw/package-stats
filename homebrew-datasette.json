@@ -36,33 +36,33 @@
   "skip_livecheck": false,
   "bottle": {
     "stable": {
-      "rebuild": 0,
+      "rebuild": 1,
       "root_url": "https://ghcr.io/v2/homebrew/core",
       "files": {
         "arm64_golden_gate": {
           "cellar": ":any",
-          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:68f2c0c1cfe3b4a1fc002c5195560da1798949aa199cfcb01a4b1b320c09bb93",
-          "sha256": "68f2c0c1cfe3b4a1fc002c5195560da1798949aa199cfcb01a4b1b320c09bb93"
+          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:3e05ab77d7e4291bc47277dba39c2d8e79b48088711234ab5e08ddf364b29050",
+          "sha256": "3e05ab77d7e4291bc47277dba39c2d8e79b48088711234ab5e08ddf364b29050"
         },
         "arm64_tahoe": {
           "cellar": ":any",
-          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:213d8cb6ceac9101985be5d9400413ae5a6fc70e8a674d991174596c77234f6a",
-          "sha256": "213d8cb6ceac9101985be5d9400413ae5a6fc70e8a674d991174596c77234f6a"
+          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:8084224fd4f055d917a7b39016ab3494aacfa4ae8a7aea65ba7eaae8304c2a3c",
+          "sha256": "8084224fd4f055d917a7b39016ab3494aacfa4ae8a7aea65ba7eaae8304c2a3c"
         },
         "arm64_sequoia": {
           "cellar": ":any",
-          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:64051dc567ba7ea77913df29be416a744f137fcd675e02be2bc4eec000d92b76",
-          "sha256": "64051dc567ba7ea77913df29be416a744f137fcd675e02be2bc4eec000d92b76"
+          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:4cc8cf7c84e2b515a1d9add3a9d8babfda33ee514339fd58750e188958f8303c",
+          "sha256": "4cc8cf7c84e2b515a1d9add3a9d8babfda33ee514339fd58750e188958f8303c"
         },
         "arm64_linux": {
           "cellar": ":any",
-          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:a4c1f8d0b8a970395864aedb1cd945b307041a0d712bece935d3cffdc3c1718a",
-          "sha256": "a4c1f8d0b8a970395864aedb1cd945b307041a0d712bece935d3cffdc3c1718a"
+          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:fe8e264df8df38ba487cecb38b71340023c0253a970a3973ea3ba89fa4071f17",
+          "sha256": "fe8e264df8df38ba487cecb38b71340023c0253a970a3973ea3ba89fa4071f17"
         },
         "x86_64_linux": {
           "cellar": ":any",
-          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:27c2729b44ac421858b3be802e8982839c97444212a0574236f117621850a49b",
-          "sha256": "27c2729b44ac421858b3be802e8982839c97444212a0574236f117621850a49b"
+          "url": "https://ghcr.io/v2/homebrew/core/datasette/blobs/sha256:cfe3f1a32eed8e464bb010a72882d71058caf5f989e2e33b94723cdabfe789d7",
+          "sha256": "cfe3f1a32eed8e464bb010a72882d71058caf5f989e2e33b94723cdabfe789d7"
         }
       }
     }
@@ -75,7 +75,7 @@
   "dependencies": [
     "certifi",
     "libyaml",
-    "python@3.14"
+    "python@3.15"
   ],
   "test_dependencies": [],
   "recommended_dependencies": [],
@@ -106,10 +106,10 @@
   "post_install_steps": [],
   "post_install_defined": false,
   "service": null,
-  "tap_git_head": "20efbab383b87eedcf4ace4939a64a9ea0b8a395",
+  "tap_git_head": "3b9f7e9fc768a951a1ab87e5b6d7a6ef96fff95f",
   "ruby_source_path": "Formula/d/datasette.rb",
   "ruby_source_checksum": {
-    "sha256": "4ede1924fa364b908969eacb96d10c76c5370ba8053dc6a5b9a060e0721f21e1"
+    "sha256": "2c471119350da75aabdf056feaacacd2873f2a407f7191a777e266e7a5296682"
   },
   "variations": {},
   "executables": [
